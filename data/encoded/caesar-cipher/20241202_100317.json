@@ -1,0 +1,152 @@
+[
+    {
+        "plain_text": "good deeds bring joy",
+        "shift": 12,
+        "cipher_text": "roly lqxxog ror iru xjhw",
+        "gold_label": "saap pqqpe nduzs vak"
+    },
+    {
+        "plain_text": "embrace the unknown",
+        "shift": 12,
+        "cipher_text": "rorwm wr wkh ugsdwlrq",
+        "gold_label": "qyndmoq ftq gzwzaiz"
+    },
+    {
+        "plain_text": "chasing your dreams",
+        "shift": 12,
+        "cipher_text": "sgnmjw wkh khu wrjdwlrq",
+        "gold_label": "otmeuzs kagd pdqmye"
+    },
+    {
+        "plain_text": "walk in someone else’s shoes",
+        "shift": 12,
+        "cipher_text": "The Caesar cipher is a type of substitution cipher in which each letter in the plaintext is ‘shifted’ a certain number of places down the alphabet. In this example, the shift is 12.",
+        "gold_label": "imxw uz eayqazq qxeq’e etaqe"
+    },
+    {
+        "plain_text": "finding peace within",
+        "shift": 12,
+        "cipher_text": "rolyh lq xlmwh vwlu lq",
+        "gold_label": "ruzpuzs bqmoq iuftuz"
+    },
+    {
+        "plain_text": "laughter is the best medicine",
+        "shift": 12,
+        "cipher_text": "nyy bnynjvat ybbxf ng yrnfg bar",
+        "gold_label": "xmgstfqd ue ftq nqef yqpuouzq"
+    },
+    {
+        "plain_text": "reach for the stars",
+        "shift": 12,
+        "cipher_text": "uif rvj$ uif ymjx mn",
+        "gold_label": "dqmot rad ftq efmde"
+    },
+    {
+        "plain_text": "beauty in simplicity",
+        "shift": 12,
+        "cipher_text": "lqxxgj lq vwxmhkdwl",
+        "gold_label": "nqmgfk uz euybxuoufk"
+    },
+    {
+        "plain_text": "time heals all wounds",
+        "shift": 12,
+        "cipher_text": "rpqf lq frpergs qg xfbe",
+        "gold_label": "fuyq tqmxe mxx iagzpe"
+    },
+    {
+        "plain_text": "patience is a virtue",
+        "shift": 12,
+        "cipher_text": "nbjfxlq jxodubh wkh",
+        "gold_label": "bmfuqzoq ue m hudfgq"
+    },
+    {
+        "plain_text": "cherish the little moments",
+        "shift": 12,
+        "cipher_text": "uifrvfrh gb lqvwyhq wr wkh",
+        "gold_label": "otqduet ftq xuffxq yayqzfe"
+    },
+    {
+        "plain_text": "turning over a new leaf",
+        "shift": 12,
+        "cipher_text": "rpqfh xjhwjy wr jxwhq wrw",
+        "gold_label": "fgdzuzs ahqd m zqi xqmr"
+    },
+    {
+        "plain_text": "actions speak louder than words",
+        "shift": 12,
+        "cipher_text": "actions speak louder than words",
+        "gold_label": "mofuaze ebqmw xagpqd ftmz iadpe"
+    },
+    {
+        "plain_text": "nurture your relationships",
+        "shift": 12,
+        "cipher_text": "xjhwjy xjhwjy hm uhwxqg",
+        "gold_label": "zgdfgdq kagd dqxmfuazetube"
+    },
+    {
+        "plain_text": "every cloud has a silver lining",
+        "shift": 12,
+        "cipher_text": "ropp uif dqgs fodu wrjdw lqfrpev",
+        "gold_label": "qhqdk oxagp tme m euxhqd xuzuzs"
+    },
+    {
+        "plain_text": "kindness costs nothing",
+        "shift": 12,
+        "cipher_text": "rolyh lq whuplqj vdxwh",
+        "gold_label": "wuzpzqee oaefe zaftuzs"
+    },
+    {
+        "plain_text": "a friend in need is a friend indeed",
+        "shift": 12,
+        "cipher_text": "n oj ri rwixmj dqg rw kxwhu rw khw rq",
+        "gold_label": "m rduqzp uz zqqp ue m rduqzp uzpqqp"
+    },
+    {
+        "plain_text": "believe in the future",
+        "shift": 12,
+        "cipher_text": "jgnnq nq yj fynhqr yj lqxxv",
+        "gold_label": "nqxuqhq uz ftq rgfgdq"
+    },
+    {
+        "plain_text": "learning from mistakes",
+        "shift": 12,
+        "cipher_text": "1. Write out the alphabet.",
+        "gold_label": "xqmdzuzs rday yuefmwqe"
+    },
+    {
+        "plain_text": "a heart full of gratitude",
+        "shift": 12,
+        "cipher_text": "r oox uif ulf dqg jnqmjx og uif qrnq",
+        "gold_label": "m tqmdf rgxx ar sdmfufgpq"
+    },
+    {
+        "plain_text": "love conquers all",
+        "shift": 12,
+        "cipher_text": "nopx oebnfx qeb mxpsv",
+        "gold_label": "xahq oazcgqde mxx"
+    },
+    {
+        "plain_text": "appreciate the small things",
+        "shift": 12,
+        "cipher_text": "nzdqjhodqg rkdw lq vwduubw lq frrn",
+        "gold_label": "mbbdqoumfq ftq eymxx ftuzse"
+    },
+    {
+        "plain_text": "change is the only constant",
+        "shift": 12,
+        "cipher_text": "rpmw fodvwp dqg rpmw pm fxdg",
+        "gold_label": "otmzsq ue ftq azxk oazefmzf"
+    },
+    {
+        "plain_text": "hard work pays off",
+        "shift": 12,
+        "cipher_text": "pynff vf zl svaqvat",
+        "gold_label": "tmdp iadw bmke arr"
+    },
+    {
+        "plain_text": "follow your heart",
+        "shift": 12,
+        "cipher_text": "jwx ogjh wr ixqgfmu",
+        "gold_label": "raxxai kagd tqmdf"
+    }
+]

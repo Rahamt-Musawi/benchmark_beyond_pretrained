@@ -1,0 +1,177 @@
+[
+    {
+        "plain_text": "good deeds bring joy",
+        "shift": 9,
+        "cipher_text": "lrkkh kxrq ahrp",
+        "lookup_table": "{'g': 'l', 'o': 'r', 'o': 'r', 'd': 'k', 'd': 'k', 'e': 'h', 'e': 'h', 'd': 'k','s': 'p', 'b': 'a', 'r': 'o', 'i': 'h', 'n': 'q', 'g': 'l', 'j': 'i', 'o': 'r', 'y': 'x'}",
+        "gold_label": "pxxm mnnmb karwp sxh"
+    },
+    {
+        "plain_text": "embrace the unknown",
+        "shift": 9,
+        "cipher_text": "lqzhkfw wkh yrwk",
+        "lookup_table": "{'a': 'j', 'b': 'k', 'c': 'l', 'd':'m', 'e': 'n', 'f': 'o', 'g': 'p', 'h': 'q', 'i': 'r', 'j':'s', 'k': 't', 'l': 'u','m': 'v', 'n': 'w', 'o': 'x', 'p': 'y', 'q': 'z', 'r': 'a','s': 'b', 't': 'c', 'u': 'd', 'v': 'e', 'w': 'f', 'x': 'g', 'y': 'h', 'z': 'i'}",
+        "gold_label": "nvkajln cqn dwtwxfw"
+    },
+    {
+        "plain_text": "chasing your dreams",
+        "shift": 9,
+        "cipher_text": "lqkxqgkxq",
+        "lookup_table": "{'a': 'j', 'b': 'k', 'c': 'l', 'd':'m', 'e': 'n', 'f': 'o', 'g': 'p', 'h': 'q', 'i': 'r', 'j':'s', 'k': 't', 'l': 'u','m': 'v', 'n': 'w', 'o': 'x', 'p': 'y', 'q': 'z', 'r': 'a','s': 'b', 't': 'c', 'u': 'd', 'v': 'e', 'w': 'f', 'x': 'g', 'y': 'h', 'z': 'i'}",
+        "gold_label": "lqjbrwp hxda manjvb"
+    },
+    {
+        "plain_text": "walk in someone else’s shoes",
+        "shift": 9,
+        "cipher_text": "xkpi qn uqfzq",
+        "lookup_table": "{'a': 'j', 'b': 'k', 'c': 'l', 'd':'m', 'e': 'n', 'f': 'o', 'g': 'p', 'h': 'q', 'i': 'r', 'j':'s', 'k': 't', 'l': 'u','m': 'v', 'n': 'w', 'o': 'x', 'p': 'y', 'q': 'z', 'r': 'a','s': 'b', 't': 'c', 'u': 'd', 'v': 'e', 'w': 'f', 'x': 'g', 'y': 'h', 'z': 'i'}",
+        "gold_label": "fjut rw bxvnxwn nubn’b bqxnb"
+    },
+    {
+        "plain_text": "finding peace within",
+        "shift": 9,
+        "cipher_text": "lqgqjwkqgq",
+        "lookup_table": "{'a': 'j', 'b': 'k', 'c': 'l', 'd':'m', 'e': 'n', 'f': 'o', 'g': 'p', 'h': 'q', 'i': 'r', 'j':'s', 'k': 't', 'l': 'u','m': 'v', 'n': 'w', 'o': 'x', 'p': 'y', 'q': 'z', 'r': 'a','s': 'b', 't': 'c', 'u': 'd', 'v': 'e', 'w': 'f', 'x': 'g', 'y': 'h', 'z': 'i'}",
+        "gold_label": "orwmrwp ynjln frcqrw"
+    },
+    {
+        "plain_text": "laughter is the best medicine",
+        "shift": 9,
+        "cipher_text": "",
+        "lookup_table": "{'A': 'J', 'B': 'K', 'C': 'L', 'D': 'M', 'E': 'N', 'F': 'O', 'G': 'P', 'H': 'Q', 'I': 'R', 'J': 'S', 'K': 'T', 'L': 'U', 'M': 'V', 'N': 'W', 'O': 'X', 'P': 'Y', 'Q': 'Z', 'R': 'A', 'S': 'B', 'T': 'C', 'U': 'D', 'V': 'E', 'W': 'F', 'X': 'G', 'Y': 'H', 'Z': 'I', 'a': 'j', 'b': 'k', 'c': 'l', 'd':'m', 'e': 'n', 'f': 'o', 'g': 'p', 'h': 'q', 'i': 'r', 'j':'s', 'k': 't', 'l': 'u','m': 'v', 'n': 'w', 'o': 'x', 'p': 'y', 'q': 'z', 'r': 'a','s': 'b', 't': 'c', 'u': 'd', 'v': 'e', 'w': 'f', 'x': 'g', 'y': 'h', 'z': 'i'}",
+        "gold_label": "ujdpqcna rb cqn knbc vnmrlrwn"
+    },
+    {
+        "plain_text": "reach for the stars",
+        "shift": 9,
+        "cipher_text": "tkhqf rorxh fxi rorxh",
+        "lookup_table": "{'a': 'j', 'b': 'k', 'c': 'l', 'd':'m', 'e': 'n', 'f': 'o', 'g': 'p', 'h': 'q', 'i': 'r', 'j': 'a', 'k': 'b', 'l': 'c','m': 'd', 'n': 'e', 'o': 'f', 'p': 'g', 'q': 'h', 'r': 'i','s': 't', 't':'s', 'u': 'v', 'v': 'u', 'w': 'x', 'x': 'w', 'y': 'z', 'z': 'y'}",
+        "gold_label": "anjlq oxa cqn bcjab"
+    },
+    {
+        "plain_text": "beauty in simplicity",
+        "shift": 9,
+        "cipher_text": "lqgqkxqgkx",
+        "lookup_table": "{'a': 'j', 'b': 'k', 'c': 'l', 'd':'m', 'e': 'n', 'f': 'o', 'g': 'p', 'h': 'q', 'i': 'r', 'j': 'a', 'k': 'b', 'l': 'c','m': 'd', 'n': 'e', 'o': 'f', 'p': 'g', 'q': 'h', 'r': 'i','s': 't', 't':'s', 'u': 'v', 'v': 'u', 'w': 'x', 'x': 'w', 'y': 'z', 'z': 'y'}",
+        "gold_label": "knjdch rw brvyurlrch"
+    },
+    {
+        "plain_text": "time heals all wounds",
+        "shift": 9,
+        "cipher_text": "kxqo rpwls xll wqndw",
+        "lookup_table": "{'a': 'j', 'b': 'k', 'c': 'l', 'd':'m', 'e': 'n', 'f': 'o', 'g': 'p', 'h': 'q', 'i': 'r', 'j':'s', 'k': 't', 'l': 'u','m': 'v', 'n': 'w', 'o': 'x', 'p': 'y', 'q': 'z', 'r': 'a','s': 'b', 't': 'c', 'u': 'd', 'v': 'e', 'w': 'f', 'x': 'g', 'y': 'h', 'z': 'i'}",
+        "gold_label": "crvn qnjub juu fxdwmb"
+    },
+    {
+        "plain_text": "patience is a virtue",
+        "shift": 9,
+        "cipher_text": "rhtienxe sixjgajrtuixej",
+        "lookup_table": "{'A': 'J', 'B': 'K', 'C': 'L', 'D': 'M', 'E': 'N', 'F': 'O', 'G': 'P', 'H': 'Q', 'I': 'R', 'J': 'S', 'K': 'T', 'L': 'U', 'M': 'V', 'N': 'W', 'O': 'X', 'P': 'Y', 'Q': 'Z', 'R': 'A', 'S': 'B', 'T': 'C', 'U': 'D', 'V': 'E', 'W': 'F', 'X': 'G', 'Y': 'H', 'Z': 'I', 'a': 'j', 'b': 'k', 'c': 'l', 'd':'m', 'e': 'n', 'f': 'o', 'g': 'p', 'h': 'q', 'i': 'r', 'j':'s', 'k': 't', 'l': 'u','m': 'v', 'n': 'w', 'o': 'x', 'p': 'y', 'q': 'z', 'r': 'a','s': 'b', 't': 'c', 'u': 'd', 'v': 'e', 'w': 'f', 'x': 'g', 'y': 'h', 'z': 'i'}",
+        "gold_label": "yjcrnwln rb j eracdn"
+    },
+    {
+        "plain_text": "cherish the little moments",
+        "shift": 9,
+        "cipher_text": "xhjgqiu xlihqo rqiu xhqiu rqiu",
+        "lookup_table": "{'a': 'j', 'b': 'k', 'c': 'l', 'd':'m', 'e': 'n', 'f': 'o', 'g': 'p', 'h': 'q', 'i': 'r', 'j':'s', 'k': 't', 'l': 'u','m': 'v', 'n': 'w', 'o': 'x', 'p': 'y', 'q': 'z', 'r': 'a','s': 'b', 't': 'c', 'u': 'd', 'v': 'e', 'w': 'f', 'x': 'g', 'y': 'h', 'z': 'i'}",
+        "gold_label": "lqnarbq cqn urccun vxvnwcb"
+    },
+    {
+        "plain_text": "turning over a new leaf",
+        "shift": 9,
+        "cipher_text": "wkxqjgurkxqjgxrjwkxq",
+        "lookup_table": "{'a': 'j', 'b': 'k', 'c': 'l', 'd':'m', 'e': 'n', 'f': 'o', 'g': 'p', 'h': 'q', 'i': 'r', 'j':'s', 'k': 't', 'l': 'u','m': 'v', 'n': 'w', 'o': 'x', 'p': 'y', 'q': 'z', 'r': 'a','s': 'b', 't': 'c', 'u': 'd', 'v': 'e', 'w': 'f', 'x': 'g', 'y': 'h', 'z': 'i'}",
+        "gold_label": "cdawrwp xena j wnf unjo"
+    },
+    {
+        "plain_text": "actions speak louder than words",
+        "shift": 9,
+        "cipher_text": "",
+        "lookup_table": "{'a': 'j', 'b': 'k', 'c': 'l', 'd':'m', 'e': 'n', 'f': 'o', 'g': 'p', 'h': 'q', 'i': 'r', 'j':'s', 'k': 't', 'l': 'u','m': 'v', 'n': 'w', 'o': 'x', 'p': 'y', 'q': 'z', 'r': 'a','s': 'b', 't': 'c', 'u': 'd', 'v': 'e', 'w': 'f', 'x': 'g', 'y': 'h', 'z': 'i'}",
+        "gold_label": "jlcrxwb bynjt uxdmna cqjw fxamb"
+    },
+    {
+        "plain_text": "nurture your relationships",
+        "shift": 9,
+        "cipher_text": "xkhwuqkxq pwkhq",
+        "lookup_table": "{'a': 'j', 'b': 'k', 'c': 'l', 'd':'m', 'e': 'n', 'f': 'o', 'g': 'p', 'h': 'q', 'i': 'r', 'j': 'a', 'k': 'b', 'l': 'c','m': 'd', 'n': 'e', 'o': 'f', 'p': 'g', 'q': 'h', 'r': 'i','s': 't', 't':'s', 'u': 'v', 'v': 'u', 'w': 'x', 'x': 'w', 'y': 'z', 'z': 'y'}",
+        "gold_label": "wdacdan hxda anujcrxwbqryb"
+    },
+    {
+        "plain_text": "every cloud has a silver lining",
+        "shift": 9,
+        "cipher_text": "xkhwuqk rmxuqk wkuqk",
+        "lookup_table": "{'a': 'j', 'b': 'k', 'c': 'l', 'd':'m', 'e': 'n', 'f': 'o', 'g': 'p', 'h': 'q', 'i': 'r', 'j':'s', 'k': 't', 'l': 'u','m': 'v', 'n': 'w', 'o': 'x', 'p': 'y', 'q': 'z', 'r': 'a','s': 'b', 't': 'c', 'u': 'd', 'v': 'e', 'w': 'f', 'x': 'g', 'y': 'h', 'z': 'i'}",
+        "gold_label": "nenah luxdm qjb j bruena urwrwp"
+    },
+    {
+        "plain_text": "kindness costs nothing",
+        "shift": 9,
+        "cipher_text": "rlolhqhqvwlrqvwlrqvwlrqvwlrqvwlrqvwlrqvwlrqvw",
+        "lookup_table": "{'k': 'r', 'i': 'l', 'n': 'o', 'd': 'q', 'n': 'o', 'e': 'h','s': 'v','s': 'v', 'c': 'l', 'o': 'r','s': 'v', 't': 'w','s': 'v', 'n': 'o', 'o': 'r', 't': 'w', 'h': 'i', 'i': 'l', 'n': 'o', 'g': 'p', 'n': 'o', 'i': 'l', 'n': 'o', 'g': 'p'}",
+        "gold_label": "trwmwnbb lxbcb wxcqrwp"
+    },
+    {
+        "plain_text": "a friend in need is a friend indeed",
+        "shift": 9,
+        "cipher_text": "lqrrp ox wqrrp ox wqrrp ox wqrrp ox",
+        "lookup_table": "{'a': 'j', 'b': 'k', 'c': 'l', 'd':'m', 'e': 'n', 'f': 'o', 'g': 'p', 'h': 'q', 'i': 'r', 'j':'s', 'k': 't', 'l': 'u','m': 'v', 'n': 'w', 'o': 'x', 'p': 'y', 'q': 'z', 'r': 'a','s': 'b', 't': 'c', 'u': 'd', 'v': 'e', 'w': 'f', 'x': 'g', 'y': 'h', 'z': 'i'}",
+        "gold_label": "j oarnwm rw wnnm rb j oarnwm rwmnnm"
+    },
+    {
+        "plain_text": "believe in the future",
+        "shift": 9,
+        "cipher_text": "jgnpql km qnexl wlq jlwlrq",
+        "lookup_table": "{'a': 'j', 'b': 'k', 'c': 'l', 'd':'m', 'e': 'n', 'f': 'o', 'g': 'p', 'h': 'q', 'i': 'r', 'j':'s', 'k': 't', 'l': 'u','m': 'v', 'n': 'w', 'o': 'x', 'p': 'y', 'q': 'z', 'r': 'a','s': 'b', 't': 'c', 'u': 'd', 'v': 'e', 'w': 'f', 'x': 'g', 'y': 'h', 'z': 'i'}",
+        "gold_label": "knurnen rw cqn odcdan"
+    },
+    {
+        "plain_text": "learning from mistakes",
+        "shift": 9,
+        "cipher_text": "",
+        "lookup_table": "{'l': 'q', 'e': 'h', 'a': 'j', 'r': 'w', 'n': 'x', 'i': 'v', 'n': 'x', 'g': 'p', 'f': 'o', 'r': 'w', 'o':'s','m': 'r', 'i': 'v','s': 'w', 't': 'x', 'a': 'j', 'k': 'n', 'e': 'h', 'y': 'z', 't': 'x', 'o':'s','s': 'w', 'u': 'v', 'c': 'd', 'c': 'd', 'e': 'h','s': 'w','s': 'w', 'u': 'v', 'c': 'd', 'e': 'h','s': 'w','s': 'w','s': 'w'}",
+        "gold_label": "unjawrwp oaxv vrbcjtnb"
+    },
+    {
+        "plain_text": "a heart full of gratitude",
+        "shift": 9,
+        "cipher_text": "j qllw vxlrz lwvxzj wvxzr xqllz",
+        "lookup_table": "{'a': 'j', 'h': 'q', 'e': 'l', 'a': 'j', 'r': 'x', 't': 'w', 'f': 'v', 'u': 'z', 'l': 'l', 'o': 'r', 'f': 'v', 'g': 'w', 'r': 'x', 'a': 'j', 't': 'w', 'i': 'x', 'o': 'r', 'n': 'q', 'f': 'v', 'u': 'z', 'l': 'l', 'l': 'l', 'y': 'z'}",
+        "gold_label": "j qnjac oduu xo pajcrcdmn"
+    },
+    {
+        "plain_text": "love conquers all",
+        "shift": 9,
+        "cipher_text": "tqhxkqgux",
+        "lookup_table": "{'a': 'j', 'b': 'k', 'c': 'l', 'd':'m', 'e': 'n', 'f': 'o', 'g': 'p', 'h': 'q', 'i': 'r', 'j':'s', 'k': 't', 'l': 'u','m': 'v', 'n': 'w', 'o': 'x', 'p': 'y', 'q': 'z', 'r': 'a','s': 'b', 't': 'c', 'u': 'd', 'v': 'e', 'w': 'f', 'x': 'g', 'y': 'h', 'z': 'i'}",
+        "gold_label": "uxen lxwzdnab juu"
+    },
+    {
+        "plain_text": "appreciate the small things",
+        "shift": 9,
+        "cipher_text": "xhjvqtvjgqtvjgqtvjg",
+        "lookup_table": "{'a': 'j', 'b': 'k', 'c': 'l', 'd':'m', 'e': 'n', 'f': 'o', 'g': 'p', 'h': 'q', 'i': 'r', 'j': 'a', 'k': 'b', 'l': 'c','m': 'd', 'n': 'e', 'o': 'f', 'p': 'g', 'q': 'h', 'r': 'i','s': 't', 't':'s', 'u': 'v', 'v': 'u', 'w': 'x', 'x': 'w', 'y': 'z', 'z': 'y'}",
+        "gold_label": "jyyanlrjcn cqn bvjuu cqrwpb"
+    },
+    {
+        "plain_text": "change is the only constant",
+        "shift": 9,
+        "cipher_text": "",
+        "lookup_table": "{'A': 'J', 'B': 'K', 'C': 'L', 'D': 'M', 'E': 'N', 'F': 'O', 'G': 'P', 'H': 'Q', 'I': 'R', 'J': 'S', 'K': 'T', 'L': 'U', 'M': 'V', 'N': 'W', 'O': 'X', 'P': 'Y', 'Q': 'Z', 'R': 'A', 'S': 'B', 'T': 'C', 'U': 'D', 'V': 'E', 'W': 'F', 'X': 'G', 'Y': 'H', 'Z': 'I', 'a': 'j', 'b': 'k', 'c': 'l', 'd':'m', 'e': 'n', 'f': 'o', 'g': 'p', 'h': 'q', 'i': 'r', 'j':'s', 'k': 't', 'l': 'u','m': 'v', 'n': 'w', 'o': 'x', 'p': 'y', 'q': 'z', 'r': 'a','s': 'b', 't': 'c', 'u': 'd', 'v': 'e', 'w': 'f', 'x': 'g', 'y': 'h', 'z': 'i'}",
+        "gold_label": "lqjwpn rb cqn xwuh lxwbcjwc"
+    },
+    {
+        "plain_text": "hard work pays off",
+        "shift": 9,
+        "cipher_text": "qkdw rqzb xbmv",
+        "lookup_table": "{'a': 'j', 'b': 'k', 'c': 'l', 'd':'m', 'e': 'n', 'f': 'o', 'g': 'p', 'h': 'q', 'i': 'r', 'j':'s', 'k': 't', 'l': 'u','m': 'v', 'n': 'w', 'o': 'x', 'p': 'y', 'q': 'z', 'r': 'a','s': 'b', 't': 'c', 'u': 'd', 'v': 'e', 'w': 'f', 'x': 'g', 'y': 'h', 'z': 'i'}",
+        "gold_label": "qjam fxat yjhb xoo"
+    },
+    {
+        "plain_text": "follow your heart",
+        "shift": 9,
+        "cipher_text": "lwwog lwur qkhw",
+        "lookup_table": "{'a': 'j', 'b': 'k', 'c': 'l', 'd':'m', 'e': 'n', 'f': 'o', 'g': 'p', 'h': 'q', 'i': 'r', 'j': 'a', 'k': 'b', 'l': 'c','m': 'd', 'n': 'e', 'o': 'f', 'p': 'g', 'q': 'h', 'r': 'i','s': 't', 't':'s', 'u': 'v', 'v': 'u', 'w': 'x', 'x': 'w', 'y': 'z', 'z': 'y'}",
+        "gold_label": "oxuuxf hxda qnjac"
+    }
+]
