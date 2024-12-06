@@ -64,7 +64,6 @@ Project
 │   │   └── random_text_generator.py
 │   │   └── random-text-generator.ipynb
 │   │   └── remove-dump-files.ipynb
-
 ├── README.md
 
 ```
