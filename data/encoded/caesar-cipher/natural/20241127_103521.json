@@ -1,0 +1,152 @@
+[
+    {
+        "plain_text": "good deeds bring joy",
+        "shift": 9,
+        "cipher_text": "ppxq gkfu epgu kqjz",
+        "gold_label": "pxxm mnnmb karwp sxh"
+    },
+    {
+        "plain_text": "embrace the unknown",
+        "shift": 9,
+        "cipher_text": "l o g p s r d j i v p y o t",
+        "gold_label": "nvkajln cqn dwtwxfw"
+    },
+    {
+        "plain_text": "chasing your dreams",
+        "shift": 9,
+        "cipher_text": "g????????",
+        "gold_label": "lqjbrwp hxda manjvb"
+    },
+    {
+        "plain_text": "walk in someone else’s shoes",
+        "shift": 9,
+        "cipher_text": "bpxm jv qhpu houhfwlrq",
+        "gold_label": "fjut rw bxvnxwn nubn’b bqxnb"
+    },
+    {
+        "plain_text": "finding peace within",
+        "shift": 9,
+        "cipher_text": "The Caesar cipher is a type of substitution cipher where each letter in the plaintext is'shifted' a certain number of places down the alphabet. In this case, the shift is 9.",
+        "gold_label": "orwmrwp ynjln frcqrw"
+    },
+    {
+        "plain_text": "laughter is the best medicine",
+        "shift": 9,
+        "cipher_text": "p j b p i y i l j l w y i l j w y i l o l k o j o",
+        "gold_label": "ujdpqcna rb cqn knbc vnmrlrwn"
+    },
+    {
+        "plain_text": "reach for the stars",
+        "shift": 9,
+        "cipher_text": "slhjkmppvkhvhs",
+        "gold_label": "anjlq oxa cqn bcjab"
+    },
+    {
+        "plain_text": "beauty in simplicity",
+        "shift": 9,
+        "cipher_text": "khowzu in tkvtfsw",
+        "gold_label": "knjdch rw brvyurlrch"
+    },
+    {
+        "plain_text": "time heals all wounds",
+        "shift": 9,
+        "cipher_text": "ukiilooyyovuoos",
+        "gold_label": "crvn qnjub juu fxdwmb"
+    },
+    {
+        "plain_text": "patience is a virtue",
+        "shift": 9,
+        "cipher_text": "rblfuh lb c wkhuh",
+        "gold_label": "yjcrnwln rb j eracdn"
+    },
+    {
+        "plain_text": "cherish the little moments",
+        "shift": 9,
+        "cipher_text": "not the same as the given answer. The correct encoded text is indeed \"joyowplxooylprvsxr\".",
+        "gold_label": "lqnarbq cqn urccun vxvnwcb"
+    },
+    {
+        "plain_text": "turning over a new leaf",
+        "shift": 9,
+        "cipher_text": "vjxwphqjw khph lvq wkhuh",
+        "gold_label": "cdawrwp xena j wnf unjo"
+    },
+    {
+        "plain_text": "actions speak louder than words",
+        "shift": 9,
+        "cipher_text": "To encode the text using a Caesar cipher with a shift of 9, we replace each letter with the letter 9 positions ahead of it in the alphabet. Here's the encoding process:",
+        "gold_label": "jlcrxwb bynjt uxdmna cqjw fxamb"
+    },
+    {
+        "plain_text": "nurture your relationships",
+        "shift": 9,
+        "cipher_text": "ooreleratoni oarloti otnships",
+        "gold_label": "wdacdan hxda anujcrxwbqryb"
+    },
+    {
+        "plain_text": "every cloud has a silver lining",
+        "shift": 9,
+        "cipher_text": "To encode the text using a Caesar cipher with a shift of 9, we replace each letter with the letter 9 positions ahead of it in the alphabet. Here's the encoded text:",
+        "gold_label": "nenah luxdm qjb j bruena urwrwp"
+    },
+    {
+        "plain_text": "kindness costs nothing",
+        "shift": 9,
+        "cipher_text": "mujufu",
+        "gold_label": "trwmwnbb lxbcb wxcqrwp"
+    },
+    {
+        "plain_text": "a friend in need is a friend indeed",
+        "shift": 9,
+        "cipher_text": "j m u l o i p o l l i i o l h",
+        "gold_label": "j oarnwm rw wnnm rb j oarnwm rwmnnm"
+    },
+    {
+        "plain_text": "believe in the future",
+        "shift": 9,
+        "cipher_text": "joorpobqkumoory",
+        "gold_label": "knurnen rw cqn odcdan"
+    },
+    {
+        "plain_text": "learning from mistakes",
+        "shift": 9,
+        "cipher_text": "o p h t w o s j q p l z",
+        "gold_label": "unjawrwp oaxv vrbcjtnb"
+    },
+    {
+        "plain_text": "a heart full of gratitude",
+        "shift": 9,
+        "cipher_text": "i oniuymlpomnuyilknynoyl",
+        "gold_label": "j qnjac oduu xo pajcrcdmn"
+    },
+    {
+        "plain_text": "love conquers all",
+        "shift": 9,
+        "cipher_text": "ovwll jppqsxlslivo",
+        "gold_label": "uxen lxwzdnab juu"
+    },
+    {
+        "plain_text": "appreciate the small things",
+        "shift": 9,
+        "cipher_text": "ijsloyyloyooyoolooolo",
+        "gold_label": "jyyanlrjcn cqn bvjuu cqrwpb"
+    },
+    {
+        "plain_text": "change is the only constant",
+        "shift": 9,
+        "cipher_text": "hgnoh jt wu pqo rqlqj",
+        "gold_label": "lqjwpn rb cqn xwuh lxwbcjwc"
+    },
+    {
+        "plain_text": "hard work pays off",
+        "shift": 9,
+        "cipher_text": "h -> i (h + 9 = i)",
+        "gold_label": "qjam fxat yjhb xoo"
+    },
+    {
+        "plain_text": "follow your heart",
+        "shift": 9,
+        "cipher_text": "sprrpyvpjsu",
+        "gold_label": "oxuuxf hxda qnjac"
+    }
+]

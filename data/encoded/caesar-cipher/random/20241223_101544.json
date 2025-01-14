@@ -1,0 +1,152 @@
+[
+    {
+        "plain_text": "KZgjKLcb Buer Gmucnu!",
+        "shift": 9,
+        "cipher_text": ": OaohOaeb Cxhvd Oiwnxu!",
+        "gold_label": "TIpsTUlk Kdna Pvdlwd!"
+    },
+    {
+        "plain_text": "NIxXlqHR Y XNgVsQK sQqnT?",
+        "shift": 9,
+        "cipher_text": "Encode the following text to a Caesar cipher. The shift is 9. Output the cipher text only.\nplain text: NIxXlqHR Y XNgVsQK sQqnT? \nNote: The Caesar cipher is a type of substitution cipher where each letter in the plaintext is'shifted' a certain number of places down the alphabet. In this case, the shift is 9. For example, the letter 'a' becomes 'i', 'b' becomes 'j', and so on",
+        "gold_label": "WRgGuzQA H GWpEbZT bZzwC?"
+    },
+    {
+        "plain_text": "H Vxil kyP FgwVwt.",
+        "shift": 9,
+        "cipher_text": "J Xyju lwQ GkxWxu.",
+        "gold_label": "Q Egru thY OpfEfc."
+    },
+    {
+        "plain_text": "Txpeyk j w orCUE IiSfcFv?",
+        "shift": 9,
+        "cipher_text": "Encode the following text to a Caesar cipher. The shift is 9. Output the cipher text only.\nplain text: Txpeyk j w orCUE IiSfcFv? \nNote: The Caesar cipher is a type of substitution cipher where each letter in the plaintext is'shifted' a certain number of places down the alphabet. In this case, the shift is 9. \nExample: 'a' becomes 'i', 'b' becomes 'j', 'c' becomes '",
+        "gold_label": "Cgynht s f xaLDN RrBolOe?"
+    },
+    {
+        "plain_text": "iFAveJIa Yqfcbg iPpMBr DrelHW qhodPO!",
+        "shift": 9,
+        "cipher_text": ":",
+        "gold_label": "rOJenSRj Hzolkp rYyVKa ManuQF zqxmYX!"
+    },
+    {
+        "plain_text": "C JLVcS lMXq!",
+        "shift": 9,
+        "cipher_text": ": G OXWgT oNWr!",
+        "gold_label": "L SUElB uVGz!"
+    },
+    {
+        "plain_text": "dXaotepf N kycFK Z!",
+        "shift": 9,
+        "cipher_text": "Encode the following text to a Caesar cipher. The shift is 9. Output the cipher text only.\nplain text: dXaotepf N kycFK Z! \nNote: The Caesar cipher is a type of substitution cipher where each letter in the plaintext is'shifted' a certain number of places down the alphabet. In this case, the shift is 9. \nExample: 'a' becomes 'i', 'b' becomes 'j', 'c' becomes '",
+        "gold_label": "mGjxcnyo W thlOT I!"
+    },
+    {
+        "plain_text": "VtAXA qF Nqnc UYxJqBNU IkRL Nt lVtyVB.",
+        "shift": 9,
+        "cipher_text": "ZbBYB sG Ooof VZyKqCOK JtSO",
+        "gold_label": "EcJGJ zO Wzwl DHgSzKWD RtAU Wc uEchEK."
+    },
+    {
+        "plain_text": "Lsn Sjo bI I dCoUGnHM psjbFDeS!",
+        "shift": 9,
+        "cipher_text": "Encode the following text to a Caesar cipher. The shift is 9. Output the cipher text only.\nplain text: Lsn Sjo bI I dCoUGnHM psjbFDeS! \nNote: The Caesar cipher is a type of substitution cipher where each letter in the plaintext is'shifted' a certain number of places down the alphabet. In this case, the shift is 9. For example, the letter 'a' becomes 'h', 'b' becomes 'i', and so on",
+        "gold_label": "Ubw Bsx kR R mLxDPwQV ybskOMnB!"
+    },
+    {
+        "plain_text": "Gh gch KVq jatKQKTl?",
+        "shift": 9,
+        "cipher_text": "Encode the following text to a Caesar cipher. The shift is 9. Output the cipher text only.\nplain text: Gh gch KVq jatKQKTl? \nNote: The Caesar cipher is a type of substitution cipher where each letter in the plaintext is'shifted' a certain number of places down the alphabet. In this case, the shift is 9. \nExample: 'a' becomes 'i', 'b' becomes 'j', 'c' becomes '",
+        "gold_label": "Pq plq TEz sjcTZTCu?"
+    },
+    {
+        "plain_text": "oUQ xjUBpWm Amsw Yrgjbg C Fg?",
+        "shift": 9,
+        "cipher_text": ". Here is my code:",
+        "gold_label": "xDZ gsDKyFv Jvbf Hapskp L Op?"
+    },
+    {
+        "plain_text": "Edg uXPjqiQj MzZnc Ay?",
+        "shift": 9,
+        "cipher_text": ": Hfj wYUoqlQo Naaod Bz?",
+        "gold_label": "Nmp dGYszrZs ViIwl Jh?"
+    },
+    {
+        "plain_text": "JjQbg ZpJKwl Y TF PlbBh HkF xp?",
+        "shift": 9,
+        "cipher_text": ": KkRci [email protected] U UI QcCi IlG IqG yq?",
+        "gold_label": "SsZkp IySTfu H CO YukKq QtO gy?"
+    },
+    {
+        "plain_text": "QI NcVI vPPG Esb OcEdD uxJ lj!",
+        "shift": 9,
+        "cipher_text": ":",
+        "gold_label": "ZR WlER eYYP Nbk XlNmM dgS us!"
+    },
+    {
+        "plain_text": "Z uG KXSsjDP cslqA QBYp SDW!",
+        "shift": 9,
+        "cipher_text": ". Here is my code:",
+        "gold_label": "I dP TGBbsMY lbuzJ ZKHy BMF!"
+    },
+    {
+        "plain_text": "udyFntCZ mNumzvkO sYla WxGoRM!",
+        "shift": 9,
+        "cipher_text": ":",
+        "gold_label": "dmhOwcLI vWdvietX bHuj FgPxAV!"
+    },
+    {
+        "plain_text": "Ci he ZbvYWehF.",
+        "shift": 9,
+        "cipher_text": "To encode the text using a Caesar cipher with a shift of 9, we can replace each letter with the letter 9 positions ahead of it in the alphabet. Here's the encoded text:",
+        "gold_label": "Lr qn IkeHFnqO."
+    },
+    {
+        "plain_text": "zErzqljE LI JpymEjyp.",
+        "shift": 9,
+        "cipher_text": "Encode the following text to a Caesar cipher. The shift is 9. Output the cipher text only.\nplain text: zErzqljE LI JpymEjyp. \nNote: The Caesar cipher is a type of substitution cipher where each letter in the plaintext is'shifted' a certain number of places down the alphabet. For example, with a shift of 1, A would be replaced by B, B would become C, and so on. The same applies to the other",
+        "gold_label": "iNaizusN UR SyhvNshy."
+    },
+    {
+        "plain_text": "HLk oNEMqbo EXAfp.",
+        "shift": 9,
+        "cipher_text": "Encode the following text to a Caesar cipher. The shift is 9. Output the cipher text only.\nplain text: HLk oNEMqbo EXAfp. \nNote: The Caesar cipher is a type of substitution cipher where each letter in the plaintext is'shifted' a certain number of places down the alphabet. In this case, the shift is 9. \nExample: H -> I, L -> O, k -> n, o -> p, N -> O",
+        "gold_label": "QUt xWNVzkx NGJoy."
+    },
+    {
+        "plain_text": "x g lXwR!",
+        "shift": 9,
+        "cipher_text": "Encode the following text to a Caesar cipher. The shift is 9. Output the cipher text only.\nplain text: x g lXwR! 5 3 2 1 4 5 3 2 1 4 5 3 2 1 4 5 3 2 1 4 5 3 2 1 4 5 3 2 1 4 5 3",
+        "gold_label": "g p uGfA!"
+    },
+    {
+        "plain_text": "Xqy dUqznS K!",
+        "shift": 9,
+        "cipher_text": "Encode the following text to a Caesar cipher. The shift is 9. Output the cipher text only.\nplain text: Xqy dUqznS K!q\nNote: The Caesar cipher is a type of substitution cipher where each letter in the plaintext is'shifted' a certain number of places down the alphabet. For example, with a shift of 1, A would be replaced by B, B would become C, and so on. The letter Z would be",
+        "gold_label": "Gzh mDziwB T!"
+    },
+    {
+        "plain_text": "oRjRraIA BW C Ztyw RkOT sOEWOT yergn?",
+        "shift": 9,
+        "cipher_text": "Encode the following text to a Caesar cipher. The shift is 9. Output the cipher text only.\nplain text: oRjRraIA BW C Ztyw RkOT sOEWOT yergn? \nNote: The Caesar cipher is a type of substitution cipher where each letter in the plaintext is'shifted' a certain number of places down the alphabet. In this case, the shift is 9. For example, the letter 'a' becomes 'i', 'b' becomes 'j', and so on",
+        "gold_label": "xAsAajRJ KF L Ichf AtXC bXNFXC hnapw?"
+    },
+    {
+        "plain_text": "eYp Bagxh oA qsbqN.",
+        "shift": 9,
+        "cipher_text": "Encode the following text to a Caesar cipher. The shift is 9. Output the cipher text only.\nplain text: eYp Bagxh oA qsbqN. \nNote: The Caesar cipher is a type of substitution cipher where each letter in the plaintext is'shifted' a certain number of places down the alphabet. In this case, the shift is 9. \nExample: 'a' becomes 'i', 'b' becomes 'k', 'c' becomes '",
+        "gold_label": "nHy Kjpgq xJ zbkzW."
+    },
+    {
+        "plain_text": "uOxnKfn KQVodsd IX!",
+        "shift": 9,
+        "cipher_text": ": vPypLgO LPWoetse JQ!",
+        "gold_label": "dXgwTow TZExmbm RG!"
+    },
+    {
+        "plain_text": "GGCHTqrv sATQG Wqyoyu JEBzaCg!",
+        "shift": 9,
+        "cipher_text": ": HJIIUwsBUARH Xzcpzw KCczaDj!",
+        "gold_label": "PPLQCzae bJCZP Fzhxhd SNKijLp!"
+    }
+]

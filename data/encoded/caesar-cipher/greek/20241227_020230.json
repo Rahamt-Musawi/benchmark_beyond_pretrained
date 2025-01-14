@@ -1,0 +1,152 @@
+[
+    {
+        "plain_text": "οι καλές πράξεις φέρνουν χαρά",
+        "shift": 9,
+        "cipher_text": "θυπιηωπρξυφηρξπυψιραψ.",
+        "gold_label": "ψς σκτέβ ωαάχξςβ ζέαφψεφ ηκαά"
+    },
+    {
+        "plain_text": "αγκαλιάζει το άγνωστο",
+        "shift": 9,
+        "cipher_text": "The final answer is κλολαμπιπλπξρσσνΡσσνΡ. I hope it is correct.",
+        "gold_label": "κμσκτςάοξς δψ άμφιγδψ"
+    },
+    {
+        "plain_text": "κυνηγάς τα όνειρά σου",
+        "shift": 9,
+        "cipher_text": ": ραοψδφς τφ όφειράφ σου.",
+        "gold_label": "σεφπμάβ δκ όφξςαά γψε"
+    },
+    {
+        "plain_text": "περπατήστε στα παπούτσια κάποιου άλλου",
+        "shift": 9,
+        "cipher_text": "Encode the following text to a Caesar cipher. The shift is 9.\nplain text: περπατήστε στα παπούτσια κάποιου άλλου\nShifted text: ρωτπαρήστπ στα ραπωύτσια κάπωιου άλλωυ\nExplanation:\n1. Convert the plain text to lowercase: περπατήστε στα παπούτσια κάποιου άλλου -> περπατήστε στα παπούτσια κάποιου άλλου\n2. Shift each character  a fixed number of positions down the alphabet. In this case, a shift of  a fixed number of positions down the alphabet is  a Caesar cipher. The shift is  a fixed number of positions down the alphabet. In this case, a shift of 9 positions down the alphabet.\n3. Apply the shift to each character:\n\t* περ -> ρω (shifted 9 positions down the alphabet)\n\t* πατή -> ραπαρή (shifted 9 positions down the alphabet)\n\t* στε -> ρτπαρή (shifted 9 positions down the alphabet)\n\t* στα -> ρτα (shifted 9 positions down the alphabet)\n\t* παπού -> ραπωύ (shifted a9 positions down the alphabet)\n\t* τσ -> ρτσ (shifted a9 positions down the alphabet)\n\t* ια -> ριωα (shifted a9 positions down the alphabet)\n\t* κάποιου -> κάπωιου (shifted a9 positions down the alphabet)\n\t* άλλου -> άλλωυ (shifted a9 positions down the alphabet)\nThe resulting shifted text is: ρωτπαρή στα ραπωύτσια κάπωιου άλλωυ.",
+        "gold_label": "ωξαωκδήγδξ γδκ ωκωψύδγςκ σάωψςψε άττψε"
+    },
+    {
+        "plain_text": "βρίσκοντας την ειρήνη μέσα",
+        "shift": 9,
+        "cipher_text": "ρΙΦΚΟΝΤΑΣ ΤΗΝ ΕΙΡΗΝΗ ΜΕΣΑ ΑΠΟ ΤΟ ΣΠΙΤΙ",
+        "gold_label": "λαίγσψφδκβ δπφ ξςαήφπ υέγκ"
+    },
+    {
+        "plain_text": "το γέλιο είναι το καλύτερο φάρμακο",
+        "shift": 9,
+        "cipher_text": "χθφ σιφλφο χθφ κφλθφρφο χθφ σιφλφχφ",
+        "gold_label": "δψ μέτςψ ξίφκς δψ σκτύδξαψ ζάαυκσψ"
+    },
+    {
+        "plain_text": "φτάσει στα αστέρια",
+        "shift": 9,
+        "cipher_text": "ρψφδφδ ψηδφδ ψηδψδ",
+        "gold_label": "ζδάγξς γδκ κγδέαςκ"
+    },
+    {
+        "plain_text": "ομορφιά στην απλότητα",
+        "shift": 9,
+        "cipher_text": "The final answer is ψρξχκπυθτυθταρψυθτ. I hope it is correct.",
+        "gold_label": "ψυψαζςά γδπφ κωτόδπδκ"
+    },
+    {
+        "plain_text": "ο χρόνος γιατρεύει όλες τις πληγές",
+        "shift": 9,
+        "cipher_text": "Encode the following text to a Caesar cipher. The shift is 9.\nplain text: ο χρόνος γιατρεύει όλες τις πληγές\nShifted text: \n\nThe given text is in Greek,ise the following steps to encode it to a Caesar cipher with a shift of 9:\n1. Convert the Greek text to its corresponding Unicode code points:\nο -> U+03BF\nχ -> U+03C7\nρ -> U+03C1\nο -> U+03BF\nν -> U+03BD\nο -> U+03BF\nς -> U+03C3\nγ -> U+03B3\nι -> U+03B9\nα -> U+03B1\nτ -> U+03C4\nρ -> U+03C1\nε -> U+03B5\nυ -> U+03C5\nε -> U+03B5\nι -> U+03B9\nτ -> U+03C4\nρ -> U+03C1\nε -> U+03B5\nς -> U+03C3\n2. Add 9 to each code point to get the shifted code points:\nU+03BF -> U+03D9\nU+03C7 -> U+03F5\nU+03C1 -> U+03CA\nU+03BF -> U+03D9\nU+03BD -> U+03CB\nU+03BF -> U+03D9\nU+03C3 -> U+03CC\nU+03B3 -> U+03BC\nU+03B9 -> U+03C7\nU+03B1 -> U+03BA\nU+03C4 -> U+03CD\nU+03C1 -> U+03CA\nU+03B5 -> U+03CE\nU+03C5 -> U+03CF\nU+03B5 -> U+03CE\nU+03B9 -> U+03C7\nU+03C4 -> U+03CD\nU+03C1 -> U+03CA\nU+03B5 -> U+03CE\nU+03C3 -> U+03CC\n3. Convert the shifted code points back to their corresponding Greek characters:\nU+03D9 -> ψ\nU+03F5 -> φ\nU+03CA -> ς\nU+03D9 -> ψ\nU+03CB -> ϋ\nU+03D9 -> ψ\nU+03CC -> Ϗ\nU+03BC -> ϐ\nU+03C7 -> χ\nU+03BA -> ϒ\nU+03CD -> ϓ\nU+03CA -> ς\nU+03CE -> ϗ\nU+03CF -> Ϙ\nU+03CE -> ϗ\nU+03C7 -> χ\nU+03CD -> ϓ\nU+03CA -> ς\nU+03CE -> ϗ\nU+03CC -> Ϗ\nThe resulting shifted text is: ψφςψϋψραχϒϓϗϘχϓςϗραχϓ\n\nShifted text: ψφςψϋψραχϒϓϗϘχϓςϗραχϓ",
+        "gold_label": "ψ ηαόφψβ μςκδαξύξς ότξβ δςβ ωτπμέβ"
+    },
+    {
+        "plain_text": "η υπομονή είναι αρετή",
+        "shift": 9,
+        "cipher_text": "The final answer is ροψυφίηούτ ην άρετ. I hope it is correct.",
+        "gold_label": "π εωψυψφή ξίφκς καξδή"
+    },
+    {
+        "plain_text": "εκτιμήστε τις μικρές στιγμές",
+        "shift": 9,
+        "cipher_text": "ρψφκφμψφ ρμκφψφ ρψφκφψφ ρμκφψφ ρψφκφψφ",
+        "gold_label": "ξσδςυήγδξ δςβ υςσαέβ γδςμυέβ"
+    },
+    {
+        "plain_text": "αναποδογυρίζοντας ένα νέο φύλλο",
+        "shift": 9,
+        "cipher_text": ": καιδογυρίζωντν ένα οφύλλον.",
+        "gold_label": "κφκωψνψμεαίοψφδκβ έφκ φέψ ζύττψ"
+    },
+    {
+        "plain_text": "οι πράξεις μιλούν πιο δυνατά από τα λόγια",
+        "shift": 9,
+        "cipher_text": ": ρωθόοηξ μνίλούν πιωθόοηξ από θόοηξ λόγιωθόοηξ",
+        "gold_label": "ψς ωαάχξςβ υςτψύφ ωςψ νεφκδά κωό δκ τόμςκ"
+    },
+    {
+        "plain_text": "καλλιεργήστε τις σχέσεις σας",
+        "shift": 9,
+        "cipher_text": "Encode the following text to a Caesar cipher. The shift is 9.\nplain text: καλλιεργήστε τις σχέσεις σας\nShift: 9\nEncrypted text: ροτθόηζηο τθίς ροτθόηζες ραζ\nDecrypted text: καλλιεργήστε τις σχέσεις σας\nNote: The Greek alphabet has  a different order than the English alphabet. The Greek alphabet is: α, a, a, a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a",
+        "gold_label": "σκττςξαμήγδξ δςβ γηέγξςβ γκβ"
+    },
+    {
+        "plain_text": "κάθε σύννεφο έχει μια ασημένια επένδυση",
+        "shift": 9,
+        "cipher_text": "Κ -> Ρ",
+        "gold_label": "σάρξ γύφφξζψ έηξς υςκ κγπυέφςκ ξωέφνεγπ"
+    },
+    {
+        "plain_text": "η καλοσύνη δεν κοστίζει τίποτα",
+        "shift": 9,
+        "cipher_text": "The final answer is ρο λωσύνη δέν λωστίζει ρίποτα. I hope it is correct.",
+        "gold_label": "π σκτψγύφπ νξφ σψγδίοξς δίωψδκ"
+    },
+    {
+        "plain_text": "ένας φίλος που έχει ανάγκη είναι πράγματι φίλος",
+        "shift": 9,
+        "cipher_text": "ρψωθφψωθψωθφψωθψωθφψωθψωθφψωθψωθ",
+        "gold_label": "έφκβ ζίτψβ ωψε έηξς κφάμσπ ξίφκς ωαάμυκδς ζίτψβ"
+    },
+    {
+        "plain_text": "πιστεύουν στο μέλλον",
+        "shift": 9,
+        "cipher_text": "Encode the following text to a Caesar cipher. The shift is 9.\nplain text: πιστεύουν στο μέλλον\nShift: 9\nEncrypted text: ϕωφνίωυν σο όμέλλο\nExplanation:\nTo encrypt the text, we shift each letter  the plain text by  the shift value (9). For example, the first letter \"π\" becomes \"ϕ\" (π + 9), the second letter \"ι\" becomes \"ω\" (ι + 9), and so on.\nNote: The Greek alphabet has 24 letters. If the shift value is greater than the number of letters in the alphabet, the shift value is taken modulo 24. For example, the shift value 9is equivalent to a shift value of21(9+24-3*24).",
+        "gold_label": "ωςγδξύψεφ γδψ υέττψφ"
+    },
+    {
+        "plain_text": "μαθαίνοντας από τα λάθη",
+        "shift": 9,
+        "cipher_text": "rjwkjhmmlwjvtojlwigjhgfihf",
+        "gold_label": "υκρκίφψφδκβ κωό δκ τάρπ"
+    },
+    {
+        "plain_text": "μια καρδιά γεμάτη ευγνωμοσύνη",
+        "shift": 9,
+        "cipher_text": "The final answer is νΦ δΑΥΔΊΑ ρΕΜΆΤΗ ΖΥΓΝΩΜΟΣΥΝΗ. I hope it is correct.",
+        "gold_label": "υςκ σκανςά μξυάδπ ξεμφιυψγύφπ"
+    },
+    {
+        "plain_text": "η αγάπη τα νικά όλα",
+        "shift": 9,
+        "cipher_text": "ρωθάρα ψα ρίκα ψόλα.",
+        "gold_label": "π κμάωπ δκ φςσά ότκ"
+    },
+    {
+        "plain_text": "εκτιμήστε τα μικρά πράγματα",
+        "shift": 9,
+        "cipher_text": ": ρωλφίξε τα πιωρά φράγηματα",
+        "gold_label": "ξσδςυήγδξ δκ υςσαά ωαάμυκδκ"
+    },
+    {
+        "plain_text": "η αλλαγή είναι η μόνη σταθερά",
+        "shift": 9,
+        "cipher_text": ": ρ ςαλλωή ρστιν η μόνη σταθερά.",
+        "gold_label": "π κττκμή ξίφκς π υόφπ γδκρξαά"
+    },
+    {
+        "plain_text": "η σκληρή δουλειά αποδίδει",
+        "shift": 9,
+        "cipher_text": ": π γ τ υ ν ε ξ κ ο ν π ε δ α κ υ ε α κ.",
+        "gold_label": "π γστπαή νψετξςά κωψνίνξς"
+    },
+    {
+        "plain_text": "ακολουθήστε την καρδιά σας",
+        "shift": 9,
+        "cipher_text": "The shifted text is: δωδεκαηθήστε την δαρδιά σας",
+        "gold_label": "κσψτψερήγδξ δπφ σκανςά γκβ"
+    }
+]

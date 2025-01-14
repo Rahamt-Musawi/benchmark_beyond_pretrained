@@ -1,0 +1,152 @@
+[
+{
+    "plain_text": "good deeds bring joy",
+    "key": "Benchmark",
+    "cipher_text": "a",
+    "lookup_table": {}
+},
+{
+    "plain_text": "embrace the unknown",
+    "key": "Benchmark",
+    "cipher_text": "e",
+    "lookup_table": {}
+},
+{
+    "plain_text": "chasing your dreams",
+    "key": "Benchmark",
+    "cipher_text": "Encode the following text using a Vigen\u00e8re cipher with the key 'Benchmark'. Output a lookup table and the cipher text in a Python dictionary: {\"lookup_table\": {}, \"cipher_text\":...}. Output the dictionary only. plain text: chasing your dreams To create a Vigen\u00e8re cipher lookup table, we first need to create a table for each possible plaintext character (in this case, lowercase alphabets) and each possible key character. Here's the table for the given key 'Benchmark': | Plaintext | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | U | V | W | X | Y | Z |----------|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|",
+    "lookup_table": {}
+},
+{
+    "plain_text": "walk in someone else\u2019s shoes",
+    "key": "Benchmark",
+    "cipher_text": "B",
+    "lookup_table": {}
+},
+{
+    "plain_text": "finding peace within",
+    "key": "Benchmark",
+    "cipher_text": "A",
+    "lookup_table": {}
+},
+{
+    "plain_text": "laughter is the best medicine",
+    "key": "Benchmark",
+    "cipher_text": "mhqjur fhqjur is the best medicine",
+    "lookup_table": {}
+},
+{
+    "plain_text": "reach for the stars",
+    "key": "Benchmark",
+    "cipher_text": "B",
+    "lookup_table": {}
+},
+{
+    "plain_text": "beauty in simplicity",
+    "key": "Benchmark",
+    "cipher_text": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "lookup_table": {}
+},
+{
+    "plain_text": "time heals all wounds",
+    "key": "Benchmark",
+    "cipher_text": "umno ijbk jkx jbwy jnwj",
+    "lookup_table": {}
+},
+{
+    "plain_text": "patience is a virtue",
+    "key": "Benchmark",
+    "cipher_text": "abcdefghijklmnopqrstuvwxyz",
+    "lookup_table": {}
+},
+{
+    "plain_text": "cherish the little moments",
+    "key": "Benchmark",
+    "cipher_text": "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz",
+    "lookup_table": {}
+},
+{
+    "plain_text": "turning over a new leaf",
+    "key": "Benchmark",
+    "cipher_text": "tuvsmsphng pvwdedrs k m lkdedba",
+    "lookup_table": {}
+},
+{
+    "plain_text": "actions speak louder than words",
+    "key": "Benchmark",
+    "cipher_text": "a",
+    "lookup_table": {}
+},
+{
+    "plain_text": "nurture your relationships",
+    "key": "Benchmark",
+    "cipher_text": "A",
+    "lookup_table": {}
+},
+{
+    "plain_text": "every cloud has a silver lining",
+    "key": "Benchmark",
+    "cipher_text": "a",
+    "lookup_table": {}
+},
+{
+    "plain_text": "kindness costs nothing",
+    "key": "Benchmark",
+    "cipher_text": "bk",
+    "lookup_table": {}
+},
+{
+    "plain_text": "a friend in need is a friend indeed",
+    "key": "Benchmark",
+    "cipher_text": "a",
+    "lookup_table": {}
+},
+{
+    "plain_text": "believe in the future",
+    "key": "Benchmark",
+    "cipher_text": "cflfv if otn lft fuwtr",
+    "lookup_table": {}
+},
+{
+    "plain_text": "learning from mistakes",
+    "key": "Benchmark",
+    "cipher_text": "A",
+    "lookup_table": {}
+},
+{
+    "plain_text": "a heart full of gratitude",
+    "key": "Benchmark",
+    "cipher_text": "a",
+    "lookup_table": {}
+},
+{
+    "plain_text": "love conquers all",
+    "key": "Benchmark",
+    "cipher_text": "mwvj oqjw lq jqw lq jqw",
+    "lookup_table": {}
+},
+{
+    "plain_text": "appreciate the small things",
+    "key": "Benchmark",
+    "cipher_text": "A",
+    "lookup_table": {}
+},
+{
+    "plain_text": "change is the only constant",
+    "key": "Benchmark",
+    "cipher_text": "A",
+    "lookup_table": {}
+},
+{
+    "plain_text": "hard work pays off",
+    "key": "Benchmark",
+    "cipher_text": "A",
+    "lookup_table": {}
+},
+{
+    "plain_text": "follow your heart",
+    "key": "Benchmark",
+    "cipher_text": "a",
+    "lookup_table": {}
+}
+]

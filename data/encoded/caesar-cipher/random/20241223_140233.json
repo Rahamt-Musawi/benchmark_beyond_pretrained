@@ -1,0 +1,152 @@
+[
+    {
+        "plain_text": "KZgjKLcb Buer Gmucnu!",
+        "shift": 9,
+        "cipher_text": "YXFKXKAD VWVZ NWVJVW!",
+        "gold_label": "TIpsTUlk Kdna Pvdlwd!"
+    },
+    {
+        "plain_text": "NIxXlqHR Y XNgVsQK sQqnT?",
+        "shift": 9,
+        "cipher_text": "ZJwZmrJA T ZKwoRtLW uLxP!",
+        "gold_label": "WRgGuzQA H GWpEbZT bZzwC?"
+    },
+    {
+        "plain_text": "H Vxil kyP FgwVwt.",
+        "shift": 9,
+        "cipher_text": "s uzjn lqq ghwxzq.",
+        "gold_label": "Q Egru thY OpfEfc."
+    },
+    {
+        "plain_text": "Txpeyk j w orCUE IiSfcFv?",
+        "shift": 9,
+        "cipher_text": "yqnzl k x pjdxl gjvg gtw",
+        "gold_label": "Cgynht s f xaLDN RrBolOe?"
+    },
+    {
+        "plain_text": "iFAveJIa Yqfcbg iPpMBr DrelHW qhodPO!",
+        "shift": 9,
+        "cipher_text": "uGzvKLb Vsgejq uQqNZt EsuIQq wjmRQd!",
+        "gold_label": "rOJenSRj Hzolkp rYyVKa ManuQF zqxmYX!"
+    },
+    {
+        "plain_text": "C JLVcS lMXq!",
+        "shift": 9,
+        "cipher_text": "K MKXdT nNMy!",
+        "gold_label": "L SUElB uVGz!"
+    },
+    {
+        "plain_text": "dXaotepf N kycFK Z!",
+        "shift": 9,
+        "cipher_text": "uVwvumr X lxjGJ A",
+        "gold_label": "mGjxcnyo W thlOT I!"
+    },
+    {
+        "plain_text": "VtAXA qF Nqnc UYxJqBNU IkRL Nt lVtyVB.",
+        "shift": 9,
+        "cipher_text": "\"WubB wR Ownd VZwKpCMO XlQM Nt nWuzCND.\"",
+        "gold_label": "EcJGJ zO Wzwl DHgSzKWD RtAU Wc uEchEK."
+    },
+    {
+        "plain_text": "Lsn Sjo bI I dCoUGnHM psjbFDeS!",
+        "shift": 9,
+        "cipher_text": "ZTQ TKQ ZQ YFVKJLN QZWRGGHX!",
+        "gold_label": "Ubw Bsx kR R mLxDPwQV ybskOMnB!"
+    },
+    {
+        "plain_text": "Gh gch KVq jatKQKTl?",
+        "shift": 9,
+        "cipher_text": "Nh nhz LXp lwjPWPLMl",
+        "gold_label": "Pq plq TEz sjcTZTCu?"
+    },
+    {
+        "plain_text": "oUQ xjUBpWm Amsw Yrgjbg C Fg?",
+        "shift": 9,
+        "cipher_text": "nLA tkaVqXn Dnqz Vfakaf B Eha",
+        "gold_label": "xDZ gsDKyFv Jvbf Hapskp L Op?"
+    },
+    {
+        "plain_text": "Edg uXPjqiQj MzZnc Ay?",
+        "shift": 9,
+        "cipher_text": "Kho lYTkrsLWVdB Bzabp Dw!",
+        "gold_label": "Nmp dGYszrZs ViIwl Jh?"
+    },
+    {
+        "plain_text": "JjQbg ZpJKwl Y TF PlbBh HkF xp?",
+        "shift": 9,
+        "cipher_text": "KkRch AqMKmw V GQ QmCCh LjG yq!",
+        "gold_label": "SsZkp IySTfu H CO YukKq QtO gy?"
+    },
+    {
+        "plain_text": "QI NcVI vPPG Esb OcEdD uxJ lj!",
+        "shift": 9,
+        "cipher_text": "YR OXW wQMH FsFh VzKi mzA .",
+        "gold_label": "ZR WlER eYYP Nbk XlNmM dgS us!"
+    },
+    {
+        "plain_text": "Z uG KXSsjDP cslqA QBYp SDW!",
+        "shift": 9,
+        "cipher_text": "N vF JWVvZR bqnkX PXAo RNXk LVX!",
+        "gold_label": "I dP TGBbsMY lbuzJ ZKHy BMF!"
+    },
+    {
+        "plain_text": "udyFntCZ mNumzvkO sYla WxGoRM!",
+        "shift": 9,
+        "cipher_text": "vhgGpqDX nOlzAjpP tZmb VyHQS!",
+        "gold_label": "dmhOwcLI vWdvietX bHuj FgPxAV!"
+    },
+    {
+        "plain_text": "Ci he ZbvYWehF.",
+        "shift": 9,
+        "cipher_text": "Kp jk AiGXKjgGz.",
+        "gold_label": "Lr qn IkeHFnqO."
+    },
+    {
+        "plain_text": "zErzqljE LI JpymEjyp.",
+        "shift": 9,
+        "cipher_text": "hFhxqkqK NK Kqozhqoz.",
+        "gold_label": "iNaizusN UR SyhvNshy."
+    },
+    {
+        "plain_text": "HLk oNEMqbo EXAfp.",
+        "shift": 9,
+        "cipher_text": "UZJ vPQZrk IWBgq.",
+        "gold_label": "QUt xWNVzkx NGJoy."
+    },
+    {
+        "plain_text": "x g lXwR!",
+        "shift": 9,
+        "cipher_text": "y h kMxT! kNxU$ cKpV& g! iQw* giq?",
+        "gold_label": "g p uGfA!"
+    },
+    {
+        "plain_text": "Xqy dUqznS K!",
+        "shift": 9,
+        "cipher_text": "Zrk vVrltT $",
+        "gold_label": "Gzh mDziwB T!"
+    },
+    {
+        "plain_text": "oRjRraIA BW C Ztyw RkOT sOEWOT yergn?",
+        "shift": 9,
+        "cipher_text": "nQmTqjIB XY D vuzs QpNW nRUWnV Xdgmh",
+        "gold_label": "xAsAajRJ KF L Ichf AtXC bXNFXC hnapw?"
+    },
+    {
+        "plain_text": "eYp Bagxh oA qsbqN.",
+        "shift": 9,
+        "cipher_text": "hZq Cfjzl pB rtsrO.",
+        "gold_label": "nHy Kjpgq xJ zbkzW."
+    },
+    {
+        "plain_text": "uOxnKfn KQVodsd IX!",
+        "shift": 9,
+        "cipher_text": "vPzpLgf LRZoeue JQ!",
+        "gold_label": "dXgwTow TZExmbm RG!"
+    },
+    {
+        "plain_text": "GGCHTqrv sATQG Wqyoyu JEBzaCg!",
+        "shift": 9,
+        "cipher_text": "vvjktpsx tlrqh xqxnzvd !",
+        "gold_label": "PPLQCzae bJCZP Fzhxhd SNKijLp!"
+    }
+]

@@ -1,0 +1,271 @@
+[
+    {
+        "plain_text": "KZgjKLcb Buer Gmucnu!",
+        "shift": 12,
+        "cipher_text": "",
+        "lookup_table": "{'A': 'M', 'B': 'N', 'C': 'O', 'D': 'P', 'E': 'Q', 'F': 'R', 'G': 'S', 'H': 'T', 'I': 'U', 'J': 'V', 'K': 'W', 'L': 'X', 'M': 'Y', 'N': 'Z', 'O': 'A', 'P': 'B', 'Q': 'C', 'R': 'D', 'S': 'E', 'T': 'F', 'U': 'G', 'V': 'H', 'W': 'I', 'X': 'J', 'Y': 'K', 'Z': 'L', 'a':'m', 'b': 'n', 'c': 'o', 'd': 'p', 'e': 'q', 'f': 'r', 'g':'s', 'h': 't', 'i': 'u', 'j': 'v', 'k': 'w', 'l': 'x','m': 'y', 'n': 'z', 'o': 'a', 'p': 'b', 'q': 'c', 'r': 'd','s': 'e', 't': 'f', 'u': 'g', 'v': 'h', 'w': 'i', 'x': 'j', 'y': 'k', 'z': 'l'}",
+        "gold_label": "WLsvWXon Ngqd Sygozg!"
+    },
+    {
+        "plain_text": "NIxXlqHR Y XNgVsQK sQqnT?",
+        "shift": 12,
+        "cipher_text": "WKKOlqHR Y WNgVsQK sQqnT?lq",
+        "lookup_table": "{'A': 'M', 'B': 'N', 'C': 'O', 'D': 'P', 'E': 'Q', 'F': 'R', 'G': 'S', 'H': 'T', 'I': 'U', 'J': 'V', 'K': 'W', 'L': 'X', 'M': 'Y', 'N': 'Z', 'O': 'A', 'P': 'B', 'Q': 'C', 'R': 'D', 'S': 'E', 'T': 'F', 'U': 'G', 'V': 'H', 'W': 'I', 'X': 'J', 'Y': 'K', 'Z': 'L'}",
+        "gold_label": "ZUjJxcTD K JZsHeCW eCczF?"
+    },
+    {
+        "plain_text": "H Vxil kyP FgwVwt.",
+        "shift": 12,
+        "cipher_text": "J wy zn R Gxh xWv",
+        "lookup_table": {
+            "H": "J",
+            "V": "W",
+            "x": "y",
+            "i": "m",
+            "l": "n",
+            "k": "o",
+            "y": "z",
+            "P": "R",
+            "F": "G",
+            "g": "h",
+            "w": "x",
+            "t": "v"
+        },
+        "gold_label": "T Hjux wkB RsiHif."
+    },
+    {
+        "plain_text": "Txpeyk j w orCUE IiSfcFv?",
+        "shift": 12,
+        "cipher_text": "Wlqkxk v w OrCxUE WlSfcFv?e",
+        "lookup_table": {
+            "a": "m",
+            "b": "n",
+            "c": "o",
+            "d": "p",
+            "e": "q",
+            "f": "r",
+            "g": "s",
+            "h": "t",
+            "i": "u",
+            "j": "v",
+            "k": "w",
+            "l": "x",
+            "m": "y",
+            "n": "z",
+            "o": "a",
+            "p": "b",
+            "q": "c",
+            "r": "d",
+            "s": "e",
+            "t": "f",
+            "u": "g",
+            "v": "h",
+            "w": "i",
+            "x": "j",
+            "y": "k",
+            "z": "l"
+        },
+        "gold_label": "Fjbqkw v i adOGQ UuEroRh?"
+    },
+    {
+        "plain_text": "iFAveJIa Yqfcbg iPpMBr DrelHW qhodPO!",
+        "shift": 12,
+        "cipher_text": "kzqjYk yruqkq sruqkq tzqkPO!",
+        "lookup_table": {
+            "a": "m",
+            "b": "n",
+            "c": "o",
+            "d": "p",
+            "e": "q",
+            "f": "r",
+            "g": "s",
+            "h": "t",
+            "i": "u",
+            "j": "v",
+            "k": "w",
+            "l": "x",
+            "m": "y",
+            "n": "z",
+            "o": "a",
+            "p": "b",
+            "q": "c",
+            "r": "d",
+            "s": "e",
+            "t": "f",
+            "u": "g",
+            "v": "h",
+            "w": "i",
+            "x": "j",
+            "y": "k",
+            "z": "l"
+        },
+        "gold_label": "uRMhqVUm Kcrons uBbYNd PdqxTI ctapBA!"
+    },
+    {
+        "plain_text": "C JLVcS lMXq!",
+        "shift": 12,
+        "cipher_text": "",
+        "lookup_table": "{'A': 'M', 'B': 'N', 'C': 'O', 'D': 'P', 'E': 'Q', 'F': 'R', 'G': 'S', 'H': 'T', 'I': 'U', 'J': 'V', 'K': 'W', 'L': 'X', 'M': 'Y', 'N': 'Z', 'O': 'A', 'P': 'B', 'Q': 'C', 'R': 'D', 'S': 'E', 'T': 'F', 'U': 'G', 'V': 'H', 'W': 'I', 'X': 'J', 'Y': 'K', 'Z': 'L', 'a':'m', 'b': 'n', 'c': 'o', 'd': 'p', 'e': 'q', 'f': 'r', 'g':'s', 'h': 't', 'i': 'u', 'j': 'v', 'k': 'w', 'l': 'x','m': 'y', 'n': 'z', 'o': 'a', 'p': 'b', 'q': 'c', 'r': 'd','s': 'e', 't': 'f', 'u': 'g', 'v': 'h', 'w': 'i', 'x': 'j', 'y': 'k', 'z': 'l'}",
+        "gold_label": "O VXHoE xYJc!"
+    },
+    {
+        "plain_text": "dXaotepf N kycFK Z!",
+        "shift": 12,
+        "cipher_text": "",
+        "lookup_table": "{'A': 'M', 'B': 'N', 'C': 'O', 'D': 'P', 'E': 'Q', 'F': 'R', 'G': 'S', 'H': 'T', 'I': 'U', 'J': 'V', 'K': 'W', 'L': 'X', 'M': 'Y', 'N': 'Z', 'O': 'A', 'P': 'B', 'Q': 'C', 'R': 'D', 'S': 'E', 'T': 'F', 'U': 'G', 'V': 'H', 'W': 'I', 'X': 'J', 'Y': 'K', 'Z': 'L', 'a':'m', 'b': 'n', 'c': 'o', 'd': 'p', 'e': 'q', 'f': 'r', 'g':'s', 'h': 't', 'i': 'u', 'j': 'v', 'k': 'w', 'l': 'x','m': 'y', 'n': 'z', 'o': 'a', 'p': 'b', 'q': 'c', 'r': 'd','s': 'e', 't': 'f', 'u': 'g', 'v': 'h', 'w': 'i', 'x': 'j', 'y': 'k', 'z': 'l'}",
+        "gold_label": "pJmafqbr Z wkoRW L!"
+    },
+    {
+        "plain_text": "VtAXA qF Nqnc UYxJqBNU IkRL Nt lVtyVB.",
+        "shift": 12,
+        "cipher_text": "",
+        "lookup_table": "{'A': 'M', 'B': 'N', 'C': 'O', 'D': 'P', 'E': 'Q', 'F': 'R', 'G': 'S', 'H': 'T', 'I': 'U', 'J': 'V', 'K': 'W', 'L': 'X', 'M': 'Y', 'N': 'Z', 'O': 'A', 'P': 'B', 'Q': 'C', 'R': 'D', 'S': 'E', 'T': 'F', 'U': 'G', 'V': 'H', 'W': 'I', 'X': 'J', 'Y': 'K', 'Z': 'L', 'a':'m', 'b': 'n', 'c': 'o', 'd': 'p', 'e': 'q', 'f': 'r', 'g':'s', 'h': 't', 'i': 'u', 'j': 'v', 'k': 'w', 'l': 'x','m': 'y', 'n': 'z', 'o': 'a', 'p': 'b', 'q': 'c', 'r': 'd','s': 'e', 't': 'f', 'u': 'g', 'v': 'h', 'w': 'i', 'x': 'j', 'y': 'k', 'z': 'l'}",
+        "gold_label": "HfMJM cR Zczo GKjVcNZG UwDX Zf xHfkHN."
+    },
+    {
+        "plain_text": "Lsn Sjo bI I dCoUGnHM psjbFDeS!",
+        "shift": 12,
+        "cipher_text": "",
+        "lookup_table": "{'A': 'M', 'B': 'N', 'C': 'O', 'D': 'P', 'E': 'Q', 'F': 'R', 'G': 'S', 'H': 'T', 'I': 'U', 'J': 'V', 'K': 'W', 'L': 'X', 'M': 'Y', 'N': 'Z', 'O': 'A', 'P': 'B', 'Q': 'C', 'R': 'D', 'S': 'E', 'T': 'F', 'U': 'G', 'V': 'H', 'W': 'I', 'X': 'J', 'Y': 'K', 'Z': 'L', 'a':'m', 'b': 'n', 'c': 'o', 'd': 'p', 'e': 'q', 'f': 'r', 'g':'s', 'h': 't', 'i': 'u', 'j': 'v', 'k': 'w', 'l': 'x','m': 'y', 'n': 'z', 'o': 'a', 'p': 'b', 'q': 'c', 'r': 'd','s': 'e', 't': 'f', 'u': 'g', 'v': 'h', 'w': 'i', 'x': 'j', 'y': 'k', 'z': 'l'}",
+        "gold_label": "Xez Eva nU U pOaGSzTY bevnRPqE!"
+    },
+    {
+        "plain_text": "Gh gch KVq jatKQKTl?",
+        "shift": 12,
+        "cipher_text": "",
+        "lookup_table": "{'A': 'M', 'B': 'N', 'C': 'O', 'D': 'P', 'E': 'Q', 'F': 'R', 'G': 'S', 'H': 'T', 'I': 'U', 'J': 'V', 'K': 'W', 'L': 'X', 'M': 'Y', 'N': 'Z', 'O': 'A', 'P': 'B', 'Q': 'C', 'R': 'D', 'S': 'E', 'T': 'F', 'U': 'G', 'V': 'H', 'W': 'I', 'X': 'J', 'Y': 'K', 'Z': 'L', 'a':'m', 'b': 'n', 'c': 'o', 'd': 'p', 'e': 'q', 'f': 'r', 'g':'s', 'h': 't', 'i': 'u', 'j': 'v', 'k': 'w', 'l': 'x','m': 'y', 'n': 'z', 'o': 'a', 'p': 'b', 'q': 'c', 'r': 'd','s': 'e', 't': 'f', 'u': 'g', 'v': 'h', 'w': 'i', 'x': 'j', 'y': 'k', 'z': 'l'}",
+        "gold_label": "St sot WHc vmfWCWFx?"
+    },
+    {
+        "plain_text": "oUQ xjUBpWm Amsw Yrgjbg C Fg?",
+        "shift": 12,
+        "cipher_text": "",
+        "lookup_table": "{'A': 'M', 'B': 'N', 'C': 'O', 'D': 'P', 'E': 'Q', 'F': 'R', 'G': 'S', 'H': 'T', 'I': 'U', 'J': 'V', 'K': 'W', 'L': 'X', 'M': 'Y', 'N': 'Z', 'O': 'A', 'P': 'B', 'Q': 'C', 'R': 'D', 'S': 'E', 'T': 'F', 'U': 'G', 'V': 'H', 'W': 'I', 'X': 'J', 'Y': 'K', 'Z': 'L', 'a':'m', 'b': 'n', 'c': 'o', 'd': 'p', 'e': 'q', 'f': 'r', 'g':'s', 'h': 't', 'i': 'u', 'j': 'v', 'k': 'w', 'l': 'x','m': 'y', 'n': 'z', 'o': 'a', 'p': 'b', 'q': 'c', 'r': 'd','s': 'e', 't': 'f', 'u': 'g', 'v': 'h', 'w': 'i', 'x': 'j', 'y': 'k', 'z': 'l'}",
+        "gold_label": "aGC jvGNbIy Myei Kdsvns O Rs?"
+    },
+    {
+        "plain_text": "Edg uXPjqiQj MzZnc Ay?",
+        "shift": 12,
+        "cipher_text": "",
+        "lookup_table": "{'A': 'M', 'B': 'N', 'C': 'O', 'D': 'P', 'E': 'Q', 'F': 'R', 'G': 'S', 'H': 'T', 'I': 'U', 'J': 'V', 'K': 'W', 'L': 'X', 'M': 'Y', 'N': 'Z', 'O': 'A', 'P': 'B', 'Q': 'C', 'R': 'D', 'S': 'E', 'T': 'F', 'U': 'G', 'V': 'H', 'W': 'I', 'X': 'J', 'Y': 'K', 'Z': 'L', 'a':'m', 'b': 'n', 'c': 'o', 'd': 'p', 'e': 'q', 'f': 'r', 'g':'s', 'h': 't', 'i': 'u', 'j': 'v', 'k': 'w', 'l': 'x','m': 'y', 'n': 'z', 'o': 'a', 'p': 'b', 'q': 'c', 'r': 'd','s': 'e', 't': 'f', 'u': 'g', 'v': 'h', 'w': 'i', 'x': 'j', 'y': 'k', 'z': 'l'}",
+        "gold_label": "Qps gJBvcuCv YlLzo Mk?"
+    },
+    {
+        "plain_text": "JjQbg ZpJKwl Y TF PlbBh HkF xp?",
+        "shift": 12,
+        "cipher_text": "",
+        "lookup_table": "{'A': 'M', 'B': 'N', 'C': 'O', 'D': 'P', 'E': 'Q', 'F': 'R', 'G': 'S', 'H': 'T', 'I': 'U', 'J': 'V', 'K': 'W', 'L': 'X', 'M': 'Y', 'N': 'Z', 'O': 'A', 'P': 'B', 'Q': 'C', 'R': 'D', 'S': 'E', 'T': 'F', 'U': 'G', 'V': 'H', 'W': 'I', 'X': 'J', 'Y': 'K', 'Z': 'L', 'a':'m', 'b': 'n', 'c': 'o', 'd': 'p', 'e': 'q', 'f': 'r', 'g':'s', 'h': 't', 'i': 'u', 'j': 'v', 'k': 'w', 'l': 'x','m': 'y', 'n': 'z', 'o': 'a', 'p': 'b', 'q': 'c', 'r': 'd','s': 'e', 't': 'f', 'u': 'g', 'v': 'h', 'w': 'i', 'x': 'j', 'y': 'k', 'z': 'l'}",
+        "gold_label": "VvCns LbVWix K FR BxnNt TwR jb?"
+    },
+    {
+        "plain_text": "QI NcVI vPPG Esb OcEdD uxJ lj!",
+        "shift": 12,
+        "cipher_text": "",
+        "lookup_table": "{'A': 'M', 'B': 'N', 'C': 'O', 'D': 'P', 'E': 'Q', 'F': 'R', 'G': 'S', 'H': 'T', 'I': 'U', 'J': 'V', 'K': 'W', 'L': 'X', 'M': 'Y', 'N': 'Z', 'O': 'A', 'P': 'B', 'Q': 'C', 'R': 'D', 'S': 'E', 'T': 'F', 'U': 'G', 'V': 'H', 'W': 'I', 'X': 'J', 'Y': 'K', 'Z': 'L', 'a':'m', 'b': 'n', 'c': 'o', 'd': 'p', 'e': 'q', 'f': 'r', 'g':'s', 'h': 't', 'i': 'u', 'j': 'v', 'k': 'w', 'l': 'x','m': 'y', 'n': 'z', 'o': 'a', 'p': 'b', 'q': 'c', 'r': 'd','s': 'e', 't': 'f', 'u': 'g', 'v': 'h', 'w': 'i', 'x': 'j', 'y': 'k', 'z': 'l'}",
+        "gold_label": "CU ZoHU hBBS Qen AoQpP gjV xv!"
+    },
+    {
+        "plain_text": "Z uG KXSsjDP cslqA QBYp SDW!",
+        "shift": 12,
+        "cipher_text": "L uM KXSsjDP cslqA QBYp SDW!",
+        "lookup_table": {
+            "A": "M",
+            "B": "N",
+            "C": "O",
+            "D": "P",
+            "E": "Q",
+            "F": "R",
+            "G": "S",
+            "H": "T",
+            "I": "U",
+            "J": "V",
+            "K": "W",
+            "L": "X",
+            "M": "Y",
+            "N": "Z",
+            "O": "A",
+            "P": "B",
+            "Q": "C",
+            "R": "D",
+            "S": "E",
+            "T": "F",
+            "U": "G",
+            "V": "H",
+            "W": "I",
+            "X": "J",
+            "Y": "K",
+            "Z": "L"
+        },
+        "gold_label": "L gS WJEevPB oexcM CNKb EPI!"
+    },
+    {
+        "plain_text": "udyFntCZ mNumzvkO sYla WxGoRM!",
+        "shift": 12,
+        "cipher_text": "",
+        "lookup_table": "{'a':'m', 'b': 'n', 'c': 'o', 'd': 'p', 'e': 'q', 'f': 'r', 'g':'s', 'h': 't', 'i': 'u', 'j': 'v', 'k': 'w', 'l': 'x','m': 'y', 'n': 'z', 'o': 'a', 'p': 'b', 'q': 'c', 'r': 'd','s': 'e', 't': 'f', 'u': 'g', 'v': 'h', 'w': 'i', 'x': 'j', 'y': 'k', 'z': 'l', 'A': 'M', 'B': 'N', 'C': 'O', 'D': 'P', 'E': 'Q', 'F': 'R', 'G': 'S', 'H': 'T', 'I': 'U', 'J': 'V', 'K': 'W', 'L': 'X', 'M': 'Y', 'N': 'Z', 'O': 'A', 'P': 'B', 'Q': 'C', 'R': 'D', 'S': 'E', 'T': 'F', 'U': 'G', 'V': 'H', 'W': 'I', 'X': 'J', 'Y': 'K', 'Z': 'L'}",
+        "gold_label": "gpkRzfOL yZgylhwA eKxm IjSaDY!"
+    },
+    {
+        "plain_text": "Ci he ZbvYWehF.",
+        "shift": 12,
+        "cipher_text": "Owvqxlijkmn",
+        "lookup_table": "{'C': 'O', 'i': 'w', 'h': 'v', 'e': 'q', 'Z': 'L', 'b': 'x', 'v': 'i', 'Y': 'j', 'W': 'k', 'e': 'l', 'h':'m', 'F': 'n'}",
+        "gold_label": "Ou tq LnhKIqtR."
+    },
+    {
+        "plain_text": "zErzqljE LI JpymEjyp.",
+        "shift": 12,
+        "cipher_text": "tErztqlmJ LI JpymtJyp",
+        "lookup_table": "{'a':'m', 'b': 'n', 'c': 'o', 'd': 'p', 'e': 'q', 'f': 'r', 'g':'s', 'h': 't', 'i': 'u', 'j': 'v', 'k': 'w', 'l': 'x','m': 'y', 'n': 'z', 'o': 'a', 'p': 'b', 'q': 'c', 'r': 'd','s': 'e', 't': 'f', 'u': 'g', 'v': 'h', 'w': 'i', 'x': 'j', 'y': 'k', 'z': 'l', 'A': 'M', 'B': 'N', 'C': 'O', 'D': 'P', 'E': 'Q', 'F': 'R', 'G': 'S', 'H': 'T', 'I': 'U', 'J': 'V', 'K': 'W', 'L': 'X', 'M': 'Y', 'N': 'Z', 'O': 'A', 'P': 'B', 'Q': 'C', 'R': 'D', 'S': 'E', 'T': 'F', 'U': 'G', 'V': 'H', 'W': 'I', 'X': 'J', 'Y': 'K', 'Z': 'L'}",
+        "gold_label": "lQdlcxvQ XU VbkyQvkb."
+    },
+    {
+        "plain_text": "HLk oNEMqbo EXAfp.",
+        "shift": 12,
+        "cipher_text": "",
+        "lookup_table": "{'A': 'M', 'B': 'N', 'C': 'O', 'D': 'P', 'E': 'Q', 'F': 'R', 'G': 'S', 'H': 'T', 'I': 'U', 'J': 'V', 'K': 'W', 'L': 'X', 'M': 'Y', 'N': 'Z', 'O': 'A', 'P': 'B', 'Q': 'C', 'R': 'D', 'S': 'E', 'T': 'F', 'U': 'G', 'V': 'H', 'W': 'I', 'X': 'J', 'Y': 'K', 'Z': 'L', 'a':'m', 'b': 'n', 'c': 'o', 'd': 'p', 'e': 'q', 'f': 'r', 'g':'s', 'h': 't', 'i': 'u', 'j': 'v', 'k': 'w', 'l': 'x','m': 'y', 'n': 'z', 'o': 'a', 'p': 'b', 'q': 'c', 'r': 'd','s': 'e', 't': 'f', 'u': 'g', 'v': 'h', 'w': 'i', 'x': 'j', 'y': 'k', 'z': 'l'}",
+        "gold_label": "TXw aZQYcna QJMrb."
+    },
+    {
+        "plain_text": "x g lXwR!",
+        "shift": 12,
+        "cipher_text": "k s pXwS!p",
+        "lookup_table": "{'a':'m', 'b': 'n', 'c': 'o', 'd': 'p', 'e': 'q', 'f': 'r', 'g':'s', 'h': 't', 'i': 'u', 'j': 'v', 'k': 'w', 'l': 'x','m': 'a', 'n': 'b', 'o': 'c', 'p': 'd', 'q': 'e', 'r': 'f','s': 'g', 't': 'h', 'u': 'i', 'v': 'j', 'w': 'k', 'x': 'l', 'y': 'z', 'z': 'y'}",
+        "gold_label": "j s xJiD!"
+    },
+    {
+        "plain_text": "Xqy dUqznS K!",
+        "shift": 12,
+        "cipher_text": "Lwz pWwxoV R!zw",
+        "lookup_table": "{'X': 'L', 'q': 'w', 'y': 'z', 'd': 'p', 'U': 'W', 'q': 'w', 'z': 'x', 'n': 'o', 'S': 'V', 'K': 'R', '!': '!', 'q': 'w', 'y': 'z', 'q': 'w'}",
+        "gold_label": "Jck pGclzE W!"
+    },
+    {
+        "plain_text": "oRjRraIA BW C Ztyw RkOT sOEWOT yergn?",
+        "shift": 12,
+        "cipher_text": "",
+        "lookup_table": {},
+        "gold_label": "aDvDdmUM NI O Lfki DwAF eAQIAF kqdsz?"
+    },
+    {
+        "plain_text": "eYp Bagxh oA qsbqN.",
+        "shift": 12,
+        "cipher_text": "",
+        "lookup_table": "{'A': 'M', 'B': 'N', 'C': 'O', 'D': 'P', 'E': 'Q', 'F': 'R', 'G': 'S', 'H': 'T', 'I': 'U', 'J': 'V', 'K': 'W', 'L': 'X', 'M': 'Y', 'N': 'Z', 'O': 'A', 'P': 'B', 'Q': 'C', 'R': 'D', 'S': 'E', 'T': 'F', 'U': 'G', 'V': 'H', 'W': 'I', 'X': 'J', 'Y': 'K', 'Z': 'L', 'a':'m', 'b': 'n', 'c': 'o', 'd': 'p', 'e': 'q', 'f': 'r', 'g':'s', 'h': 't', 'i': 'u', 'j': 'v', 'k': 'w', 'l': 'x','m': 'y', 'n': 'z', 'o': 'a', 'p': 'b', 'q': 'c', 'r': 'd','s': 'e', 't': 'f', 'u': 'g', 'v': 'h', 'w': 'i', 'x': 'j', 'y': 'k', 'z': 'l'}",
+        "gold_label": "qKb Nmsjt aM cencZ."
+    },
+    {
+        "plain_text": "uOxnKfn KQVodsd IX!",
+        "shift": 12,
+        "cipher_text": "",
+        "lookup_table": "{'A': 'M', 'B': 'N', 'C': 'O', 'D': 'P', 'E': 'Q', 'F': 'R', 'G': 'S', 'H': 'T', 'I': 'U', 'J': 'V', 'K': 'W', 'L': 'X', 'M': 'Y', 'N': 'Z', 'O': 'A', 'P': 'B', 'Q': 'C', 'R': 'D', 'S': 'E', 'T': 'F', 'U': 'G', 'V': 'H', 'W': 'I', 'X': 'J', 'Y': 'K', 'Z': 'L', 'a':'m', 'b': 'n', 'c': 'o', 'd': 'p', 'e': 'q', 'f': 'r', 'g':'s', 'h': 't', 'i': 'u', 'j': 'v', 'k': 'w', 'l': 'x','m': 'y', 'n': 'z', 'o': 'a', 'p': 'b', 'q': 'c', 'r': 'd','s': 'e', 't': 'f', 'u': 'g', 'v': 'h', 'w': 'i', 'x': 'j', 'y': 'k', 'z': 'l'}",
+        "gold_label": "gAjzWrz WCHapep UJ!"
+    },
+    {
+        "plain_text": "GGCHTqrv sATQG Wqyoyu JEBzaCg!",
+        "shift": 12,
+        "cipher_text": "",
+        "lookup_table": "{'A': 'M', 'B': 'N', 'C': 'O', 'D': 'P', 'E': 'Q', 'F': 'R', 'G': 'S', 'H': 'T', 'I': 'U', 'J': 'V', 'K': 'W', 'L': 'X', 'M': 'Y', 'N': 'Z', 'O': 'A', 'P': 'B', 'Q': 'C', 'R': 'D', 'S': 'E', 'T': 'F', 'U': 'G', 'V': 'H', 'W': 'I', 'X': 'J', 'Y': 'K', 'Z': 'L', 'a':'m', 'b': 'n', 'c': 'o', 'd': 'p', 'e': 'q', 'f': 'r', 'g':'s', 'h': 't', 'i': 'u', 'j': 'v', 'k': 'w', 'l': 'x','m': 'y', 'n': 'z', 'o': 'a', 'p': 'b', 'q': 'c', 'r': 'd','s': 'e', 't': 'f', 'u': 'g', 'v': 'h', 'w': 'i', 'x': 'j', 'y': 'k', 'z': 'l'}",
+        "gold_label": "SSOTFcdh eMFCS Ickakg VQNlmOs!"
+    }
+]

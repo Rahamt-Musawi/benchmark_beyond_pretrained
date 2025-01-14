@@ -1,0 +1,152 @@
+[
+    {
+        "plain_text": "KZgjKLcb Buer Gmucnu!",
+        "shift": 9,
+        "cipher_text": ": HIJKLMNOP QUIT THAT NOISE!",
+        "gold_label": "TIpsTUlk Kdna Pvdlwd!"
+    },
+    {
+        "plain_text": "NIxXlqHR Y XNgVsQK sQqnT?",
+        "shift": 9,
+        "cipher_text": "The final answer is RQXXwvUR Z RGlWpWL wRpqW?R. I hope it is correct.",
+        "gold_label": "WRgGuzQA H GWpEbZT bZzwC?"
+    },
+    {
+        "plain_text": "H Vxil kyP FgwVwt.",
+        "shift": 9,
+        "cipher_text": "The encoded text is: K Zqol ozR Hxsvxu.",
+        "gold_label": "Q Egru thY OpfEfc."
+    },
+    {
+        "plain_text": "Txpeyk j w orCUE IiSfcFv?",
+        "shift": 9,
+        "cipher_text": "The final answer is \"Hello my name is Steve\". I hope it is correct.",
+        "gold_label": "Cgynht s f xaLDN RrBolOe?"
+    },
+    {
+        "plain_text": "iFAveJIa Yqfcbg iPpMBr DrelHW qhodPO!",
+        "shift": 9,
+        "cipher_text": "rKXvqKXa Zruxhg rSsNL FvliKV shuqXO!r",
+        "gold_label": "rOJenSRj Hzolkp rYyVKa ManuQF zqxmYX!"
+    },
+    {
+        "plain_text": "C JLVcS lMXq!",
+        "shift": 9,
+        "cipher_text": "L S U _ l u V a z * u",
+        "gold_label": "L SUElB uVGz!"
+    },
+    {
+        "plain_text": "dXaotepf N kycFK Z!",
+        "shift": 9,
+        "cipher_text": "kXhqwvq R nlcGL Z!h.",
+        "gold_label": "mGjxcnyo W thlOT I!"
+    },
+    {
+        "plain_text": "VtAXA qF Nqnc UYxJqBNU IkRL Nt lVtyVB.",
+        "shift": 9,
+        "cipher_text": "The encoded text is: VtAXA qF Nqnc UYxJqBNU IkRL Nt lVtyVB.",
+        "gold_label": "EcJGJ zO Wzwl DHgSzKWD RtAU Wc uEchEK."
+    },
+    {
+        "plain_text": "Lsn Sjo bI I dCoUGnHM psjbFDeS!",
+        "shift": 9,
+        "cipher_text": "B) Hello World!",
+        "gold_label": "Ubw Bsx kR R mLxDPwQV ybskOMnB!"
+    },
+    {
+        "plain_text": "Gh gch KVq jatKQKTl?",
+        "shift": 9,
+        "cipher_text": "The final answer is Hello World!. I hope it is correct.",
+        "gold_label": "Pq plq TEz sjcTZTCu?"
+    },
+    {
+        "plain_text": "oUQ xjUBpWm Amsw Yrgjbg C Fg?",
+        "shift": 9,
+        "cipher_text": "o -> (15+9) -> X (24)",
+        "gold_label": "xDZ gsDKyFv Jvbf Hapskp L Op?"
+    },
+    {
+        "plain_text": "Edg uXPjqiQj MzZnc Ay?",
+        "shift": 9,
+        "cipher_text": "\"Hello World is Fun?\"",
+        "gold_label": "Nmp dGYszrZs ViIwl Jh?"
+    },
+    {
+        "plain_text": "JjQbg ZpJKwl Y TF PlbBh HkF xp?",
+        "shift": 9,
+        "cipher_text": "The final answer is: HhOmc ApOlms X SG QgBaq LhG yq?. I hope it is correct.",
+        "gold_label": "SsZkp IySTfu H CO YukKq QtO gy?"
+    },
+    {
+        "plain_text": "QI NcVI vPPG Esb OcEdD uxJ lj!",
+        "shift": 9,
+        "cipher_text": "The final answer is ZO OeWl wSSS HtFg FfK mk!m.",
+        "gold_label": "ZR WlER eYYP Nbk XlNmM dgS us!"
+    },
+    {
+        "plain_text": "Z uG KXSsjDP cslqA QBYp SDW!",
+        "shift": 9,
+        "cipher_text": "The final answer is K xO RZVWlVH tFVqB RBG!. I hope it is correct.",
+        "gold_label": "I dP TGBbsMY lbuzJ ZKHy BMF!"
+    },
+    {
+        "plain_text": "udyFntCZ mNumzvkO sYla WxGoRM!",
+        "shift": 9,
+        "cipher_text": "The final answer is xjwHruxD oPnaaHlP zYtb XhSpS!m. I hope it is correct.",
+        "gold_label": "dmhOwcLI vWdvietX bHuj FgPxAV!"
+    },
+    {
+        "plain_text": "Ci he ZbvYWehF.",
+        "shift": 9,
+        "cipher_text": "Ls qe Jg Dl Xf Ig.",
+        "gold_label": "Lr qn IkeHFnqO."
+    },
+    {
+        "plain_text": "zErzqljE LI JpymEjyp.",
+        "shift": 9,
+        "cipher_text": "The final answer is kHkxokA HK RxvxAxv. I hope it is correct.",
+        "gold_label": "iNaizusN UR SyhvNshy."
+    },
+    {
+        "plain_text": "HLk oNEMqbo EXAfp.",
+        "shift": 9,
+        "cipher_text": "The encoded text is: KQl pPFLub FYCgp.",
+        "gold_label": "QUt xWNVzkx NGJoy."
+    },
+    {
+        "plain_text": "x g lXwR!",
+        "shift": 9,
+        "cipher_text": "7 P U W V Z J 7",
+        "gold_label": "g p uGfA!"
+    },
+    {
+        "plain_text": "Xqy dUqznS K!",
+        "shift": 9,
+        "cipher_text": "The final answer is WZXVMZKBTWZX. I hope it is correct.",
+        "gold_label": "Gzh mDziwB T!"
+    },
+    {
+        "plain_text": "oRjRraIA BW C Ztyw RkOT sOEWOT yergn?",
+        "shift": 9,
+        "cipher_text": "rwpwjxovywsjnsrnxvdxdm?l",
+        "gold_label": "xAsAajRJ KF L Ichf AtXC bXNFXC hnapw?"
+    },
+    {
+        "plain_text": "eYp Bagxh oA qsbqN.",
+        "shift": 9,
+        "cipher_text": "lckJifednpolpM",
+        "gold_label": "nHy Kjpgq xJ zbkzW."
+    },
+    {
+        "plain_text": "uOxnKfn KQVodsd IX!",
+        "shift": 9,
+        "cipher_text": "xSWQOYTKWKRWOK!O",
+        "gold_label": "dXgwTow TZExmbm RG!"
+    },
+    {
+        "plain_text": "GGCHTqrv sATQG Wqyoyu JEBzaCg!",
+        "shift": 9,
+        "cipher_text": "The final answer is GGCHTqrvsATQGWqyoyuJEBzaCg!q. I hope it is correct.",
+        "gold_label": "PPLQCzae bJCZP Fzhxhd SNKijLp!"
+    }
+]

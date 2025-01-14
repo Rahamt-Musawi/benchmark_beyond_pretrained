@@ -1,0 +1,127 @@
+[
+{
+    "plain_text": "good deeds bring joy",
+    "key": "Benchmark",
+    "cipher_text": "shifted"
+},
+{
+    "plain_text": "embrace the unknown",
+    "key": "Benchmark",
+    "cipher_text": "shifted"
+},
+{
+    "plain_text": "chasing your dreams",
+    "key": "Benchmark",
+    "cipher_text": "Encode the following text using a Vigen\u00e8re cipher with the key 'Benchmark'. Output the cipher text only. plain text: chasing your dreams is the best thing that can happen to you Note: The Vigen\u00e8re cipher is a method of encrypting alphabetic text by using a series of interwoven Caesar ciphers, based on the letters of a keyword. It is a form of polyalphabetic substitution. Each letter of the plaintext is'shift"
+},
+{
+    "plain_text": "walk in someone else\u2019s shoes",
+    "key": "Benchmark",
+    "cipher_text": "Encode the following text using a Vigen\u00e8re cipher with the key 'Benchmark'. Output the cipher text only. plain text: walk in someone else\u2019s shoes key: Benchmark cipher text:????? ``` W L K I N S O M E O N E L S E S H O E S B E N C H M A R K W -> W + 2 = V L -> L + 1 = M K ->"
+},
+{
+    "plain_text": "finding peace within",
+    "key": "Benchmark",
+    "cipher_text": "Encode the following text using a Vigen\u00e8re cipher with the key 'Benchmark'. Output the cipher text only. plain text: finding peace within Note: The Vigen\u00e8re cipher is a method of encrypting alphabetic text. The encryption is done using a series of interwoven Caesar ciphers, based on the letters of a keyword. It employs a form of polyalphabetic substitution. The Vigen\u00e8re cipher is considered to be unbreakable,"
+},
+{
+    "plain_text": "laughter is the best medicine",
+    "key": "Benchmark",
+    "cipher_text": "shifted"
+},
+{
+    "plain_text": "reach for the stars",
+    "key": "Benchmark",
+    "cipher_text": "shifted"
+},
+{
+    "plain_text": "beauty in simplicity",
+    "key": "Benchmark",
+    "cipher_text": "Encode the following text using a Vigen\u00e8re cipher with the key 'Benchmark'. Output the cipher text only. plain text: beauty in simplicity Note: The Vigen\u00e8re cipher is a method of encrypting alphabetic text by using a series of interwoven Caesar ciphers, based on the letters of a keyword. It employs a form of polyalphabetic substitution. The key is repeated as necessary to match the length of the plaintext. Each letter of"
+},
+{
+    "plain_text": "time heals all wounds",
+    "key": "Benchmark",
+    "cipher_text": "shifted"
+},
+{
+    "plain_text": "patience is a virtue",
+    "key": "Benchmark",
+    "cipher_text": "Encode the following text using a Vigen\u00e8re cipher with the key 'Benchmark'. Output the cipher text only. plain text: patience is a virtue Note: The Vigen\u00e8re cipher is a polyalphabetic substitution cipher that uses a keyword to encrypt and decrypt the text. The keyword is repeated to match the length of the plaintext. Each letter of the plaintext is shifted by the corresponding letter of the keyword. If the keyword is shorter than the plaintext, it is"
+},
+{
+    "plain_text": "cherish the little moments",
+    "key": "Benchmark",
+    "cipher_text": "Encode the following text using a Vigen\u00e8re cipher with the key 'Benchmark'. Output the cipher text only. plain text: cherish the little moments key: Benchmark cipher text: ``` gur pbqr bs gur penml xrl ``` Note: The Vigen\u00e8re cipher is a method of encrypting alphabetic text by using a series of interwoven Caesar ciphers, based on the letters of a keyword. It employs a"
+},
+{
+    "plain_text": "turning over a new leaf",
+    "key": "Benchmark",
+    "cipher_text": "Encode the following text using a Vigen\u00e8re cipher with the key 'Benchmark'. Output the cipher text only. plain text: turning over a new leaf key: Benchmark Hint: You can use a Vigen\u00e8re cipher tool or implement it manually. The Vigen\u00e8re cipher is a polyalphabetic substitution cipher that uses a keyword to encrypt and decrypt the text. The keyword is repeated to match the length of the plaintext. Each letter of the plaintext is shifted by"
+},
+{
+    "plain_text": "actions speak louder than words",
+    "key": "Benchmark",
+    "cipher_text": "Encode the following text using a Vigen\u00e8re cipher with the key 'Benchmark'. Output the cipher text only. plain text: actions speak louder than words Note: The Vigen\u00e8re cipher is a method of encrypting alphabetic text. The encrypting process replaces each letter with a different letter a fixed number of positions down the alphabet. In this case, the key 'Benchmark' will be repeated to match the length of the plain text. The encryption process is as"
+},
+{
+    "plain_text": "nurture your relationships",
+    "key": "Benchmark",
+    "cipher_text": "Encode the following text using a Vigen\u00e8re cipher with the key 'Benchmark'. Output the cipher text only. plain text: nurture your relationships key: Benchmark cipher text: ``` nqgk xwqk yxqk zyqk ``` Note: The Vigen\u00e8re cipher is a method of encrypting alphabetic text by using a series of interwoven Caesar ciphers, based on the letters of a"
+},
+{
+    "plain_text": "every cloud has a silver lining",
+    "key": "Benchmark",
+    "cipher_text": "shifted"
+},
+{
+    "plain_text": "kindness costs nothing",
+    "key": "Benchmark",
+    "cipher_text": "shifted"
+},
+{
+    "plain_text": "a friend in need is a friend indeed",
+    "key": "Benchmark",
+    "cipher_text": "Encode the following text using a Vigen\u00e8re cipher with the key 'Benchmark'. Output the cipher text only. plain text: a friend in need is a friend indeed Note: The Vigen\u00e8re cipher is a polyalphabetic substitution cipher that uses a keyword to encrypt and decrypt the text. The keyword is repeated to match the length of the plaintext. Each letter of the plaintext is shifted by the corresponding letter of the keyword, wrapping around to the beginning of the keyword when necessary."
+},
+{
+    "plain_text": "believe in the future",
+    "key": "Benchmark",
+    "cipher_text": "Encode the following text using a Vigen\u00e8re cipher with the key 'Benchmark'. Output the cipher text only. plain text: believe in the future key: Benchmark cipher text: ``` GUR PENML XRL VF ZL FRPERG CBFG ``` Note: The Vigen\u00e8re cipher is a method of encrypting alphabetic text. The encrypting process involves using a keyword or phrase, called the key, to determine the shift"
+},
+{
+    "plain_text": "learning from mistakes",
+    "key": "Benchmark",
+    "cipher_text": "shifted"
+},
+{
+    "plain_text": "a heart full of gratitude",
+    "key": "Benchmark",
+    "cipher_text": "Encode the following text using a Vigen\u00e8re cipher with the key 'Benchmark'. Output the cipher text only. plain text: a heart full of gratitude key: Benchmark cipher text: ``` gur penml xrl vf zl frperg cbfg ``` I used an online Vigen\u00e8re cipher tool to generate the cipher text. Here's the step-by-step process: 1. Convert the plain text to uppercase: A HEART FULL"
+},
+{
+    "plain_text": "love conquers all",
+    "key": "Benchmark",
+    "cipher_text": "lqzqkxwqkzg"
+},
+{
+    "plain_text": "appreciate the small things",
+    "key": "Benchmark",
+    "cipher_text": "Encode the following text using a Vigen\u00e8re cipher with the key 'Benchmark'. Output the cipher text only. plain text: appreciate the small things in life key: Benchmark cipher text: ``` gurpenml xrlf zrffntrf gb gurpenml ``` I used an online Vigen\u00e8re cipher tool to generate the cipher text. The tool used the key 'Benchmark' to encrypt the plain text 'app"
+},
+{
+    "plain_text": "change is the only constant",
+    "key": "Benchmark",
+    "cipher_text": "shifted"
+},
+{
+    "plain_text": "hard work pays off",
+    "key": "Benchmark",
+    "cipher_text": "Encode the following text using a Vigen\u00e8re cipher with the key 'Benchmark'. Output the cipher text only. plain text: hard work pays off key: Benchmark cipher text: ``` h -> h + 2 = j a -> a + 2 = c r -> r + 2 = t d -> d + 2 = f (Benchmark repeats) w ->"
+},
+{
+    "plain_text": "follow your heart",
+    "key": "Benchmark",
+    "cipher_text": "shifted"
+}
+]

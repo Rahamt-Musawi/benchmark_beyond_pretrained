@@ -1,0 +1,62 @@
+[
+    {
+        "plain_text": "KZgjKLcb Buer Gmucnu!",
+        "shift": 3,
+        "cipher_text": "KZjmKLfe Bxhu Gpxfqx!",
+        "gold_label": "KZjmKLfe Bxhu Gpxfqx!"
+    },
+        {
+        "plain_text": "KZgjKLcb Buer Gmucnu!",
+        "shift": 3,
+        "cipher_text": "KZjmKLfe Bxhu Gpxfqx!",
+        "gold_label": "KZjmKLfe Bxhu Gpxfqx!"
+    },
+      {
+        "plain_text": "KZgjKLcb Buer Gmucnu!",
+        "shift": 3,
+        "cipher_text": "KZjmKLfe Bxhu Gpxfqx!",
+        "gold_label": "KZjmKLfe Bxhu Gpxfqx!"
+    },
+      {
+        "plain_text": "KZgjKLcb Buer Gmucnu!",
+        "shift": 3,
+        "cipher_text": "KZjmKLfe Bxhu Gpxfqx!",
+        "gold_label": "KZjmKLfe Bxhu Gpxfqx!"
+    },
+      {
+        "plain_text": "KZgjKLcb Buer Gmucnu!",
+        "shift": 3,
+        "cipher_text": "KZjmKLfe Bxhu Gpxfqx!",
+        "gold_label": "KZjmKLfe Bxhu Gpxfqx!"
+    },
+      {
+        "plain_text": "KZgjKLcb Buer Gmucnu!",
+        "shift": 3,
+        "cipher_text": "_",
+        "gold_label": "KZjmKLfe Bxhu Gpxfqx!"
+    },
+      {
+        "plain_text": "KZgjKLcb Buer Gmucnu!",
+        "shift": 3,
+        "cipher_text": "_",
+        "gold_label": "KZjmKLfe Bxhu Gpxfqx!"
+    },
+      {
+        "plain_text": "KZgjKLcb Buer Gmucnu!",
+        "shift": 3,
+        "cipher_text": "_",
+        "gold_label": "KZjmKLfe Bxhu Gpxfqx!"
+    },
+      {
+        "plain_text": "KZgjKLcb Buer Gmucnu!",
+        "shift": 3,
+        "cipher_text": "_",
+        "gold_label": "KZjmKLfe Bxhu Gpxfqx!"
+    },
+      {
+        "plain_text": "KZgjKLcb Buer Gmucnu!",
+        "shift": 3,
+        "cipher_text": "_",
+        "gold_label": "KZjmKLfe Bxhu Gpxfqx!"
+    }
+]

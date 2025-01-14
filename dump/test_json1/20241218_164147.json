@@ -1,0 +1,152 @@
+[
+    {
+        "plain_text": "KZgjKLcb Buer Gmucnu!",
+        "shift": 3,
+        "cipher_text": "LBlkLdca Cxghnq!",
+        "gold_label": "NCjmNOfe Exhu Jpxfqx!"
+    },
+    {
+        "plain_text": "NIxXlqHR Y XNgVsQK sQqnT?",
+        "shift": 3,
+        "cipher_text": ": PKwZlqJU Z YOQXWVQ tQwU?",
+        "gold_label": "QLaAotKU B AQjYvTN vTtqW?"
+    },
+    {
+        "plain_text": "H Vxil kyP FgwVwt.",
+        "shift": 3,
+        "cipher_text": "K Wzju lyS GkxXyu.",
+        "gold_label": "K Yalo nbS IjzYzw."
+    },
+    {
+        "plain_text": "Txpeyk j w orCUE IiSfcFv?",
+        "shift": 3,
+        "cipher_text": "Encode the following text to a Caesar cipher. The shift is 3. Output the cipher text only.\nplain text: Txpeyk j w orCUE IiSfcFv? \nNote: The Caesar cipher is a type of substitution cipher where each letter in the plaintext is'shifted' a certain number of places down the alphabet. In this case, the shift is 3. \nExample: 'a' becomes 'd', 'b' becomes 'e', 'c' becomes '",
+        "gold_label": "Washbn m z ruFXH LlVifIy?"
+    },
+    {
+        "plain_text": "iFAveJIa Yqfcbg iPpMBr DrelHW qhodPO!",
+        "shift": 3,
+        "cipher_text": ": kHgwiJj Zrfdch jqqNCl EseuJX rikpQo!",
+        "gold_label": "lIDyhMLd Btifej lSsPEu GuhoKZ tkrgSR!"
+    },
+    {
+        "plain_text": "C JLVcS lMXq!",
+        "shift": 3,
+        "cipher_text": ": E KMWfT oNz!",
+        "gold_label": "F MOYfV oPAt!"
+    },
+    {
+        "plain_text": "dXaotepf N kycFK Z!",
+        "shift": 3,
+        "cipher_text": ":",
+        "gold_label": "gAdrwhsi Q nbfIN C!"
+    },
+    {
+        "plain_text": "VtAXA qF Nqnc UYxJqBNU IkRL Nt lVtyVB.",
+        "shift": 3,
+        "cipher_text": ": WwBYB rG Oooc VZyKqCNU JmSL Oo mWuzWC.",
+        "gold_label": "YwDAD tI Qtqf XBaMtEQX LnUO Qw oYwbYE."
+    },
+    {
+        "plain_text": "Lsn Sjo bI I dCoUGnHM psjbFDeS!",
+        "shift": 3,
+        "cipher_text": ": Ouo Uok cJ J eFgVnIO qkfcGFeE!",
+        "gold_label": "Ovq Vmr eL L gFrXJqKP svmeIGhV!"
+    },
+    {
+        "plain_text": "Gh gch KVq jatKQKTl?",
+        "shift": 3,
+        "cipher_text": ": Kk kff MWs lbnLWLu?",
+        "gold_label": "Jk jfk NYt mdwNTNWo?"
+    },
+    {
+        "plain_text": "oUQ xjUBpWm Amsw Yrgjbg C Fg?",
+        "shift": 3,
+        "cipher_text": ": rVr ykVtXn Bntx Zsikhdf D Hh?",
+        "gold_label": "rXT amXEsZp Dpvz Bujmej F Ij?"
+    },
+    {
+        "plain_text": "Edg uXPjqiQj MzZnc Ay?",
+        "shift": 3,
+        "cipher_text": ": Hflv yZUoqlQo Oaaoa B?",
+        "gold_label": "Hgj xASmtlTm PcCqf Db?"
+    },
+    {
+        "plain_text": "JjQbg ZpJKwl Y TF PlbBh HkF xp?",
+        "shift": 3,
+        "cipher_text": ": KkRci [insert cipher text here]",
+        "gold_label": "MmTej CsMNzo B WI SoeEk KnI as?"
+    },
+    {
+        "plain_text": "QI NcVI vPPG Esb OcEdD uxJ lj!",
+        "shift": 3,
+        "cipher_text": ": RH OeXW wRRH Fda PfeF vxM pq!",
+        "gold_label": "TL QfYL ySSJ Hve RfHgG xaM om!"
+    },
+    {
+        "plain_text": "Z uG KXSsjDP cslqA QBYp SDW!",
+        "shift": 3,
+        "cipher_text": ":",
+        "gold_label": "C xJ NAVvmGS fvotD TEBs VGZ!"
+    },
+    {
+        "plain_text": "udyFntCZ mNumzvkO sYla WxGoRM!",
+        "shift": 3,
+        "cipher_text": ": wjgGpeEa oOzqywnP tZmb YzHqSn!",
+        "gold_label": "xgbIqwFC pQxpcynR vBod ZaJrUP!"
+    },
+    {
+        "plain_text": "Ci he ZbvYWehF.",
+        "shift": 3,
+        "cipher_text": "Encode the following text to a Caesar cipher. The shift is 3. Output the cipher text only.\nplain text: Ci he ZbvYWehF. \nNote: Caesar cipher is a type of substitution cipher where each letter in the plaintext is'shifted' a certain number of places down the alphabet. In this case, the shift is 3. \nExample: 'a' becomes 'd', 'b' becomes 'e', 'c' becomes 'f",
+        "gold_label": "Fl kh CeyBZhkI."
+    },
+    {
+        "plain_text": "zErzqljE LI JpymEjyp.",
+        "shift": 3,
+        "cipher_text": "hVthqhkF KO HnxvdFnx.",
+        "gold_label": "cHuctomH OL MsbpHmbs."
+    },
+    {
+        "plain_text": "HLk oNEMqbo EXAfp.",
+        "shift": 3,
+        "cipher_text": "should be",
+        "gold_label": "KOn rQHPter HADis."
+    },
+    {
+        "plain_text": "x g lXwR!",
+        "shift": 3,
+        "cipher_text": "Encode the following text to a Caesar cipher. The shift is 3. Output the cipher text only.\nplain text: x g lXwR! 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34",
+        "gold_label": "a j oAzU!"
+    },
+    {
+        "plain_text": "Xqy dUqznS K!",
+        "shift": 3,
+        "cipher_text": ": Hro eTqwnR J!",
+        "gold_label": "Atb gXtcqV N!"
+    },
+    {
+        "plain_text": "oRjRraIA BW C Ztyw RkOT sOEWOT yergn?",
+        "shift": 3,
+        "cipher_text": ": wSsSsLB DW E Zxza WpPU tSFWPU xfrx?",
+        "gold_label": "rUmUudLD EZ F Cwbz UnRW vRHZRW bhujq?"
+    },
+    {
+        "plain_text": "eYp Bagxh oA qsbqN.",
+        "shift": 3,
+        "cipher_text": "?",
+        "gold_label": "hBs Edjak rD tvetQ."
+    },
+    {
+        "plain_text": "uOxnKfn KQVodsd IX!",
+        "shift": 3,
+        "cipher_text": ": wTzqMgq LQXptwe JZ!",
+        "gold_label": "xRaqNiq NTYrgvg LA!"
+    },
+    {
+        "plain_text": "GGCHTqrv sATQG Wqyoyu JEBzaCg!",
+        "shift": 3,
+        "cipher_text": ": HKDIUtwu tbBRH Xzyvzu KFCbdfj!",
+        "gold_label": "JJFKWtuy vDWTJ Ztbrbx MHEcdFj!"
+    }
+]

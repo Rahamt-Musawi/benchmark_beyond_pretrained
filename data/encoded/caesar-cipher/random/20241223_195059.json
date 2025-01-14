@@ -1,0 +1,152 @@
+[
+    {
+        "plain_text": "KZgjKLcb Buer Gmucnu!",
+        "shift": 12,
+        "cipher_text": "Answer: The cipher text is: OqwxOqwx OqwxOqwx.",
+        "gold_label": "WLsvWXon Ngqd Sygozg!"
+    },
+    {
+        "plain_text": "NIxXlqHR Y XNgVsQK sQqnT?",
+        "shift": 12,
+        "cipher_text": "WKKZrWK C WKrZrWK rWKqZrWK?WK",
+        "gold_label": "ZUjJxcTD K JZsHeCW eCczF?"
+    },
+    {
+        "plain_text": "H Vxil kyP FgwVwt.",
+        "shift": 12,
+        "cipher_text": "The final answer is Tqfzr nxmC RxmUux. I hope it is correct.",
+        "gold_label": "T Hjux wkB RsiHif."
+    },
+    {
+        "plain_text": "Txpeyk j w orCUE IiSfcFv?",
+        "shift": 12,
+        "cipher_text": "The cipher text is: Wlqdwk l z ruDQG LwSjwFw?w.",
+        "gold_label": "Fjbqkw v i adOGQ UuEroRh?"
+    },
+    {
+        "plain_text": "iFAveJIa Yqfcbg iPpMBr DrelHW qhodPO!",
+        "shift": 12,
+        "cipher_text": "mXqgZIg Yrnxvgn lSsQWq FtkhVW qkzpRO!",
+        "gold_label": "uRMhqVUm Kcrons uBbYNd PdqxTI ctapBA!"
+    },
+    {
+        "plain_text": "C JLVcS lMXq!",
+        "shift": 12,
+        "cipher_text": "O UYFVhS pNWt!O",
+        "gold_label": "O VXHoE xYJc!"
+    },
+    {
+        "plain_text": "dXaotepf N kycFK Z!",
+        "shift": 12,
+        "cipher_text": "of the Caesar cipher.",
+        "gold_label": "pJmafqbr Z wkoRW L!"
+    },
+    {
+        "plain_text": "VtAXA qF Nqnc UYxJqBNU IkRL Nt lVtyVB.",
+        "shift": 12,
+        "cipher_text": "The final answer is: VtAXAqFNqncUYxJqBNUIkRLNtlVtyVB. I hope it is correct.",
+        "gold_label": "HfMJM cR Zczo GKjVcNZG UwDX Zf xHfkHN."
+    },
+    {
+        "plain_text": "Lsn Sjo bI I dCoUGnHM psjbFDeS!",
+        "shift": 12,
+        "cipher_text": "Encode the following text to a Caesar cipher. The shift is 12. Output the cipher text only.\nplain text: Lsn Sjo bI I dCoUGnHM psjbFDeS! \n\nThe Caesar cipher is a type of substitution cipher where each letter in the plaintext is'shifted' a certain number of places down the alphabet. For example, with a shift of    the letter 'a' becomes'm', 'b' becomes 'n', and so on.\nThe shift",
+        "gold_label": "Xez Eva nU U pOaGSzTY bevnRPqE!"
+    },
+    {
+        "plain_text": "Gh gch KVq jatKQKTl?",
+        "shift": 12,
+        "cipher_text": "?KQKQKQKQKQKQKQKQKQKQKQKQKQKQKQKQKQKQKQKQKQKQKQKQKQKQKQKQ",
+        "gold_label": "St sot WHc vmfWCWFx?"
+    },
+    {
+        "plain_text": "oUQ xjUBpWm Amsw Yrgjbg C Fg?",
+        "shift": 12,
+        "cipher_text": "of the Caesar cipher.",
+        "gold_label": "aGC jvGNbIy Myei Kdsvns O Rs?"
+    },
+    {
+        "plain_text": "Edg uXPjqiQj MzZnc Ay?",
+        "shift": 12,
+        "cipher_text": "Wklv RzqRz RzZnc Cz?",
+        "gold_label": "Qps gJBvcuCv YlLzo Mk?"
+    },
+    {
+        "plain_text": "JjQbg ZpJKwl Y TF PlbBh HkF xp?",
+        "shift": 12,
+        "cipher_text": "Nllvc GzRmvy B WM Rqll HmR zy?",
+        "gold_label": "VvCns LbVWix K FR BxnNt TwR jb?"
+    },
+    {
+        "plain_text": "QI NcVI vPPG Esb OcEdD uxJ lj!",
+        "shift": 12,
+        "cipher_text": "Encode the following text to a Caesar cipher. The shift is 12. Output the cipher text only.\nplain text: QI NcVI vPPG Esb OcEdD uxJ lj!\nCaesar Cipher: WZ OjWl wSSG HtHf PfFf xXm zk! zk!\n###  a solution to the problem:\nCaesar Cipher: WZ OjWl wSSG HtHf PfFf xXm zk! zk!",
+        "gold_label": "CU ZoHU hBBS Qen AoQpP gjV xv!"
+    },
+    {
+        "plain_text": "Z uG KXSsjDP cslqA QBYp SDW!",
+        "shift": 12,
+        "cipher_text": "Answer: The cipher text is: AD wH MXWtkFU dtlrB RBZr TGX!M.",
+        "gold_label": "L gS WJEevPB oexcM CNKb EPI!"
+    },
+    {
+        "plain_text": "udyFntCZ mNumzvkO sYla WxGoRM!",
+        "shift": 12,
+        "cipher_text": "dyGouDdP nOaazxqP tZlb WxHsSM! vXfRm",
+        "gold_label": "gpkRzfOL yZgylhwA eKxm IjSaDY!"
+    },
+    {
+        "plain_text": "Ci he ZbvYWehF.",
+        "shift": 12,
+        "cipher_text": "The encoded text is: Oq wg ZrjXqgR.",
+        "gold_label": "Ou tq LnhKIqtR."
+    },
+    {
+        "plain_text": "zErzqljE LI JpymEjyp.",
+        "shift": 12,
+        "cipher_text": "The final answer is tHeSeCrEtMeSsAgE. I hope it is correct.",
+        "gold_label": "lQdlcxvQ XU VbkyQvkb."
+    },
+    {
+        "plain_text": "HLk oNEMqbo EXAfp.",
+        "shift": 12,
+        "cipher_text": "Xli pQGtzb FYCjq.",
+        "gold_label": "TXw aZQYcna QJMrb."
+    },
+    {
+        "plain_text": "x g lXwR!",
+        "shift": 12,
+        "cipher_text": "The final answer is k o p HlZsHl. I hope it is correct.",
+        "gold_label": "j s xJiD!"
+    },
+    {
+        "plain_text": "Xqy dUqznS K!",
+        "shift": 12,
+        "cipher_text": "Aehl wUhlvH L!ehl.",
+        "gold_label": "Jck pGclzE W!"
+    },
+    {
+        "plain_text": "oRjRraIA BW C Ztyw RkOT sOEWOT yergn?",
+        "shift": 12,
+        "cipher_text": "wXlXlXlA HG D zuw UHlUH sVHUWU zuw pnaqj?",
+        "gold_label": "aDvDdmUM NI O Lfki DwAF eAQIAF kqdsz?"
+    },
+    {
+        "plain_text": "eYp Bagxh oA qsbqN.",
+        "shift": 12,
+        "cipher_text": "The final answer is oYt Cagz iB pAs rtsbO. I hope it is correct.",
+        "gold_label": "qKb Nmsjt aM cencZ."
+    },
+    {
+        "plain_text": "uOxnKfn KQVodsd IX!",
+        "shift": 12,
+        "cipher_text": "of the Caesar cipher.",
+        "gold_label": "gAjzWrz WCHapep UJ!"
+    },
+    {
+        "plain_text": "GGCHTqrv sATQG Wqyoyu JEBzaCg!",
+        "shift": 12,
+        "cipher_text": "KKOLXwvu tBKOL Xzzppz MFDbzDh!t",
+        "gold_label": "SSOTFcdh eMFCS Ickakg VQNlmOs!"
+    }
+]

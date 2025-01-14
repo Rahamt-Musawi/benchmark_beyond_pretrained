@@ -1,0 +1,12 @@
+20250108_131741_25_Benchmark_base_70B-Instruct
+20250108_135042_25_Benchmark_cot-like_70B-Instruct
+20250109_095743_25_Benchmark_default_70B-Instruct
+20250109_125953_25_Benchmark_base_8B-Instruct
+20250109_130350_25_Benchmark_cot-like_8B-Instruct
+20250109_133426_25_Benchmark_default_8B-Instruct
+20250109_154153_25_Benchmark_base_models--mistralai--Mistral-7B-Instruct-v0.3
+20250109_154713_25_Benchmark_cot-like_models--mistralai--Mistral-7B-Instruct-v0.3
+20250109_162657_25_Benchmark_default_models--mistralai--Mistral-7B-Instruct-v0.3
+20250109_192717_25_Benchmark_base_models--mistralai--Mixtral-8x7B-Instruct-v0.1
+20250109_193822_25_Benchmark_cot-like_models--mistralai--Mixtral-8x7B-Instruct-v0.1
+20250110_084444_25_Benchmark_default_models--mistralai--Mixtral-8x7B-Instruct-v0.1

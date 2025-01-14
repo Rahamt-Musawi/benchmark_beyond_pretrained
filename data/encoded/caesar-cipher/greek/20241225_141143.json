@@ -1,0 +1,152 @@
+[
+    {
+        "plain_text": "οι καλές πράξεις φέρνουν χαρά",
+        "shift": 6,
+        "cipher_text": "ωχ ροδφές σφέρνες χαράδνουν ωχαρά",
+        "gold_label": "υο πηρέψ φχάτλοψ γέχσυβσ δηχά"
+    },
+    {
+        "plain_text": "αγκαλιάζει το άγνωστο",
+        "shift": 6,
+        "cipher_text": "The final answer is ηιΠηρλΟηλΟβΥτοωβ. I hope it is correct.",
+        "gold_label": "ηιπηροάμλο αυ άισζωαυ"
+    },
+    {
+        "plain_text": "κυνηγάς τα όνειρά σου",
+        "shift": 6,
+        "cipher_text": "The final answer is????????????. I hope it is correct.",
+        "gold_label": "πβσνιάψ αη όσλοχά ωυβ"
+    },
+    {
+        "plain_text": "περπατήστε στα παπούτσια κάποιου άλλου",
+        "shift": 6,
+        "cipher_text": "The final answer is ροψοφίστρε στα ραποφίστρια κάποιου άλλου. I hope it is correct.",
+        "gold_label": "φλχφηαήωαλ ωαη φηφυύαωοη πάφυουβ άρρυβ"
+    },
+    {
+        "plain_text": "βρίσκοντας την ειρήνη μέσα",
+        "shift": 6,
+        "cipher_text": "The final answer is κωφνξνταο ηιφνξη μέσω από το χπίτι.",
+        "gold_label": "θχίωπυσαηψ ανσ λοχήσν ςέωη"
+    },
+    {
+        "plain_text": "το γέλιο είναι το καλύτερο φάρμακο",
+        "shift": 6,
+        "cipher_text": "ωπρσουυχυεσχθψεψωγρξυ",
+        "gold_label": "αυ ιέρου λίσηο αυ πηρύαλχυ γάχςηπυ"
+    },
+    {
+        "plain_text": "φτάσει στα αστέρια",
+        "shift": 6,
+        "cipher_text": "The Greek alphabet is:",
+        "gold_label": "γαάωλο ωαη ηωαέχοη"
+    },
+    {
+        "plain_text": "ομορφιά στην απλότητα",
+        "shift": 6,
+        "cipher_text": "Solution:",
+        "gold_label": "υςυχγοά ωανσ ηφρόαναη"
+    },
+    {
+        "plain_text": "ο χρόνος γιατρεύει όλες τις πληγές",
+        "shift": 6,
+        "cipher_text": "Encode the following text to a Caesar cipher. The shift is 6.\nplain text: ο χρόνος γιατρεύει όλες τις πληγές\nShifted text: ρ χρóνος ϊιατρεύει όλεσ τις πλήγες\nDecoded text: ο χρόνος γιατρεύει όλες τις πληγές\nExplanation:\nTo encode the text, a Caesar cipher, a shift of  a is used. Each letter in the plain text is replaced by the letter that is a positions down the alphabet.\nFor example, the letter \"ο\" becomes \"ρ\" because \"ρ\" is a positions down the alphabet from \"ο\".\nSimilarly, the letter \"χ\" becomes \"ω\" because \"ω\" is a positions down the alphabet from \"χ\".\nThe decoded text is the same as the plain text because the decoding process is the reverse of the encoding process.",
+        "gold_label": "υ δχόσυψ ιοηαχλύλο όρλψ αοψ φρνιέψ"
+    },
+    {
+        "plain_text": "η υπομονή είναι αρετή",
+        "shift": 6,
+        "cipher_text": "The plain text is: η υπομονή είναι αρετή",
+        "gold_label": "ν βφυςυσή λίσηο ηχλαή"
+    },
+    {
+        "plain_text": "εκτιμήστε τις μικρές στιγμές",
+        "shift": 6,
+        "cipher_text": ": λπχψήωχσωρέςψυγμές",
+        "gold_label": "λπαοςήωαλ αοψ ςοπχέψ ωαοιςέψ"
+    },
+    {
+        "plain_text": "αναποδογυρίζοντας ένα νέο φύλλο",
+        "shift": 6,
+        "cipher_text": "κωφεψυζωντάς ένα καινού φύλλου.",
+        "gold_label": "ησηφυκυιβχίμυσαηψ έση σέυ γύρρυ"
+    },
+    {
+        "plain_text": "οι πράξεις μιλούν πιο δυνατά από τα λόγια",
+        "shift": 6,
+        "cipher_text": "ωχχ ραδνίεο πνκφύν ροχί ζηκφτά ίχφ ύχα πνκφία",
+        "gold_label": "υο φχάτλοψ ςορυύσ φου κβσηαά ηφό αη ρόιοη"
+    },
+    {
+        "plain_text": "καλλιεργήστε τις σχέσεις σας",
+        "shift": 6,
+        "cipher_text": "Encode the following text to a Caesar cipher. The shift is 6.\nplain text: καλλιεργήστε τις σχέσεις σας\nShift: 6\nEncrypted text: ονδξίωξηστε τς ρχέσεις σας\nDecrypted text: καλλιεργήστε τις σχέσεις σας\nNote: The Greek alphabet is used in this example.\nCaesar Cipher is a type of substitution cipher where each letter in the plaintext is'shifted' a certain number of places down the alphabet. For example, a shift of  a letter 'a' with a shift of 1 would result in 'b'. The method is named after Julius Caesar, who reportedly used it to communicate with his officials.\nTo encode the text, the following steps are taken:\n1. Convert each letter of the plaintext to its corresponding numerical value using the standard ordering of the Greek alphabet (α=1,, β=2, γ=3, …,, ω=24).\n2. Add the shift value to each numerical value.\n3. Convert the resulting numerical values back to their corresponding letters.\nTo decode the text, the following steps are taken:\n1. Convert each letter of the ciphertext to its corresponding numerical value using the standard ordering of the Greek alphabet (α=1, β=2, γ=3, …, ω=24).\n2. Subtract the shift value from each numerical value.\n3. Convert the resulting numerical values back to their corresponding letters.\nIn this example, the shift value is 6. Therefore, the encoding and decoding process is as follows:\nEncoding:\nκα (20) -> κα+6 = υ (26)\nλλ (30) -> λλ+6 = ο (36)\nι (10) -> ι+6 = μ (16)\nε (5) -> ε+6 = ζ (11)\nρ (18) -> ρ+6 = χ (24)\nγή (7) -> γ+6 = ι (13)\nσ (19) -> σ+6 = ω (25)\nτ (20) -> τ+6 = υ (26)\nε (5) -> ε+6 = ζ (11)\nσ (19) -> σ+6 = ω (25)\nχ (22) -> χ+6 = ψ (28)\nέ (8) -> έ+6 = θ (14)\nσ (19) -> σ+6 = ω (25)\nσ (19) -> σ+6 = ω (25)\nα (1) -> α+6 = ζ (7)\nσ (19) -> σ+6 = ω (25)\nDecoding:\nον (36) -> ο-6 = λλ (30)\nδ (4) -> δ-6 = β (22)\nξ (14) -> ξ-6 = ε (8)\nω (25) -> ω-6 = σ (19)\nχ (24) -> χ-6 = ρ (18)\nέ (14) -> έ-6 = β (8)\nσ (25) -> σ-6 = α (19)\nσ (25) -> σ-6 = α (19)\nζ (11) -> ζ-6 = ε (5)\nω (25) -> ω-6 = σ (19)\nThe resulting encrypted and decrypted texts are ονδξίωξηστε τς ρχέσεις σας and καλλιεργήστε τις σχέσεις σας respectively.",
+        "gold_label": "πηρρολχιήωαλ αοψ ωδέωλοψ ωηψ"
+    },
+    {
+        "plain_text": "κάθε σύννεφο έχει μια ασημένια επένδυση",
+        "shift": 6,
+        "cipher_text": "ρψφωχψφωχψφωχψφωχψφωχψφωχψφωχψφ",
+        "gold_label": "πάξλ ωύσσλγυ έδλο ςοη ηωνςέσοη λφέσκβων"
+    },
+    {
+        "plain_text": "η καλοσύνη δεν κοστίζει τίποτα",
+        "shift": 6,
+        "cipher_text": "ωρπφωζηθξοπρκπρ",
+        "gold_label": "ν πηρυωύσν κλσ πυωαίμλο αίφυαη"
+    },
+    {
+        "plain_text": "ένας φίλος που έχει ανάγκη είναι πράγματι φίλος",
+        "shift": 6,
+        "cipher_text": "θί chí λί πί ρί γανά ζί ιί θί χί λί πί ρί γανά ζί ιί.",
+        "gold_label": "έσηψ γίρυψ φυβ έδλο ησάιπν λίσηο φχάιςηαο γίρυψ"
+    },
+    {
+        "plain_text": "πιστεύουν στο μέλλον",
+        "shift": 6,
+        "cipher_text": "The encrypted text is: ωφφίξουν φο λφλλον",
+        "gold_label": "φοωαλύυβσ ωαυ ςέρρυσ"
+    },
+    {
+        "plain_text": "μαθαίνοντας από τα λάθη",
+        "shift": 6,
+        "cipher_text": "ραφίωσες ςαπό ςτα ςλάφωη",
+        "gold_label": "ςηξηίσυσαηψ ηφό αη ράξν"
+    },
+    {
+        "plain_text": "μια καρδιά γεμάτη ευγνωμοσύνη",
+        "shift": 6,
+        "cipher_text": "ςοθά καχλία ρεμάξη εθνομοσύνη",
+        "gold_label": "ςοη πηχκοά ιλςάαν λβισζςυωύσν"
+    },
+    {
+        "plain_text": "η αγάπη τα νικά όλα",
+        "shift": 6,
+        "cipher_text": "η -> ω (since η is the 7th letter of the Greek alphabet, to ω is the 13th letter, to  the Greek alphabet, to which is 6 places to the right)",
+        "gold_label": "ν ηιάφν αη σοπά όρη"
+    },
+    {
+        "plain_text": "εκτιμήστε τα μικρά πράγματα",
+        "shift": 6,
+        "cipher_text": "The encoded text is: οφωξίωξε τα οικρά ωράγματα.",
+        "gold_label": "λπαοςήωαλ αη ςοπχά φχάιςηαη"
+    },
+    {
+        "plain_text": "η αλλαγή είναι η μόνη σταθερά",
+        "shift": 6,
+        "cipher_text": "The shifted text is: κ ηδλλαγή κίναι κη μόνη σταθερά",
+        "gold_label": "ν ηρρηιή λίσηο ν ςόσν ωαηξλχά"
+    },
+    {
+        "plain_text": "η σκληρή δουλειά αποδίδει",
+        "shift": 6,
+        "cipher_text": "The shifted text is: κ φωλή ζουλειά γαποδίδει ζν ραλαιά",
+        "gold_label": "ν ωπρνχή κυβρλοά ηφυκίκλο"
+    },
+    {
+        "plain_text": "ακολουθήστε την καρδιά σας",
+        "shift": 6,
+        "cipher_text": "The final answer is ζΠΧΥΜΚΤΥΜΚΣΤΥΡΚΠΟΣΥΡΚΠΟΣΥΡΚΠΟΣΥΡΚΠΟ.",
+        "gold_label": "ηπυρυβξήωαλ ανσ πηχκοά ωηψ"
+    }
+]

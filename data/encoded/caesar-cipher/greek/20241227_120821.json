@@ -1,0 +1,152 @@
+[
+    {
+        "plain_text": "οι καλές πράξεις φέρνουν χαρά",
+        "shift": 12,
+        "cipher_text": "ρσ μαντψ σφρβλψ χιωρν ικβδ",
+        "gold_label": "βυ φνχέε γδάαρυε ιέδωβθω κνδά"
+    },
+    {
+        "plain_text": "αγκαλιάζει το άγνωστο",
+        "shift": 12,
+        "cipher_text": "λπνκνίη το ηκνίη.",
+        "gold_label": "νοφνχυάςρυ ηβ άοωμζηβ"
+    },
+    {
+        "plain_text": "κυνηγάς τα όνειρά σου",
+        "shift": 12,
+        "cipher_text": "1. κυ (ky) becomes ρω (rho) because ρ is 12 positions ahead of κ in the Greek alphabet.",
+        "gold_label": "φθωσοάε ην όωρυδά ζβθ"
+    },
+    {
+        "plain_text": "περπατήστε στα παπούτσια κάποιου άλλου",
+        "shift": 12,
+        "cipher_text": "Encode the following text to a Caesar cipher. The shift is 12.\nplain text: περπατήστε στα παπούτσια κάποιου άλλου\nGreek alphabet:\nα α', β β', γ γ', δ δ', ε ε', ζ ζ', η η', θ θ', ι ι', κ κ', λ λ', μ μ', ν ν', ξ ξ', ο ο', υ υ', φ φ', χ χ', ψ ψ', ω ω'\nGreek alphabet with diacritics:\nα' α, β' β, γ' γ, δ' δ, ε' ε, ζ' ζ, η' η, θ' θ, ι' ι, κ' κ, λ' λ, μ' μ, ν' ν, ξ' ξ, ο' ο, υ' υ, φ' φ, χ' χ, ψ' ψ, ω' ω\nGreek alphabet with diacritics and accents:\nα' α, β' β, γ' γ, δ' δ, ε' ε, ζ' ζ, η' η, θ' θ, ι' ι, κ' κ, λ' λ, μ' μ, ν' ν, ξ' ξ, ο' ο, υ' υ, φ' φ, χ' χ, ψ' ψ, ω' ω\nGreek alphabet with diacritics and accents:\nα' α, β' β, γ' γ, δ' δ, ε' ε, ζ' ζ, η' η, θ' θ, ι' ι, κ' κ, λ' λ, μ' μ, ν' ν, ξ' ξ, ο' ο, υ' υ, φ' φ, χ' χ, ψ' ψ, ω' ω\nGreek alphabet with diacritics and accents:\nα' α, β' β, γ' γ, δ' δ, ε' ε, ζ' ζ, η' η, θ' θ, ι' ι, κ' κ, λ' λ, μ' μ, ν' ν, ξ' ξ, ο' ο, υ' υ, φ' φ, χ' χ, ψ' ψ, ω' ω\nGreek alphabet with diacritics and accents:\nα' α, β' β, γ' γ, δ' δ, ε' ε, ζ' ζ, η' η, θ' θ, ι' ι, κ' κ, λ' λ, μ' μ, ν' ν, ξ' ξ, ο' ο, υ' υ, φ' φ, χ' χ, ψ' ψ, ω' ω\nGreek alphabet with diacritics and accents:\nα' α, β' β, γ' γ, δ' δ, ε' ε, ζ' ζ, η' η, θ' θ, ι' ι, κ' κ, λ' λ, μ' μ, ν' ν, ξ' ξ, ο' ο, υ' υ, φ' φ, χ' χ, ψ' ψ, ω' ω\nGreek alphabet with diacritics and accents:\nα' α, β' β, γ' γ, δ' δ, ε' ε, ζ' ζ, η' η, θ' θ, ι' ι, κ' κ, λ' λ, μ' μ, ν' ν, ξ' ξ, ο' ο, υ' υ, φ' φ, χ' χ, ψ' ψ, ω' ω\nGreek alphabet with diacritics and accents:\nα' α, β' β, γ' γ, δ' δ, ε' ε, ζ' ζ, η' η, θ' θ, ι' ι, κ' κ, λ' λ, μ' μ, ν' ν, ξ' ξ, ο' ο, υ' υ, φ' φ, χ' χ, ψ' ψ, ω' ω\nGreek alphabet with diacritics and accents:\nα' α, β' β, γ' γ, δ' δ, ε' ε, ζ' ζ, η' η, θ' θ, ι' ι, κ' κ, λ' λ, μ' μ, ν' ν, ξ' ξ, ο' ο, υ' υ, φ' φ, χ' χ, ψ' ψ, ω' ω\nGreek alphabet with diacritics and accents:\nα' α, β' β, γ' γ, δ' δ, ε' ε, ζ' ζ, η' η, θ' θ, ι' ι, κ' κ, λ' λ, μ' μ, ν' ν, ξ' ξ, ο' ο, υ' υ, φ' φ, χ' χ, ψ' ψ, ω' ω\nGreek alphabet with diacritics and accents:\nα' α, β' β, γ' γ, δ' δ, ε' ε, ζ' ζ, η' η, θ' θ, ι' ι, κ' κ, λ' λ, μ' μ, ν' ν, ξ' ξ, ο' ο, υ' υ, φ' φ, χ' χ, ψ' ψ, ω' ω\nGreek alphabet with diacritics and accents:\nα' α, β' β, γ' γ, δ' δ, ε' ε, ζ' ζ, η' η, θ' θ, ι' ι, κ' κ, λ' λ, μ' μ, ν' ν, ξ' ξ, ο' ο, υ' υ, φ' φ, χ' χ, ψ' ψ, ω' ω\nGreek alphabet with diacritics and accents:\nα' α, β' β, γ' γ, δ' δ, ε' ε, ζ' ζ, η' η, θ' θ, ι' ι, κ' κ, λ' λ, μ' μ, ν' ν, ξ' ξ, ο' ο, υ' υ, φ' φ, χ' χ, ψ' ψ, ω' ω\nGreek alphabet with diacritics and accents:\nα' α, β' β, γ' γ, δ' δ, ε' ε, ζ' ζ, η' η, θ' θ, ι' ι, κ' κ, λ' λ, μ' μ, ν' ν, ξ' ξ, ο' ο, υ' υ, φ' φ, χ' χ, ψ' ψ, ω' ω\nGreek alphabet with diacritics and accents:\nα' α, β' β, γ' γ, δ' δ, ε' ε, ζ' ζ, η' η, θ' θ, ι' ι, κ' κ, λ' λ, μ' μ, ν' ν, ξ' ξ, ο' ο, υ' υ, φ' φ, χ' χ, ψ' ψ, ω' ω\nGreek alphabet with diacritics and accents:\nα' α, β' β, γ' γ, δ' δ, ε' ε, ζ' ζ, η' η, θ' θ, ι' ι, κ' κ, λ' λ, μ' μ, ν' ν, ξ' ξ, ο' ο, υ' υ, φ' φ, χ' χ, ψ' ψ, ω' ω\nGreek alphabet with diacritics and accents:\nα' α, β' β, γ' γ, δ' δ, ε' ε, ζ' ζ, η' η, θ' θ, ι' ι, κ' κ, λ' λ, μ' μ, ν' ν, ξ' ξ, ο' ο, υ' υ, φ' φ, χ' χ, ψ' ψ, ω' ω\nGreek alphabet with diacritics and accents:\nα' α, β' β, γ' γ, δ' δ, ε' ε, ζ' ζ, η' η, θ' θ, ι' ι, κ' κ, λ' λ, μ' μ, ν' ν, ξ' ξ, ο' ο, υ' υ, φ' φ, χ' χ, ψ' ψ, ω' ω\nGreek alphabet with diacritics and accents:\nα' α, β' β, γ' γ, δ' δ, ε' ε, ζ' ζ, η' η, θ' θ, ι' ι, κ' κ, λ' λ, μ' μ, ν' ν, ξ' ξ, ο' ο, υ' υ, φ' φ, χ' χ, ψ' ψ, ω' ω\nGreek alphabet with diacritics and accents:\nα' α, β' β, γ' γ, δ' δ, ε' ε, ζ' ζ, η' η, θ' θ, ι' ι, κ' κ, λ' λ, μ' μ, ν' ν, ξ' ξ, ο' ο, υ' υ, φ' φ, χ' χ, ψ' ψ, ω' ω\nGreek alphabet with diacritics and accents:\nα' α, β' β, γ' γ, δ' δ, ε' ε, ζ' ζ, η' η, θ' θ, ι' ι, κ' κ, λ' λ, μ' μ, ν' ν, ξ' ξ, ο' ο, υ' υ, φ' φ, χ' χ, ψ' ψ, ω' ω\nGreek alphabet with diacritics and accents:\nα' α, β' β, γ' γ, δ' δ, ε' ε, ζ' ζ, η' η, θ' θ, ι' ι, κ' κ, λ' λ, μ' μ, ν' ν, ξ' ξ, ο' ο, υ'",
+        "gold_label": "γρδγνηήζηρ ζην γνγβύηζυν φάγβυβθ άχχβθ"
+    },
+    {
+        "plain_text": "βρίσκοντας την ειρήνη μέσα",
+        "shift": 12,
+        "cipher_text": "θωλυυμπωλλωπχψυλωλπωπ",
+        "gold_label": "ξδίζφβωηνε ησω ρυδήωσ ψέζν"
+    },
+    {
+        "plain_text": "το γέλιο είναι το καλύτερο φάρμακο",
+        "shift": 12,
+        "cipher_text": "ωρ πκμιπ κπραι ωρ πκμιπτλ χγβρμκ πκια κπην ωρψχ",
+        "gold_label": "ηβ οέχυβ ρίωνυ ηβ φνχύηρδβ ιάδψνφβ"
+    },
+    {
+        "plain_text": "φτάσει στα αστέρια",
+        "shift": 12,
+        "cipher_text": "ρωσέι στ' α'στέριε.",
+        "gold_label": "ιηάζρυ ζην νζηέδυν"
+    },
+    {
+        "plain_text": "ομορφιά στην απλότητα",
+        "shift": 12,
+        "cipher_text": "ππφφφφφφφφφφφφφφφφφφφφφφφφφφφφφφφφφφφφφφφφφφφφφφφφφφφφφφφφφφφφφφφφφφφφφφφφφφφφφφφφφφφφφφφφφφφφφφφφφφφφφ",
+        "gold_label": "βψβδιυά ζησω νγχόησην"
+    },
+    {
+        "plain_text": "ο χρόνος γιατρεύει όλες τις πληγές",
+        "shift": 12,
+        "cipher_text": "γ φ 3 14 11 18 1 10 18 5 5 1 3 12 5 8 20 9 19 16 12 5 7 5",
+        "gold_label": "β κδόωβε ουνηδρύρυ όχρε ηυε γχσοέε"
+    },
+    {
+        "plain_text": "η υπομονή είναι αρετή",
+        "shift": 12,
+        "cipher_text": "lwqkxqjgkmlbhof",
+        "gold_label": "σ θγβψβωή ρίωνυ νδρηή"
+    },
+    {
+        "plain_text": "εκτιμήστε τις μικρές στιγμές",
+        "shift": 12,
+        "cipher_text": "To encode the text using a Caesar cipher with a shift of 12, we can replace each letter with the letter 12 positions ahead of it in the alphabet. Here's the encoded text:",
+        "gold_label": "ρφηυψήζηρ ηυε ψυφδέε ζηυοψέε"
+    },
+    {
+        "plain_text": "αναποδογυρίζοντας ένα νέο φύλλο",
+        "shift": 12,
+        "cipher_text": "?",
+        "gold_label": "νωνγβπβοθδίςβωηνε έων ωέβ ιύχχβ"
+    },
+    {
+        "plain_text": "οι πράξεις μιλούν πιο δυνατά από τα λόγια",
+        "shift": 12,
+        "cipher_text": ":",
+        "gold_label": "βυ γδάαρυε ψυχβύω γυβ πθωνηά νγό ην χόουν"
+    },
+    {
+        "plain_text": "καλλιεργήστε τις σχέσεις σας",
+        "shift": 12,
+        "cipher_text": "Encode the following text to a Caesar cipher. The shift is 12.\nplain text: καλλιεργήστε τις σχέσεις σας\nGreek alphabet:\nα α', β β', γ γ', δ δ', ε ε', ζ ζ', η η', θ θ', ι ι', κ κ', λ λ', μ μ', ν ν', ξ ξ', ο ο', π π', ρ ρ', σ σ', τ τ', υ υ', φ φ', χ χ', ψ ψ', ω ω'\nGreek alphabet with diacritics:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with di",
+        "gold_label": "φνχχυρδοήζηρ ηυε ζκέζρυε ζνε"
+    },
+    {
+        "plain_text": "κάθε σύννεφο έχει μια ασημένια επένδυση",
+        "shift": 12,
+        "cipher_text": ":",
+        "gold_label": "φάτρ ζύωωριβ έκρυ ψυν νζσψέωυν ργέωπθζσ"
+    },
+    {
+        "plain_text": "η καλοσύνη δεν κοστίζει τίποτα",
+        "shift": 12,
+        "cipher_text": "Encode the following text to a Caesar cipher. The shift is 12.\nplain text: η καλοσύνη δεν κοστίζει τίποτα\nGreek alphabet:\nα α', β β', γ γ', δ δ', ε ε', ζ ζ', η η', θ θ', ι ι', κ κ', λ λ', μ μ', ν ν', ξ ξ', ο ο', π π', ρ ρ', σ σ', τ τ', υ υ', φ φ', χ χ', ψ ψ', ω ω'\nGreek alphabet with diacritics:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with di",
+        "gold_label": "σ φνχβζύωσ πρω φβζηίςρυ ηίγβην"
+    },
+    {
+        "plain_text": "ένας φίλος που έχει ανάγκη είναι πράγματι φίλος",
+        "shift": 12,
+        "cipher_text": "?",
+        "gold_label": "έωνε ιίχβε γβθ έκρυ νωάοφσ ρίωνυ γδάοψνηυ ιίχβε"
+    },
+    {
+        "plain_text": "πιστεύουν στο μέλλον",
+        "shift": 12,
+        "cipher_text": "Encode the following text to a Caesar cipher. The shift is 12.\nplain text: πιστεύουν στο μέλλον\nGreek alphabet:\nα α', β β', γ γ', δ δ', ε ε', ζ ζ', η η', θ θ', ι ι', κ κ', λ λ', μ μ', ν ν', ξ ξ', ο ο', π π', ρ ρ', σ σ', τ τ', υ υ', φ φ', χ χ', ψ ψ', ω ω'\nGreek alphabet with diacritics:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents and diacritics:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents and diacritics and accents:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents and diacritics and accents and diacritics:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents and diacritics and accents and diacritics and accents:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents and diacritics and accents and diacritics and accents and diacritics:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents and diacritics and accents and diacritics and accents and diacritics and accents:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents and diacritics and accents and diacritics and accents and diacritics and accents and diacritics:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents and diacritics and accents and diacritics and accents and diacritics and accents and diacritics and diacritics:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents and diacritics and accents and diacritics and accents and diacritics and accents and diacritics and diacritics and diacritics:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents and diacritics and accents and diacritics and accents and diacritics and accents and diacritics and diacritics and diacritics and diacritics:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents and diacritics and accents and diacritics and accents and diacritics and accents and diacritics and diacritics and diacritics and diacritics and diacritics:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents and diacritics and accents and diacritics and accents and diacritics and accents and diacritics and diacritics and diacritics and diacritics and diacritics and diacritics:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents and diacritics and accents and diacritics and accents and diacritics and accents and diacritics and diacritics and diacritics and diacritics and diacritics and diacritics and diacritics:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π",
+        "gold_label": "γυζηρύβθω ζηβ ψέχχβω"
+    },
+    {
+        "plain_text": "μαθαίνοντας από τα λάθη",
+        "shift": 12,
+        "cipher_text": "μαθαίνοντας από τα λάθη μου",
+        "gold_label": "ψντνίωβωηνε νγό ην χάτσ"
+    },
+    {
+        "plain_text": "μια καρδιά γεμάτη ευγνωμοσύνη",
+        "shift": 12,
+        "cipher_text": ":",
+        "gold_label": "ψυν φνδπυά ορψάησ ρθοωμψβζύωσ"
+    },
+    {
+        "plain_text": "η αγάπη τα νικά όλα",
+        "shift": 12,
+        "cipher_text": "Encode the following text to a Caesar cipher. The shift is 12.\nplain text: η αγάπη τα νικά όλα\nGreek alphabet:\nα (alpha)\nβ (beta)\nγ (gamma)\nδ (delta)\nε (epsilon)\nζ (zeta)\nη (eta)\nθ (theta)\nι (iota)\nκ (kappa)\nλ (lambda)\nμ (mu)\nν (nu)\nξ (xi)\nο (omicron)\nπ (pi)\nρ (rho)\nσ (sigma)\nτ (tau)\nυ (upsilon)\nφ (phi)\nχ (chi)\nψ (psi)\nω (omega)\nGreek alphabet with diacritics:\nα' (alpha with psili)\nα'' (alpha with dasia)\nβ' (beta with psili)\nβ'' (beta with dasia)\nγ' (gamma with psili)\nγ'' (gamma with dasia)\nδ' (delta with psili)\nδ'' (delta with dasia)\nε' (epsilon with psili)\nε'' (epsilon with dasia)\nζ' (zeta with psili)\nζ'' (zeta with dasia)\nη' (eta with psili)\nη'' (eta with dasia)\nθ' (theta with psili)\nθ'' (theta with dasia)\nι' (iota with psili)\nι'' (iota with dasia)\nκ' (kappa with psili)\nκ'' (kappa with dasia)\nλ' (lambda with psili)\nλ'' (lambda with dasia)\nμ' (mu with psili)\nμ'' (mu with dasia)\nν' (nu with psili)\nν'' (nu with dasia)\nξ' (xi with psili)\nξ'' (xi with dasia)\nο' (omicron with psili)\nο'' (omicron with dasia)\nπ' (pi with psili)\nπ'' (pi with dasia)\nρ' (rho with psili)\nρ'' (rho with dasia)\nσ' (sigma with psili)\nσ'' (sigma with dasia)\nτ' (tau with psili)\nτ'' (tau with dasia)\nυ' (upsilon with psili)\nυ'' (upsilon with dasia)\nφ' (phi with psili)\nφ'' (phi with dasia)\nχ' (chi with psili)\nχ'' (chi with dasia)\nψ' (psi with psili)\nψ'' (psi with dasia)\nω' (omega with psili)\nω'' (omega with dasia)\nGreek alphabet with diacritics and accents:\nα' (alpha with psili and tonos)\nα'' (alpha with dasia and tonos)\nβ' (beta with psili and tonos)\nβ'' (beta with dasia and tonos)\nγ' (gamma with psili and tonos)\nγ'' (gamma with dasia and tonos)\nδ' (delta with psili and tonos)\nδ'' (delta with dasia and tonos)\nε' (epsilon with psili and tonos)\nε'' (epsilon with dasia and tonos)\nζ' (zeta with psili and tonos)\nζ'' (zeta with dasia and tonos)\nη' (eta with psili and tonos)\nη'' (eta with dasia and tonos)\nθ' (theta with psili and tonos)\nθ'' (theta with dasia and tonos)\nι' (iota with psili and tonos)\nι'' (iota with dasia and tonos)\nκ' (kappa with psili and tonos)\nκ'' (kappa with dasia and tonos)\nλ' (lambda with psili and tonos)\nλ'' (lambda with dasia and tonos)\nμ' (mu with psili and tonos)\nμ'' (mu with dasia and tonos)\nν' (nu with psili and tonos)\nν'' (nu with dasia and tonos)\nξ' (xi with psili and tonos)\nξ'' (xi with dasia and tonos)\nο' (omicron with psili and tonos)\nο'' (omicron with dasia and tonos)\nπ' (pi with psili and tonos)\nπ'' (pi with dasia and tonos)\nρ' (rho with psili and tonos)\nρ'' (rho with dasia and tonos)\nσ' (sigma with psili and tonos)\nσ'' (sigma with dasia and tonos)\nτ' (tau with psili and tonos)\nτ'' (tau with dasia and tonos)\nυ' (upsilon with psili and tonos)\nυ'' (upsilon with dasia and tonos)\nφ' (phi with psili and tonos)\nφ'' (phi with dasia and tonos)\nχ' (chi with psili and tonos)\nχ'' (chi with dasia and tonos)\nψ' (psi with psili and tonos)\nψ'' (psi with dasia and tonos)\nω' (omega with psili and tonos)\nω'' (omega with dasia and tonos)\nThe Greek alphabet with diacritics and accents is used in the Greek language to represent the sounds of the Greek language. The Greek alphabet with diacritics and accents is used in the Greek language to represent the sounds of the Greek language.\nThe Greek alphabet with diacritics and accents is used in the Greek language to represent the sounds of the Greek language. The Greek alphabet with diacritics and accents is used in the Greek language to represent the sounds of the Greek language.\nThe Greek alphabet with diacritics and accents is used in the Greek language to represent the sounds of the Greek language. The Greek alphabet with diacritics and accents is used in the Greek language to represent the sounds of the Greek language.\nThe Greek alphabet with diacritics and accents is used in the Greek language to represent the sounds of the Greek language. The Greek alphabet with diacritics and accents is used in the Greek language to represent the sounds of the Greek language.\nThe Greek alphabet with diacritics and accents is used in the Greek language to represent the sounds of the Greek language. The Greek alphabet with diacritics and accents is used in the Greek language to represent the sounds of the Greek language.\nThe Greek alphabet with diacritics and accents is used in the Greek language to represent the sounds of the Greek language. The Greek alphabet with diacritics and accents is used in the Greek language to represent the sounds of the Greek language.\nThe Greek alphabet with diacritics and accents is used in the Greek language to represent the sounds of the Greek language. The Greek alphabet with diacritics and accents is used in the Greek language to represent the sounds of the Greek language.\nThe Greek alphabet with diacritics and accents is used in the Greek language to represent the sounds of the Greek language. The Greek alphabet with diacritics and accents is used in the Greek language to represent the sounds of the Greek language.\nThe Greek alphabet with diacritics and accents is used in the Greek language to represent the sounds of the Greek language. The Greek alphabet with diacritics and accents is used in the Greek language to represent the sounds of the Greek language.\nThe Greek alphabet with diacritics and accents is used in the Greek language to represent the sounds of the Greek language. The Greek alphabet with diacritics and accents is used in the Greek language to represent the sounds of the Greek language.\nThe Greek alphabet with diacritics and accents is used in the Greek language to represent the sounds of the Greek language. The Greek alphabet with diacritics and accents is used in the Greek language to represent the sounds of the Greek language.\nThe Greek alphabet with diacritics and accents is used in the Greek language to represent the sounds of the Greek language. The Greek alphabet with diacritics and accents is used in the Greek language to represent the sounds of the Greek language.\nThe Greek alphabet with diacritics and accents is used in the Greek language to represent the sounds of the Greek language. The Greek alphabet with diacritics and accents is used in the Greek language to represent the sounds of the Greek language.\nThe Greek alphabet with diacritics and accents is used in the Greek language to represent the sounds of the Greek language. The Greek alphabet with diacritics and accents is used in the Greek language to represent the sounds of the Greek language.\nThe Greek alphabet with diacritics and accents is used in the Greek language to represent the sounds of the Greek language. The Greek alphabet with diacritics and accents is used in the Greek language to represent the sounds of the Greek language.\nThe Greek alphabet with diacritics and accents is used in the Greek language to represent the sounds of the Greek language. The Greek alphabet with diacritics and accents is used in the Greek language to represent the sounds of the Greek language.\nThe Greek alphabet with diacritics and accents is used in the Greek language to represent the sounds of the Greek language. The Greek alphabet with diacritics and accents is used in the Greek language to represent the sounds of the Greek language.\nThe Greek alphabet with diacritics and accents is used in the Greek language to represent the sounds of the Greek language. The Greek alphabet with diacritics and accents is used in the Greek language to represent the sounds of the Greek language.\nThe Greek alphabet with diacritics and accents is used in the Greek language to represent the sounds of the Greek language. The Greek alphabet with diacritics and accents is used in the Greek language to represent the sounds of the Greek language.\nThe Greek alphabet with diacritics and accents is used in the Greek language to represent the",
+        "gold_label": "σ νοάγσ ην ωυφά όχν"
+    },
+    {
+        "plain_text": "εκτιμήστε τα μικρά πράγματα",
+        "shift": 12,
+        "cipher_text": "πωφθόηυη χνπφθόηυη.",
+        "gold_label": "ρφηυψήζηρ ην ψυφδά γδάοψνην"
+    },
+    {
+        "plain_text": "η αλλαγή είναι η μόνη σταθερά",
+        "shift": 12,
+        "cipher_text": "κλλκνίη ηκνίη κ πσνίη τυφνίη",
+        "gold_label": "σ νχχνοή ρίωνυ σ ψόωσ ζηντρδά"
+    },
+    {
+        "plain_text": "η σκληρή δουλειά αποδίδει",
+        "shift": 12,
+        "cipher_text": "l ωφπφθ ηψωφ κφπφθ",
+        "gold_label": "σ ζφχσδή πβθχρυά νγβπίπρυ"
+    },
+    {
+        "plain_text": "ακολουθήστε την καρδιά σας",
+        "shift": 12,
+        "cipher_text": "ρμσξωθήστε ην πρσγία σας",
+        "gold_label": "νφβχβθτήζηρ ησω φνδπυά ζνε"
+    }
+]

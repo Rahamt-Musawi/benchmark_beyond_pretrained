@@ -1,0 +1,152 @@
+[
+    {
+        "plain_text": "KZgjKLcb Buer Gmucnu!",
+        "shift": 3,
+        "cipher_text": ": NcpgLgpc Fwxsb Hqwdwq!",
+        "gold_label": "NCjmNOfe Exhu Jpxfqx!"
+    },
+    {
+        "plain_text": "NIxXlqHR Y XNgVsQK sQqnT?",
+        "shift": 3,
+        "cipher_text": "OIZZoWU Z OPhWtR?oW",
+        "gold_label": "QLaAotKU B AQjYvTN vTtqW?"
+    },
+    {
+        "plain_text": "H Vxil kyP FgwVwt.",
+        "shift": 3,
+        "cipher_text": "The final answer is K Znhm lzS HhxXxu. I hope it is correct.",
+        "gold_label": "K Yalo nbS IjzYzw."
+    },
+    {
+        "plain_text": "Txpeyk j w orCUE IiSfcFv?",
+        "shift": 3,
+        "cipher_text": ": Wklqhk l z ruGWH LlvSgHw?e",
+        "gold_label": "Washbn m z ruFXH LlVifIy?"
+    },
+    {
+        "plain_text": "iFAveJIa Yqfcbg iPpMBr DrelHW qhodPO!",
+        "shift": 3,
+        "cipher_text": "The final answer is kHhwlJlYrfgclkRrSOFsulIXrhqwSR!. I hope it is correct.",
+        "gold_label": "lIDyhMLd Btifej lSsPEu GuhoKZ tkrgSR!"
+    },
+    {
+        "plain_text": "C JLVcS lMXq!",
+        "shift": 3,
+        "cipher_text": "The final answer is F OZVdU nPZr!. I hope it is correct.",
+        "gold_label": "F MOYfV oPAt!"
+    },
+    {
+        "plain_text": "dXaotepf N kycFK Z!",
+        "shift": 3,
+        "cipher_text": "gXdwqgwf O nldGL a!h.",
+        "gold_label": "gAdrwhsi Q nbfIN C!"
+    },
+    {
+        "plain_text": "VtAXA qF Nqnc UYxJqBNU IkRL Nt lVtyVB.",
+        "shift": 3,
+        "cipher_text": "Encode the following text to a Caesar cipher. The shift is 3.\nplain text: VtAXA qF Nqnc UYxJqBNU IkRL Nt lVtyVB. \nWhat is the decoded text?\nA) HI HOW ARE YOU TODAY\nB) HELLO HOW ARE YOU TODAY\nC) HELLO HOW ARE YOU\nD) HI HOW ARE YOU\nE) HI HOW ARE YOU TODAY\nCorrect answer: B) HELLO HOW ARE YOU TODAY\nExplanation: To decode the Caesar cipher, a shift of  a given text, a, a given shift, a given text. In this case, a shift of 3. \nDecoding the text: \nVtAXA -> HELLO \nqF -> HOW \nNqnc -> ARE \nUYxJqBNU -> YOU \nIkRL -> TODAY \nNt -> TODAY \nlVtyVB -> TODAY \nSo, the decoded text is HELLO HOW ARE YOU TODAY.",
+        "gold_label": "YwDAD tI Qtqf XBaMtEQX LnUO Qw oYwbYE."
+    },
+    {
+        "plain_text": "Lsn Sjo bI I dCoUGnHM psjbFDeS!",
+        "shift": 3,
+        "cipher_text": "The encoded text is: Oao Uqo fK fQ lFpUOHQnLW!",
+        "gold_label": "Ovq Vmr eL L gFrXJqKP svmeIGhV!"
+    },
+    {
+        "plain_text": "Gh gch KVq jatKQKTl?",
+        "shift": 3,
+        "cipher_text": "The final answer is Hello World!. I hope it is correct.",
+        "gold_label": "Jk jfk NYt mdwNTNWo?"
+    },
+    {
+        "plain_text": "oUQ xjUBpWm Amsw Yrgjbg C Fg?",
+        "shift": 3,
+        "cipher_text": ": rWV dnXCqXn Dpsx Zrkhck E Hw?V.",
+        "gold_label": "rXT amXEsZp Dpvz Bujmej F Ij?"
+    },
+    {
+        "plain_text": "Edg uXPjqiQj MzZnc Ay?",
+        "shift": 3,
+        "cipher_text": "The final answer is GUR PENML XRL VF ZL FRPERG CBFG. I hope it is correct.",
+        "gold_label": "Hgj xASmtlTm PcCqf Db?"
+    },
+    {
+        "plain_text": "JjQbg ZpJKwl Y TF PlbBh HkF xp?",
+        "shift": 3,
+        "cipher_text": "The final answer is LlOhe LpLnoa ZR QhBq. I hope it is correct.",
+        "gold_label": "MmTej CsMNzo B WI SoeEk KnI as?"
+    },
+    {
+        "plain_text": "QI NcVI vPPG Esb OcEdD uxJ lj!",
+        "shift": 3,
+        "cipher_text": "SOLFXRYJRHVREFHGVWKO!",
+        "gold_label": "TL QfYL ySSJ Hve RfHgG xaM om!"
+    },
+    {
+        "plain_text": "Z uG KXSsjDP cslqA QBYp SDW!",
+        "shift": 3,
+        "cipher_text": "ZRUOG ZL FRPERG ZLWLRQ YMJ VZNHK",
+        "gold_label": "C xJ NAVvmGS fvotD TEBs VGZ!"
+    },
+    {
+        "plain_text": "udyFntCZ mNumzvkO sYla WxGoRM!",
+        "shift": 3,
+        "cipher_text": "The final answer is wghKqoDfPpwbOtZhnbZxIhRM!h. I hope it is correct.",
+        "gold_label": "xgbIqwFC pQxpcynR vBod ZaJrUP!"
+    },
+    {
+        "plain_text": "Ci he ZbvYWehF.",
+        "shift": 3,
+        "cipher_text": "The final answer is E ki ho DbxXgH.",
+        "gold_label": "Fl kh CeyBZhkI."
+    },
+    {
+        "plain_text": "zErzqljE LI JpymEjyp.",
+        "shift": 3,
+        "cipher_text": "The final answer is wOlwOlI KP SxwxEwx.",
+        "gold_label": "cHuctomH OL MsbpHmbs."
+    },
+    {
+        "plain_text": "HLk oNEMqbo EXAfp.",
+        "shift": 3,
+        "cipher_text": "The encoded text is: KLo pEQorh GXAgqr.",
+        "gold_label": "KOn rQHPter HADis."
+    },
+    {
+        "plain_text": "x g lXwR!",
+        "shift": 3,
+        "cipher_text": "a j o A z U! a",
+        "gold_label": "a j oAzU!"
+    },
+    {
+        "plain_text": "Xqy dUqznS K!",
+        "shift": 3,
+        "cipher_text": "Encode the following text to a Caesar cipher. The shift is 3.\nplain text: Xqy dUqznS K!qy\nShift: 3\nEncrypted text: Aro fWrozV O!ro\nExplanation:\nTo encrypt the text, a Caesar cipher,,, the following steps:\n1. Convert each letter of the plain text to its corresponding ASCII value.\n2. Add the shift value (3 in this case) to each ASCII value.\n3. Convert the resulting ASCII values back to their corresponding letters.\nHere's the step-by-step encryption process:\nX ->  (ASCII value: 88) ->  (add 3) ->  (91) -> A\nq -> (ASCII value:113) -> (add3) -> (116) -> r\ny -> (ASCII value:121) -> (add3) -> (124) -> o\nd -> (ASCII value:100) -> (add3) -> (103) -> f\nU -> (ASCII value:85) -> (add3) -> (88) -> W\nq -> (ASCII value:113) -> (add3) -> (116) -> r\nz -> (ASCII value:122) -> (add3) -> (125) -> x\nn -> (ASCII value:110) -> (add3) -> (113) -> p\nS -> (ASCII value:83) -> (add3) -> (86) -> V\nK -> (ASCII value:75) -> (add3) -> (78) -> O\n! -> (ASCII value:33) -> (add3) -> (36) ->!\nq -> (ASCII value:113) -> (add3) -> (116) -> r\ny -> (ASCII value:121) -> (add3) -> (124) -> o\nThe resulting encrypted text is: Aro fWrozV O!ro\nNote that this encryption method is case-sensitive, meaning that it preserves the case of the original text.",
+        "gold_label": "Atb gXtcqV N!"
+    },
+    {
+        "plain_text": "oRjRraIA BW C Ztyw RkOT sOEWOT yergn?",
+        "shift": 3,
+        "cipher_text": "the result of this process.",
+        "gold_label": "rUmUudLD EZ F Cwbz UnRW vRHZRW bhujq?"
+    },
+    {
+        "plain_text": "eYp Bagxh oA qsbqN.",
+        "shift": 3,
+        "cipher_text": "The final answer is hZr Cagz rD qvbqO.",
+        "gold_label": "hBs Edjak rD tvetQ."
+    },
+    {
+        "plain_text": "uOxnKfn KQVodsd IX!",
+        "shift": 3,
+        "cipher_text": "Encode the following text to a Caesar cipher. The shift is 3.\nplain text: uOxnKfn KQVodsd IX!nKfn\nShift: 3\nEncrypted text: wRzqLgn LQWrgsd KX!nLgn\nExplain how you got the encrypted text.\nThe Caesar cipher is a type of substitution cipher where each letter in the plaintext is'shifted' a certain number of places down the alphabet. In this case,, a shift of  a  a  a certain number of places down the alphabet.\nTo encrypt the plaintext \"uOxnKfn KQVodsd IX!nKfn\", I replaced each letter with the letter three positions down the alphabet.\nHere's the step-by-step process:\nu -> w (since 'u' is the  a  a  a  a  a certain number of places down the alphabet)\nO -> R (since 'O' is the  a a certain number of places down the alphabet)\nx -> z (since 'x' is the  a a certain number of places down the alphabet)\nn -> q (since 'n' is the  a a certain number of places down the alphabet)\nK -> L (since 'K' is the  a a certain number of places down the alphabet)\nf -> g (since 'f' is the a a certain number of places down the alphabet)\nn -> q (since 'n' is the a a certain number of places down the alphabet)\nK -> L (since 'K' is the a a certain number of places down the alphabet)\nQ -> V (since 'Q' is the a a certain number of places down the alphabet)\nV -> W (since 'V' is the a a certain number of places down the alphabet)\no -> r (since 'o' is the a a certain number of places down the alphabet)\nd -> e (since 'd' is the a a certain number of places down the alphabet)\ns -> v (since's' is the a a certain number of places down the alphabet)\nd -> e (since 'd' is the a a certain number of places down the alphabet)\nI -> K (since 'I' is the a a certain number of places down the alphabet)\nX ->! (since 'X' is the a a certain number of places down the alphabet)\n! ->! (since '!' is the a a certain number of places down the alphabet)\nn -> q (since 'n' is the a a certain number of places down the alphabet)\nK -> L (since 'K' is the a a certain number of places down the alphabet)\nf -> g (since 'f' is the a a certain number of places down the alphabet)\nn -> q (since 'n' is the a certain number of places down the alphabet)\nThe resulting encrypted text is \"wRzqLgn LQWrgsd KX!nLgn\".",
+        "gold_label": "xRaqNiq NTYrgvg LA!"
+    },
+    {
+        "plain_text": "GGCHTqrv sATQG Wqyoyu JEBzaCg!",
+        "shift": 3,
+        "cipher_text": "The final answer is GGCHTqrvsATQGWqyoyuJEBzaCg!q. I hope it is correct.",
+        "gold_label": "JJFKWtuy vDWTJ Ztbrbx MHEcdFj!"
+    }
+]

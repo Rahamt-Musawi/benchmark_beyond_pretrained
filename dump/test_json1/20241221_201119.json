@@ -1,0 +1,240 @@
+[
+    {
+        "plain_text": "KZgjKLcb Buer Gmucnu!",
+        "shift": 6,
+        "cipher_text": "",
+        "lookup_table": "{'A': 'G', 'B': 'H', 'C': 'I', 'D': 'J', 'E': 'K', 'F': 'L', 'G': 'M', 'H': 'N', 'I': 'O', 'J': 'P', 'K': 'Q', 'L': 'R', 'M': 'S', 'N': 'T', 'O': 'U', 'P': 'V', 'Q': 'W', 'R': 'X', 'S': 'Y', 'T': 'Z', 'U': 'a', 'V': 'b', 'W': 'c', 'X': 'd', 'Y': 'e', 'Z': 'f', 'a': 'g', 'b': 'h', 'c': 'i', 'd': 'j', 'e': 'k', 'f': 'l', 'g': 'm', 'h': 'n', 'i': 'o', 'j': 'p', 'k': 'q', 'l': 'r', 'm': 's', 'n': 't', 'o': 'u', 'p': 'v', 'q': 'w', 'r': 'x', 's': 'y', 't': 'z'}",
+        "gold_label": "QFmpQRih Hakx Msaita!"
+    },
+    {
+        "plain_text": "NIxXlqHR Y XNgVsQK sQqnT?",
+        "shift": 6,
+        "cipher_text": "",
+        "lookup_table": {},
+        "gold_label": "TOdDrwNX E DTmByWQ yWwtZ?"
+    },
+    {
+        "plain_text": "H Vxil kyP FgwVwt.",
+        "shift": 6,
+        "cipher_text": "",
+        "lookup_table": {},
+        "gold_label": "N Bdor qeV LmcBcz."
+    },
+    {
+        "plain_text": "Txpeyk j w orCUE IiSfcFv?",
+        "shift": 6,
+        "cipher_text": "",
+        "lookup_table": {},
+        "gold_label": "Zdvkeq p c uxIAK OoYliLb?"
+    },
+    {
+        "plain_text": "iFAveJIa Yqfcbg iPpMBr DrelHW qhodPO!",
+        "shift": 6,
+        "cipher_text": "",
+        "lookup_table": {},
+        "gold_label": "oLGbkPOg Ewlihm oVvSHx JxkrNC wnujVU!"
+    },
+    {
+        "plain_text": "C JLVcS lMXq!",
+        "shift": 6,
+        "cipher_text": "",
+        "lookup_table": {},
+        "gold_label": "I PRBiY rSDw!"
+    },
+    {
+        "plain_text": "dXaotepf N kycFK Z!",
+        "shift": 6,
+        "cipher_text": "",
+        "lookup_table": {},
+        "gold_label": "jDguzkvl T qeiLQ F!"
+    },
+    {
+        "plain_text": "VtAXA qF Nqnc UYxJqBNU IkRL Nt lVtyVB.",
+        "shift": 6,
+        "cipher_text": "",
+        "lookup_table": {},
+        "gold_label": "BzGDG wL Twti AEdPwHTA OqXR Tz rBzeBH."
+    },
+    {
+        "plain_text": "Lsn Sjo bI I dCoUGnHM psjbFDeS!",
+        "shift": 6,
+        "cipher_text": "",
+        "lookup_table": {},
+        "gold_label": "Ryt Ypu hO O jIuAMtNS vyphLJkY!"
+    },
+    {
+        "plain_text": "Gh gch KVq jatKQKTl?",
+        "shift": 6,
+        "cipher_text": "",
+        "lookup_table": {},
+        "gold_label": "Mn min QBw pgzQWQZr?"
+    },
+    {
+        "plain_text": "oUQ xjUBpWm Amsw Yrgjbg C Fg?",
+        "shift": 6,
+        "cipher_text": "",
+        "lookup_table": {},
+        "gold_label": "uAW dpAHvCs Gsyc Exmphm I Lm?"
+    },
+    {
+        "plain_text": "Edg uXPjqiQj MzZnc Ay?",
+        "shift": 6,
+        "cipher_text": "Aad pFLiFh Gcfar r?",
+        "lookup_table": "{'E': 'A', 'd': 'a', 'g': 'd', ' ': ' ', 'u': 'p', 'X': 'F', 'P': 'L', 'j': 'i', 'q': 'q', 'i': 'h', 'Q': 'O', 'j': 'i', 'M': 'G', 'z': 'c', 'Z': 'A', 'n': 'f', 'c': 'a', 'A': 'G', 'y': 'r', '?': '?'}",
+        "gold_label": "Kjm aDVpwoWp SfFti Ge?"
+    },
+    {
+        "plain_text": "JjQbg ZpJKwl Y TF PlbBh HkF xp?",
+        "shift": 6,
+        "cipher_text": "",
+        "lookup_table": {},
+        "gold_label": "PpWhm FvPQcr E ZL VrhHn NqL dv?"
+    },
+    {
+        "plain_text": "QI NcVI vPPG Esb OcEdD uxJ lj!",
+        "shift": 6,
+        "cipher_text": "",
+        "lookup_table": {},
+        "gold_label": "WO TiBO bVVM Kyh UiKjJ adP rp!"
+    },
+    {
+        "plain_text": "Z uG KXSsjDP cslqA QBYp SDW!",
+        "shift": 6,
+        "cipher_text": "",
+        "lookup_table": {},
+        "gold_label": "F aM QDYypJV iyrwG WHEv YJC!"
+    },
+    {
+        "plain_text": "udyFntCZ mNumzvkO sYla WxGoRM!",
+        "shift": 6,
+        "cipher_text": "",
+        "lookup_table": {},
+        "gold_label": "ajeLtzIF sTasfbqU yErg CdMuXS!"
+    },
+    {
+        "plain_text": "Ci he ZbvYWehF.",
+        "shift": 6,
+        "cipher_text": "Jg lk PdqmRdqg.",
+        "lookup_table": {
+            "A": "G",
+            "B": "H",
+            "C": "I",
+            "D": "J",
+            "E": "K",
+            "F": "L",
+            "G": "M",
+            "H": "N",
+            "I": "O",
+            "J": "P",
+            "K": "Q",
+            "L": "R",
+            "M": "S",
+            "N": "T",
+            "O": "U",
+            "P": "V",
+            "Q": "W",
+            "R": "X",
+            "S": "Y",
+            "T": "Z",
+            "U": "a",
+            "V": "b",
+            "W": "c",
+            "X": "d",
+            "Y": "e",
+            "Z": "f",
+            "a": "g",
+            "b": "h",
+            "c": "i",
+            "d": "j",
+            "e": "k",
+            "f": "l",
+            "g": "m",
+            "h": "n",
+            "i": "o",
+            "j": "p",
+            "k": "q",
+            "l": "r",
+            "m": "s",
+            "n": "t",
+            "o": "u",
+            "p": "v",
+            "q": "w",
+            "r": "x",
+            "s": "y",
+            "t": "z",
+            "u": "0",
+            "v": "1",
+            "w": "2",
+            "x": "3",
+            "y": "4",
+            "z": "5",
+            "0": "6",
+            "1": "7",
+            "2": "8",
+            "3": "9",
+            "4": "A",
+            "5": "B",
+            "6": "C",
+            "7": "D",
+            "8": "E",
+            "9": "F"
+        },
+        "gold_label": "Io nk FhbECknL."
+    },
+    {
+        "plain_text": "zErzqljE LI JpymEjyp.",
+        "shift": 6,
+        "cipher_text": "",
+        "lookup_table": {},
+        "gold_label": "fKxfwrpK RO PvesKpev."
+    },
+    {
+        "plain_text": "HLk oNEMqbo EXAfp.",
+        "shift": 6,
+        "cipher_text": "",
+        "lookup_table": {},
+        "gold_label": "NRq uTKSwhu KDGlv."
+    },
+    {
+        "plain_text": "x g lXwR!",
+        "shift": 6,
+        "cipher_text": "",
+        "lookup_table": {},
+        "gold_label": "d m rDcX!"
+    },
+    {
+        "plain_text": "Xqy dUqznS K!",
+        "shift": 6,
+        "cipher_text": "",
+        "lookup_table": {},
+        "gold_label": "Dwe jAwftY Q!"
+    },
+    {
+        "plain_text": "oRjRraIA BW C Ztyw RkOT sOEWOT yergn?",
+        "shift": 6,
+        "cipher_text": "",
+        "lookup_table": {},
+        "gold_label": "uXpXxgOG HC I Fzec XqUZ yUKCUZ ekxmt?"
+    },
+    {
+        "plain_text": "eYp Bagxh oA qsbqN.",
+        "shift": 6,
+        "cipher_text": "",
+        "lookup_table": {},
+        "gold_label": "kEv Hgmdn uG wyhwT."
+    },
+    {
+        "plain_text": "uOxnKfn KQVodsd IX!",
+        "shift": 6,
+        "cipher_text": "",
+        "lookup_table": {},
+        "gold_label": "aUdtQlt QWBujyj OD!"
+    },
+    {
+        "plain_text": "GGCHTqrv sATQG Wqyoyu JEBzaCg!",
+        "shift": 6,
+        "cipher_text": "",
+        "lookup_table": {},
+        "gold_label": "MMINZwxb yGZWM Cweuea PKHfgIm!"
+    }
+]

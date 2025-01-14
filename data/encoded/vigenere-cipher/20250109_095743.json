@@ -1,0 +1,127 @@
+[
+{
+    "plain_text": "good deeds bring joy",
+    "key": "Benchmark",
+    "cipher_text": "I"
+},
+{
+    "plain_text": "embrace the unknown",
+    "key": "Benchmark",
+    "cipher_text": "g"
+},
+{
+    "plain_text": "chasing your dreams",
+    "key": "Benchmark",
+    "cipher_text": "c"
+},
+{
+    "plain_text": "walk in someone else\u2019s shoes",
+    "key": "Benchmark",
+    "cipher_text": "w"
+},
+{
+    "plain_text": "finding peace within",
+    "key": "Benchmark",
+    "cipher_text": "hkjxqtwkxhiknqxi"
+},
+{
+    "plain_text": "laughter is the best medicine",
+    "key": "Benchmark",
+    "cipher_text": "Cipher"
+},
+{
+    "plain_text": "reach for the stars",
+    "key": "Benchmark",
+    "cipher_text": "S"
+},
+{
+    "plain_text": "beauty in simplicity",
+    "key": "Benchmark",
+    "cipher_text": "G"
+},
+{
+    "plain_text": "time heals all wounds",
+    "key": "Benchmark",
+    "cipher_text": "UKJZPJBXXUSYVWVH"
+},
+{
+    "plain_text": "patience is a virtue",
+    "key": "Benchmark",
+    "cipher_text": "GQTVKUQTVKU"
+},
+{
+    "plain_text": "cherish the little moments",
+    "key": "Benchmark",
+    "cipher_text": "ENSKRVZKYBGRWNPNVSX"
+},
+{
+    "plain_text": "turning over a new leaf",
+    "key": "Benchmark",
+    "cipher_text": "GVVRRNNG"
+},
+{
+    "plain_text": "actions speak louder than words",
+    "key": "Benchmark",
+    "cipher_text": "G"
+},
+{
+    "plain_text": "nurture your relationships",
+    "key": "Benchmark",
+    "cipher_text": "GFWLRYQVHZLQVHZLQVHZLQ"
+},
+{
+    "plain_text": "every cloud has a silver lining",
+    "key": "Benchmark",
+    "cipher_text": "GZXLWVHPCDHWLREVM"
+},
+{
+    "plain_text": "kindness costs nothing",
+    "key": "Benchmark",
+    "cipher_text": "mjqhjfwfqjxjfqjxjfqj"
+},
+{
+    "plain_text": "a friend in need is a friend indeed",
+    "key": "Benchmark",
+    "cipher_text": "Encode the following text using a Vigen\u00e8re cipher with the key 'Benchmark'. plain text: a friend in need is a friend indeed cipher text:? Note: The Vigen\u00e8re cipher is a polyalphabetic substitution cipher that uses a keyword to determine the substitution for each letter. The cipher text is obtained by adding the corresponding letters of the plain text and the key (repeated as necessary) modulo to the alphabet size (26 in this case). Solution: To encode the plain text using a Vigen\u00e8re cipher with the key 'Benchmark', we need to repeat the key to match the length of the plain text. The repeated key is 'BenchmarkBenchmarkBenchmark'. Then, to encode each letter of the plain text, to the corresponding letter of the cipher text, to add the corresponding letters of the plain text and the key modulo to the alphabet size (26 in this case). Here is the step-by-step encoding process: a (plain text) + B (key) = G (cipher text) f (plain text) + B (key) = O (cipher text) r (plain text) + E (key) = Y (cipher text) i (plain text) + N (key) = C (cipher text) e (plain text) + C (key) = H (cipher text) n (plain text) + H (key) = K (cipher text) d (plain text) + B (key) = O (cipher text) i (plain text) + E (key) = C (cipher text) n (plain text) + N (key) = O (cipher text) e (plain text) + C (key) = H (cipher text) e (plain text) + H (key) = K (cipher text) d (plain text) + B (key) = O (cipher text) i (plain text) + E (key) = C (cipher text) n (plain text) + N (key) = O (cipher text) e (plain text) + C (key) = H (cipher text) e (plain text) + H (key) = K (cipher text) d (plain text) + B (key) = O (cipher text) The cipher text is: GOYCHKOOCYCHKOOCYCHKOOCYCHK. Note: The Vigen\u00e8re cipher is a polyalphabetic substitution cipher that uses a keyword to determine the substitution for each letter. The cipher text is obtained by adding the corresponding letters of the plain text and the key (repeated as necessary) modulo to the alphabet size (26 in this case)."
+},
+{
+    "plain_text": "believe in the future",
+    "key": "Benchmark",
+    "cipher_text": "GURPENHMKRUT"
+},
+{
+    "plain_text": "learning from mistakes",
+    "key": "Benchmark",
+    "cipher_text": "M"
+},
+{
+    "plain_text": "a heart full of gratitude",
+    "key": "Benchmark",
+    "cipher_text": "0"
+},
+{
+    "plain_text": "love conquers all",
+    "key": "Benchmark",
+    "cipher_text": "NSHSKWXNWZCPY"
+},
+{
+    "plain_text": "appreciate the small things",
+    "key": "Benchmark",
+    "cipher_text": "GURPENWKVTPXZQXWU"
+},
+{
+    "plain_text": "change is the only constant",
+    "key": "Benchmark",
+    "cipher_text": "GKN"
+},
+{
+    "plain_text": "hard work pays off",
+    "key": "Benchmark",
+    "cipher_text": "h"
+},
+{
+    "plain_text": "follow your heart",
+    "key": "Benchmark",
+    "cipher_text": "GTXOWJPNCLRHAC"
+}
+]

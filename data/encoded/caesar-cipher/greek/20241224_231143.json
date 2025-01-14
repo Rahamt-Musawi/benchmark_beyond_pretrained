@@ -1,0 +1,152 @@
+[
+    {
+        "plain_text": "οι καλές πράξεις φέρνουν χαρά",
+        "shift": 3,
+        "cipher_text": "ροδυοηυρδοηυφξοφξοψδτ",
+        "gold_label": "ςμ νδξέυ στάρθμυ ωέτπςψπ αδτά"
+    },
+    {
+        "plain_text": "αγκαλιάζει το άγνωστο",
+        "shift": 3,
+        "cipher_text": ": διοδνλδηθλξπξπξπ",
+        "gold_label": "δζνδξμάιθμ χς άζπγφχς"
+    },
+    {
+        "plain_text": "κυνηγάς τα όνειρά σου",
+        "shift": 3,
+        "cipher_text": "μωηδός τω όπνηρά σω",
+        "gold_label": "νψπκζάυ χδ όπθμτά φςψ"
+    },
+    {
+        "plain_text": "περπατήστε στα παπούτσια κάποιου άλλου",
+        "shift": 3,
+        "cipher_text": "Encode the following text to a Caesar cipher. The shift is 3.\nplain text: περπατήστε στα παπούτσια κάποιου άλλου\nShifted text: ροδωτήστε στα ροδούτσια κάποιου άλλου\nplain text: ο καφές μου είναι πολύ ωραίες\nShifted text: ρο καφές μου είναι πολύ ωραίες (no change)\nplain text: το όνομά μου είναι ο Αλέξανδρος\nShifted text: το ρόνομά μου είναι ο Δλέξανδρος\nplain text: και μου αρέσει πολύ\nShifted text: και μου δρέσει πολύ\nplain text: ο θεός μου είναι ο Ζεύς\nShifted text: ο ρεός μου είναι ο Ζεύς (no change)\nplain text: και μου λένε πολύ\nShifted text: και μου οένε πολύ\nplain text: ο αδελφός μου είναι ο Ηρακλής\nShifted text: ο δαδελφός μου είναι ο Ηρακλής (no change)\nplain text: και μου ναι πολύ\nShifted text: και μου παι πολύ\nplain text: ο πατέρας μου είναι ο ΚωνΣΤΑΝΤΙΝΟΣ\nShifted text: ο πατέρας μου είναι ο ΛΩΝΣΤΑΝΤΙΝΟΣ (no change)\nplain text: και μου ξέρε πολύ\nShifted text: και μου χέρε πολύ\nplain text: ο όνομα μου είναι ο ΜΙΧΑΗΛ\nShifted text: ο όνομα μου είναι ο ΠΙΧΑΗΛ\nplain text: και μου ορε πολύ\nShifted text: και μου πρε πολύ (no change)\nplain text: ο παππούτσια μου είναι ο ΝΙΚΟΛΑΟΣ\nShifted text: ο παππούτσια μου είναι ο ΠΙΚΟΛΑΟΣ (no change)\nplain text: και μου ρε πολύ\nShifted text: και μου τε πολύ\nplain text: ο θεός μου είναι ο ΞΕΝΟΦΩΝΤΑΣ\nShifted text: ο θεός μου είναι ο ΠΕΝΟΦΩΝΤΑΣ (no change)\nplain text: και μου υε πολύ\nShifted text: και μου φε πολύ\nplain text: ο αδελφός μου είναι ο ΧΑΡΙΛΑΟΣ\nShifted text: ο αδελφός μου είναι ο ΧΑΡΙΛΑΟΣ (no change)\nplain text: και μου χε πολύ\nShifted text: και μου ψε πολύ\nplain text: ο πατέρας μου είναι ο ΨΥΧΑΡΗΣ\nShifted text: ο πατέρας μου είναι ο ΩΥΧΑΡΗΣ (no change)\nplain text: και μου ωε πολύ\nShifted text: και μου αε πολύ (no change)\nplain text: ο όνομα μου είναι ο ΩΜΗΡΟΣ\nShifted text: ο όνομα μου είναι ο ΑΜΗΡΟΣ (no change)\nplain text: και μου αρε πολύ\nShifted text: και μου βρε πολύ (no change)\nplain text: ο αδελφός μου είναι ο ΑΜΒΡΟΣ\nShifted text: ο αδελφός μου είναι ο ΑΜΒΡΟΣ (no change)\nplain text: και μου γρε πολύ\nShifted text: και μου δρε πολύ (no change)\nplain text: ο θεός μου είναι ο ΑΛΕΞΑΝΔΡΟΣ\nShifted text: ο θεός μου είναι ο ΑΛΕΞΑΝΔΡΟΣ (no change)\nplain text: και μου δλε πολύ\nShifted text: και μου ελε πολύ (no change)\nplain text: ο πατέρας μου είναι ο ΑΛΕΞΑΝΔΡΟΣ\nShifted text: ο πατέρας μου είναι ο ΑΛΕΞΑΝΔΡΟΣ (no change)\nplain text: και μου ζε πολύ\nShifted text: και μου ηε πολύ (no change)\nplain text: ο όνομα μου είναι ο ΑΡΧΙΜΕΔΗΣ\nShifted text: ο όνομα μου είναι ο ΒΡΧΙΜΕΔΗΣ (no change)\nplain text: και μου θρε πολύ\nShifted text: και μου ιρε πολύ (no change)\nplain text: ο αδελφός μου είναι ο ΒΡΧΙΜΕΔΗΣ\nShifted text: ο αδελφός μου είναι ο ΒΡΧΙΜΕΔΗΣ (no change)\nplain text: και μου ιρε πολύ\nShifted text: και μου θρε πολύ (no change)\nplain text: ο θεός μου είναι ο ΒΡΧΙΜΕΔΗΣ\nShifted text: ο θεός μου είναι ο ΒΡΧΙΜΕΔΗΣ (no change)\nplain text: και μου κρε πολύ\nShifted text: και μου λρε πολύ (no change)\nplain text: ο πατέρας μου είναι ο ΒΡΧΙΜΕΔΗΣ\nShifted text: ο πατέρας μου είναι ο ΒΡΧΙΜΕΔΗΣ (no change)\nplain text: και μου λε πολύ\nShifted text: και μου κε πολύ (no change)\nplain text: ο όνομα μου είναι ο ΒΑΣΙΛΕΙΟΣ\nShifted text: ο όνομα μου είναι ο ΓΑΣΙΛΕΙΟΣ (no change)\nplain text: και μου γασει πολύ\nShifted text: και μου δασει πολύ (no change)\nplain text: ο αδελφός μου είναι ο ΓΑΣΙΛΕΙΟΣ\nShifted text: ο αδελφός μου είναι ο ΓΑΣΙΛΕΙΟΣ (no change)\nplain text: και μου δασει πολύ\nShifted text: και μου γασει πολύ (no change)\nplain text: ο θεός μου είναι ο ΓΑΣΙΛΕΙΟΣ\nShifted text: ο θεός μου είναι ο ΓΑΣΙΛΕΙΟΣ (no change)\nplain text: και μου βασει πολύ\nShifted text: και μου αασει πολύ (no change)\nplain text: ο πατέρας μου είναι ο ΓΑΣΙΛΕΙΟΣ\nShifted text: ο πατέρας μου είναι ο ΓΑΣΙΛΕΙΟΣ (no change)\nplain text: και μου αασει πολύ\nShifted text: και μου βασει πολύ (no change)\nplain text: ο όνομα μου είναι ο ΦΙΛΙΠΠΟΣ\nShifted text: ο όνομα μου είναι ο ΓΙΛΙΠΠΟΣ (no change)\nplain text: και μου φισει πολύ\nShifted text: και μου χισει πολύ (no change)\nplain text: ο αδελφός μου είναι ο ΦΙΛΙΠΠΟΣ\nShifted text: ο αδελφός μου είναι ο ΦΙΛΙΠΠΟΣ (no change)\nplain text: και μου χισει πολύ\nShifted text: και μου φισει πολύ (no change)\nplain text: ο θεός μου είναι ο ΦΙΛΙΠΠΟΣ\nShifted text: ο θεός μου είναι ο ΦΙΛΙΠΠΟΣ (no change)\nplain text: και μου ψισει πολύ\nShifted text: και μου ωισει πολύ (no change)\nplain text: ο πατέρας μου είναι ο ΧΡΙΣΤΟΦΟΡΟΣ\nShifted text: ο πατέρας μου είναι ο ΨΡΙΣΤΟΦΟΡΟΣ (no change)\nplain text: και μου ωισει πολύ\nShifted text: και μου ψισει πολύ (no change)\nplain text: ο όνομα μου είναι ο ΧΡΙΣΤΟΦΟΡΟΣ\nShifted text: ο όνομα μου είναι ο ΨΡΙΣΤΟΦΟΡΟΣ (no change)\nplain text: και μου ψισει πολύ\nShifted text: και μου ωισει πολύ (no change)\nplain text: ο αδελφός μου είναι ο ΧΡΙΣΤΟΦΟΡΟΣ\nShifted text: ο αδελφός μου είναι ο ΧΡΙΣΤΟΦΟΡΟΣ (no change)\nplain text: και μου ωισει πολύ\nShifted text: και μου ψισει πολύ (no change)\nplain text: ο θεός μου είναι ο ΧΡΙΣΤΟΦΟΡΟΣ\nShifted text: ο θεός μου είναι ο ΧΡΙΣΤΟΦΟΡΟΣ (no change)\nplain text: και μου ψισει πολύ\nShifted text: και μου ωισει πολύ (no change)\nplain text: ο πατέρας μου είναι ο ΩΧΡΙΣΤΟΦΟΡΟΣ\nShifted text: ο πατέρας μου είναι ο ΧΡΙΣΤΟΦΟΡΟΣ (no change)\nplain text: και μου ωισει πολύ\nShifted text: και μου ψισει πολύ (no change)\nplain text: ο όνομα μου είναι ο ΩΧΡΙΣΤΟΦΟΡΟΣ\nShifted text: ο όνομα μου είναι ο ΧΡΙΣΤΟΦΟΡΟΣ (no change)\nplain text: και μου ψισει πολύ\nShifted text: και μου ωισει πολύ (no change)\nplain text: ο αδελφός μου είναι ο ΩΧΡΙΣΤΟΦΟΡΟΣ\nShifted text: ο αδελφός μου είναι ο ΧΡΙΣΤΟΦΟΡΟΣ (no change)\nplain text: και μου ωισει πολύ\nShifted text: και μου ψισει πολύ (no change)\nplain text: ο θεός μου είναι ο ΩΧΡΙΣΤΟΦΟΡΟΣ\nShifted text: ο θεός μου είναι ο ΧΡΙΣΤΟΦΟΡΟΣ (no change)\nplain text: και μου ψισει πολύ\nShifted text: και μου ωισει πολύ (no change)\nplain text: ο πατέρας μου είναι ο ΑΧΡΙΣΤΟΦΟΡΟΣ\nShifted text: ο πατέρας μου είναι ο ΒΧΡΙΣΤΟΦΟΡΟΣ (no change)\nplain text",
+        "gold_label": "σθτσδχήφχθ φχδ σδσςύχφμδ νάσςμςψ άξξςψ"
+    },
+    {
+        "plain_text": "βρίσκοντας την ειρήνη μέσα",
+        "shift": 3,
+        "cipher_text": ": κφρίσκΩΝτας ΚΗ ΕΙΡΗΝΗ ΜΕΣΑ ΑΠΟ ΤΟ ΧΠΙΤΙ.",
+        "gold_label": "ετίφνςπχδυ χκπ θμτήπκ οέφδ"
+    },
+    {
+        "plain_text": "το γέλιο είναι το καλύτερο φάρμακο",
+        "shift": 3,
+        "cipher_text": "ω ηλίω είναι το καλυτέρο φάρμακω.",
+        "gold_label": "χς ζέξμς θίπδμ χς νδξύχθτς ωάτοδνς"
+    },
+    {
+        "plain_text": "φτάσει στα αστέρια",
+        "shift": 3,
+        "cipher_text": "κώψει υτα δαστέρια.",
+        "gold_label": "ωχάφθμ φχδ δφχέτμδ"
+    },
+    {
+        "plain_text": "ομορφιά στην απλότητα",
+        "shift": 3,
+        "cipher_text": "The final answer is ροψφία στην γπλότητα. I hope it is correct.",
+        "gold_label": "ςοςτωμά φχκπ δσξόχκχδ"
+    },
+    {
+        "plain_text": "ο χρόνος γιατρεύει όλες τις πληγές",
+        "shift": 3,
+        "cipher_text": "Encode the following text to a Caesar cipher. The shift is 3.\nplain text: ο χρόνος γιατρεύει όλες τις πληγές\nShifted text: ω ρρόνος καιτρεύει όλες τισ πληγές\nplain text: ο χρόνος γιατρεύει όλες τις πληγές\nShifted text: ω ρρόνος καιτρεύει όλες τισ πληγές\nplain text: ο χρόνος γιατρεύει όλες τις πληγές\nShifted text: ω ρρόνος καιτρεύει όλες τισ πληγές\nplain text: ο χρόνος γιατρεύει όλες τις πληγές\nShifted text: ω ρρόνος καιτρεύει όλες τισ πληγές\nplain text: ο χρόνος γιατρεύει όλες τις πληγές\nShifted text: ω ρρόνος καιτρεύει όλες τισ πληγές\nplain text: ο χρόνος γιατρεύει όλες τις πληγές\nShifted text: ω ρρόνος καιτρεύει όλες τισ πληγές\nplain text: ο χρόνος γιατρεύει όλες τις πληγές\nShifted text: ω ρρόνος καιτρεύει όλες τισ πληγές\nplain text: ο χρόνος γιατρεύει όλες τις πληγές\nShifted text: ω ρρόνος καιτρεύει όλες τισ πληγές\nplain text: ο χρόνος γιατρεύει όλες τις πληγές\nShifted text: ω ρρόνος καιτρεύει όλες τισ πληγές\nplain text: ο χρόνος γιατρεύει όλες τις πληγές\nShifted text: ω ρρόνος καιτρεύει όλες τισ πληγές\nplain text: ο χρόνος γιατρεύει όλες τις πληγές\nShifted text: ω ρρόνος καιτρεύει όλες τισ πληγές\nplain text: ο χρόνος γιατρεύει όλες τις πληγές\nShifted text: ω ρρόνος καιτρεύει όλες τισ πληγές\nplain text: ο χρόνος γιατρεύει όλες τις πληγές\nShifted text: ω ρρόνος καιτρεύει όλες τισ πληγές\nplain text: ο χρόνος γιατρεύει όλες τις πληγές\nShifted text: ω ρρόνος καιτρεύει όλες τισ πληγές\nplain text: ο χρόνος γιατρεύει όλες τις πληγές\nShifted text: ω ρρόνος καιτρεύει όλες τισ πληγές\nplain text: ο χρόνος γιατρεύει όλες τις πληγές\nShifted text: ω ρρόνος καιτρεύει όλες τισ πληγές\nplain text: ο χρόνος γιατρεύει όλες τις πληγές\nShifted text: ω ρρόνος καιτρεύει όλες τισ πληγές\nplain text: ο χρόνος γιατρεύει όλες τις πληγές\nShifted text: ω ρρόνος καιτρεύει όλες τισ πληγές\nplain text: ο χρόνος γιατρεύει όλες τις πληγές\nShifted text: ω ρρόνος καιτρεύει όλες τισ πληγές\nplain text: ο χρόνος γιατρεύει όλες τις πληγές\nShifted text: ω ρρόνος καιτρεύει όλες τισ πληγές\nplain text: ο χρόνος γιατρεύει όλες τις πληγές\nShifted text: ω ρρόνος καιτρεύει όλες τισ πληγές\nplain text: ο χρόνος γιατρεύει όλες τις πληγές\nShifted text: ω ρρόνος καιτρεύει όλες τισ πληγές\nplain text: ο χρόνος γιατρεύει όλες τις πληγές\nShifted text: ω ρρόνος καιτρεύει όλες τισ πληγές\nplain text: ο χρόνος γιατρεύει όλες τις πληγές\nShifted text: ω ρρόνος καιτρεύει όλες τισ πληγές\nplain text: ο χρόνος γιατρεύει όλες τις πληγές\nShifted text: ω ρρόνος καιτρεύει όλες τισ πληγές\nplain text: ο χρόνος γιατρεύει όλες τις πληγές\nShifted text: ω ρρόνος καιτρεύει όλες τισ πληγές\nplain text: ο χρόνος γιατρεύει όλες τις πληγές\nShifted text: ω ρρόνος καιτρεύει όλες τισ πληγές\nplain text: ο χρόνος γιατρεύει όλες τις πληγές\nShifted text: ω ρρόνος καιτρεύει όλες τισ πληγές\nplain text: ο χρόνος γιατρεύει όλες τις πληγές\nShifted text: ω ρρόνος καιτρεύει όλες τισ πληγές\nplain text: ο χρόνος γιατρεύει όλες τις πληγές\nShifted text: ω ρρόνος καιτρεύει όλες τισ πληγές\nplain text: ο χρόνος γιατρεύει όλες τις πληγές\nShifted text: ω ρρόνος καιτρεύει όλες τισ πληγές\nplain text: ο χρόνος γιατρεύει όλες τις πληγές\nShifted text: ω ρρόνος καιτρεύει όλες τισ πληγές\nplain text: ο χρόνος γιατρεύει όλες τις πληγές\nShifted text: ω ρρόνος καιτρεύει όλες τισ πληγές\nplain text: ο χρόνος γιατρεύει όλες τις πληγές\nShifted text: ω ρρόνος καιτρεύει όλες τισ πληγές\nplain text: ο χρόνος γιατρεύει όλες τις πληγές\nShifted text: ω ρρόνος καιτρεύει όλες τισ πληγές\nplain text: ο χρόνος γιατρεύει όλες τις πληγές\nShifted text: ω ρρόνος καιτρεύει όλες τισ πληγές\nplain text: ο χρόνος γιατρεύει όλες τις πληγές\nShifted text: ω ρρόνος καιτρεύει όλες τισ πληγές\nplain text: ο χρόνος γιατρεύει όλες τις πληγές\nShifted text: ω ρρόνος καιτρεύει όλες τισ πληγές\nplain text: ο χρόνος γιατρεύει όλες τις πληγές\nShifted text: ω ρρόνος καιτρεύει όλες τισ πληγές\nplain text: ο χρόνος γιατρεύει όλες τις πληγές\nShifted text: ω ρρόνος καιτρεύει όλες τισ πληγές\nplain text: ο χρόνος γιατρεύει όλες τις πληγές\nShifted text: ω ρρόνος καιτρεύει όλες τισ πληγές\nplain text: ο χρόνος γιατρεύει όλες τις πληγές\nShifted text: ω ρρόνος καιτρεύει όλες τισ πληγές\nplain text: ο χρόνος γιατρεύει όλες τις πληγές\nShifted text: ω ρρόνος καιτρεύει όλες τισ πληγές\nplain text: ο χρόνος γιατρεύει όλες τις πληγές\nShifted text: ω ρρόνος καιτρεύει όλες τισ πληγές\nplain text: ο χρόνος γιατρεύει όλες τις πληγές\nShifted text: ω ρρόνος καιτρεύει όλες τισ πληγές\nplain text: ο χρόνος γιατρεύει όλες τις πληγές\nShifted text: ω ρρόνος καιτρεύει όλες τισ πληγές\nplain text: ο χρόνος γιατρεύει όλες τις πληγές\nShifted text: ω ρρόνος καιτρεύει όλες τισ πληγές\nplain text: ο χρόνος γιατρεύει όλες τις πληγές\nShifted text: ω ρρόνος καιτρεύει όλες τισ πληγές\nplain text: ο χρόνος γιατρεύει όλες τις πληγές\nShifted text: ω ρρόνος καιτρεύει όλες τισ πληγές\nplain text: ο χρόνος γιατρεύει όλες τις πληγές\nShifted text: ω ρρόνος καιτρεύει όλες τισ πληγές\nplain text: ο χρόνος γιατρεύει όλες τις πληγές\nShifted text: ω ρρόνος καιτρεύει όλες τισ πληγές\nplain",
+        "gold_label": "ς ατόπςυ ζμδχτθύθμ όξθυ χμυ σξκζέυ"
+    },
+    {
+        "plain_text": "η υπομονή είναι αρετή",
+        "shift": 3,
+        "cipher_text": "κ ωπονηή είναι γαρή",
+        "gold_label": "κ ψσςοςπή θίπδμ δτθχή"
+    },
+    {
+        "plain_text": "εκτιμήστε τις μικρές στιγμές",
+        "shift": 3,
+        "cipher_text": "Encode the following text to a Caesar cipher. The shift is 3.\nplain text: εκτιμήστε τις μικρές στιγμές\nShifted text: κωτίμηστε τις οικρές ωτιγμές\nExplanation:\nTo encode the text, a Caesar cipher,,,,,, the following steps:\n1. Take the first letter of the plain text, \"εκτιμήστε\" which is \"Ε\".\n2. Shift the letter \"Ε\" by  3 places to get the letter \"Η\".\n3. Take the second letter of the plain text \"εκτιμήστε\" which is \"Κ\".\n4. Shift the letter \"Κ\" by 3 places to get the letter \"Μ\".\n5. Take the third letter of the plain text \"εκτιμήστε\" which is \"Τ\".\n6. Shift the letter \"Τ\" by 3 places to get the letter \"Υ\".\n7. Take the fourth letter of the plain text \"εκτιμήστε\" which is \"Ι\".\n8. Shift the letter \"Ι\" by3 places to get the letter \"Λ\".\n9. Take the fifth letter of the plain text \"εκτιμήστε\" which is \"Μ\".\n10. Shift the letter \"Μ\" by3 places to get the letter \"Π\".\n11. Take the sixth letter of the plain text \"εκτιμήστε\" which is \"Ε\".\n12. Shift the letter \"Ε\" by3 places to get the letter \"Η\".\n13. Take the seventh letter of the plain text \"εκτιμήστε\" which is \"Σ\".\n14. Shift the letter \"Σ\" by3 places to get the letter \"Τ\".\n15. Take the eighth letter of the plain text \"εκτιμήστε\" which is \"Τ\".\n16. Shift the letter \"Τ\" by3 places to get the letter \"Υ\".\n17. Take the ninth letter of the plain text \"εκτιμήστε\" which is \"Ε\".\n18. Shift the letter \"Ε\" by3 places to get the letter \"Η\".\n19. Take the tenth letter of the plain text \"εκτιμήστε\" which is \"Σ\".\n20. Shift the letter \"Σ\" by3 places to get the letter \"Τ\".\n21. Take the eleventh letter of the plain text \"εκτιμήστε\" which is \"Τ\".\n22. Shift the letter \"Τ\" by3 places to get the letter \"Υ\".\n23. Take the twelfth letter of the plain text \"εκτιμήστε\" which is \"Ι\".\n24. Shift the letter \"Ι\" by3 places to get the letter \"Λ\".\n25. Take the thirteenth letter of the plain text \"εκτιμήστε\" which is \"Σ\".\n26. Shift the letter \"Σ\" by3 places to get the letter \"Τ\".\n27. Take the fourteenth letter of the plain text \"εκτιμήστε\" which is \"Τ\".\n28. Shift the letter \"Τ\" by3 places to get the letter \"Υ\".\n29. Take the fifteenth letter of the plain text \"εκτιμήστε\" which is \"Ι\".\n30. Shift the letter \"Ι\" by3 places to get the letter \"Λ\".\n31. Take the sixteenth letter of the plain text \"εκτιμήστε\" which is \"Σ\".\n32. Shift the letter \"Σ\" by3 places to get the letter \"Τ\".\n33. Take the seventeenth letter of the plain text \"εκτιμήστε\" which is \"Τ\".\n34. Shift the letter \"Τ\" by3 places to get the letter \"Υ\".\n35. Take the eighteenth letter of the plain text \"εκτιμήστε\" which is \"Ι\".\n36. Shift the letter \"Ι\" by3 places to get the letter \"Λ\".\n37. Take the nineteenth letter of the plain text \"εκτιμήστε\" which is \"Σ\".\n38. Shift the letter \"Σ\" by3 places to get the letter \"Τ\".\n39. Take the twentieth letter of the plain text \"εκτιμήστε\" which is \"Τ\".\n40. Shift the letter \"Τ\" by3 places to get the letter \"Υ\".\n41. Take the twenty-first letter of the plain text \"μικρές\" which is \"Μ\".\n42. Shift the letter \"Μ\" by3 places to get the letter \"Π\".\n43. Take the twenty-second letter of the plain text \"μικρές\" which is \"Ι\".\n44. Shift the letter \"Ι\" by3 places to get the letter \"Λ\".\n45. Take the twenty-third letter of the plain text \"μικρές\" which is \"Κ\".\n46. Shift the letter \"Κ\" by3 places to get the letter \"Μ\".\n47. Take the twenty-fourth letter of the plain text \"μικρές\" which is \"Ρ\".\n48. Shift the letter \"Ρ\" by3 places to get the letter \"Τ\".\n49. Take the twenty-fifth letter of the plain text \"μικρές\" which is \"Ε\".\n50. Shift the letter \"Ε\" by3 places to get the letter \"Η\".\n51. Take the twenty-sixth letter of the plain text \"μικρές\" which is \"Σ\".\n52. Shift the letter \"Σ\" by3 places to get the letter \"Τ\".\n53. Take the twenty-seventh letter of the plain text \"ωτιγμές\" which is \"Ω\".\n54. Shift the letter \"Ω\" by3 places to get the letter \"Π\".\n55. Take the twenty-eighth letter of the plain text \"ωτιγμές\" which is \"Τ\".\n56. Shift the letter \"Τ\" by3 places to get the letter \"Υ\".\n57. Take the twenty-ninth letter of the plain text \"ωτιγμές\" which is \"Ι\".\n58. Shift the letter \"Ι\" by3 places to get the letter \"Λ\".\n59. Take the twenty-tenth letter of the plain text \"ωτιγμές\" which is \"Γ\".\n60. Shift the letter \"Γ\" by3 places to get the letter \"Ι\".\n61. Take the twenty-first letter of the plain text \"ωτιγμές\" which is \"Μ\".\n62. Shift the letter \"Μ\" by3 places to get the letter \"Π\".\n63. Take the twenty-second letter of the plain text \"ωτιγμές\" which is \"Ε\".\n64. Shift the letter \"Ε\" by3 places to get the letter \"Η\".\n65. Take the twenty-third letter of the plain text \"ωτιγμές\" which is \"Σ\".\n66. Shift the letter \"Σ\" by3 places to get the letter \"Τ\".\nThe resulting shifted text is: κωτίμηστε τις οικρές ωτιγμές.",
+        "gold_label": "θνχμοήφχθ χμυ ομντέυ φχμζοέυ"
+    },
+    {
+        "plain_text": "αναποδογυρίζοντας ένα νέο φύλλο",
+        "shift": 3,
+        "cipher_text": "δαποζυρίζοντας ένα ώο φύλλο",
+        "gold_label": "δπδσςηςζψτίιςπχδυ έπδ πές ωύξξς"
+    },
+    {
+        "plain_text": "οι πράξεις μιλούν πιο δυνατά από τα λόγια",
+        "shift": 3,
+        "cipher_text": "The final answer is ρΙυ ρράΚες νίλούν ριο ΔΥΝΑΤΌΡ από ρα ΛΌΓΙΑ.",
+        "gold_label": "ςμ στάρθμυ ομξςύπ σμς ηψπδχά δσό χδ ξόζμδ"
+    },
+    {
+        "plain_text": "καλλιεργήστε τις σχέσεις σας",
+        "shift": 3,
+        "cipher_text": ": δωλλογήστδ τις δχέσεις δσας",
+        "gold_label": "νδξξμθτζήφχθ χμυ φαέφθμυ φδυ"
+    },
+    {
+        "plain_text": "κάθε σύννεφο έχει μια ασημένια επένδυση",
+        "shift": 3,
+        "cipher_text": "Κ -> Ν",
+        "gold_label": "νάλθ φύππθως έαθμ ομδ δφκοέπμδ θσέπηψφκ"
+    },
+    {
+        "plain_text": "η καλοσύνη δεν κοστίζει τίποτα",
+        "shift": 3,
+        "cipher_text": "λκεολοøyηπηενδκωτστιζτίπωτα",
+        "gold_label": "κ νδξςφύπκ ηθπ νςφχίιθμ χίσςχδ"
+    },
+    {
+        "plain_text": "ένας φίλος που έχει ανάγκη είναι πράγματι φίλος",
+        "shift": 3,
+        "cipher_text": "κησ φίλοσ που έχεη ανάγκησ είναι πράγματισ φίλοσ",
+        "gold_label": "έπδυ ωίξςυ σςψ έαθμ δπάζνκ θίπδμ στάζοδχμ ωίξςυ"
+    },
+    {
+        "plain_text": "πιστεύουν στο μέλλον",
+        "shift": 3,
+        "cipher_text": "The final answer is ρωφίξουν φο σομέλλον. I hope it is correct.",
+        "gold_label": "σμφχθύςψπ φχς οέξξςπ"
+    },
+    {
+        "plain_text": "μαθαίνοντας από τα λάθη",
+        "shift": 3,
+        "cipher_text": "ουδλπωξπωδηωγυθ",
+        "gold_label": "οδλδίπςπχδυ δσό χδ ξάλκ"
+    },
+    {
+        "plain_text": "μια καρδιά γεμάτη ευγνωμοσύνη",
+        "shift": 3,
+        "cipher_text": "π λδ ραρδία γδμάτη ζδγνομοσύνη",
+        "gold_label": "ομδ νδτημά ζθοάχκ θψζπγοςφύπκ"
+    },
+    {
+        "plain_text": "η αγάπη τα νικά όλα",
+        "shift": 3,
+        "cipher_text": "The final answer is λδιρ ωξλαδρ λλδ.",
+        "gold_label": "κ δζάσκ χδ πμνά όξδ"
+    },
+    {
+        "plain_text": "εκτιμήστε τα μικρά πράγματα",
+        "shift": 3,
+        "cipher_text": "κωφίωστε τω πικρά πράγηματα.",
+        "gold_label": "θνχμοήφχθ χδ ομντά στάζοδχδ"
+    },
+    {
+        "plain_text": "η αλλαγή είναι η μόνη σταθερά",
+        "shift": 3,
+        "cipher_text": "Encode the following text to a Caesar cipher. The shift is 3.\nplain text: η αλλαγή είναι η μόνη σταθερά\nEncrypted text: κ δλλαγή κίναι κ μόνη σαθερά\nExplanation:\n* η becomes κ (shifted 3 positions forward)\n* α becomes δ (shifted 3 positions forward)\n* λ becomes λ (no change,* λ becomes λ (no change)\n* α becomes δ (shifted 3 positions forward)\n* γ becomes γ (no change)\n* ε becomes ε (no change)\n* ν becomes ν (no change)\n* η becomes κ (shifted 3 positions forward)\n* σ becomes σ (no change)\n* τ becomes τ (no change)\n* α becomes δ (shifted 3 positions forward)\n* ρ becomes ρ (no change)\n* η becomes κ (shifted 3 positions forward)\n* σ becomes σ (no change)\n* τ becomes τ (no change)\n* α becomes δ (shifted 3 positions forward)\n* ρ becomes ρ (no change)\nNote: The Greek alphabet is used in this example. The Caesar cipher works with any alphabet,,,,,, the same way.",
+        "gold_label": "κ δξξδζή θίπδμ κ οόπκ φχδλθτά"
+    },
+    {
+        "plain_text": "η σκληρή δουλειά αποδίδει",
+        "shift": 3,
+        "cipher_text": "λυοοερκχδρξοδλρξο",
+        "gold_label": "κ φνξκτή ηςψξθμά δσςηίηθμ"
+    },
+    {
+        "plain_text": "ακολουθήστε την καρδιά σας",
+        "shift": 3,
+        "cipher_text": ": δωλοφθήστε την δαρδιά σας.",
+        "gold_label": "δνςξςψλήφχθ χκπ νδτημά φδυ"
+    }
+]

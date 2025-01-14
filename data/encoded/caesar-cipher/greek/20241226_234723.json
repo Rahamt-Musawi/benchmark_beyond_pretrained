@@ -1,0 +1,152 @@
+[
+    {
+        "plain_text": "οι καλές πράξεις φέρνουν χαρά",
+        "shift": 9,
+        "cipher_text": "jbbqujxavauliawoipu",
+        "gold_label": "ψς σκτέβ ωαάχξςβ ζέαφψεφ ηκαά"
+    },
+    {
+        "plain_text": "αγκαλιάζει το άγνωστο",
+        "shift": 9,
+        "cipher_text": "ιπλρϊηφχσπωσχσπωσ",
+        "gold_label": "κμσκτςάοξς δψ άμφιγδψ"
+    },
+    {
+        "plain_text": "κυνηγάς τα όνειρά σου",
+        "shift": 9,
+        "cipher_text": "Encode the following text to a Caesar cipher. The shift is 9.\nplain text: κυνηγάς τα όνειρά σου\nGreek alphabet:\nα α', β β', γ γ', δ δ', ε ε', ζ ζ', η η', θ θ', ι ι', κ κ', λ λ', μ μ', ν ν', ξ ξ', ο ο', υ υ', φ φ', χ χ', ψ ψ', ω ω'\nGreek vowels:\nα, ε, η, ι, ο, υ\nGreek consonants:\nβ, γ, δ, ζ, θ, κ, λ, μ, ν, ξ, π, ρ, σ, τ, φ, χ, ψ\nGreek digraphs:\nαι, οι, υι, αυ, ευ, ου\nGreek diphthongs:\nαι, οι, υι, αυ, ευ, ου\nGreek punctuation:\n,. ; :\nGreek diacritics:\n´ (tonos)\nGreek letters:\nα, β, γ, δ, ε, ζ, η, θ, ι, κ, λ, μ, ν, ξ, ο, υ, φ, χ, ψ, ω\nGreek numbers:\n1, 2, 3, 4, 5, 6, 7, 8, 9, 10\nGreek symbols:\n,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+        "gold_label": "σεφπμάβ δκ όφξςαά γψε"
+    },
+    {
+        "plain_text": "περπατήστε στα παπούτσια κάποιου άλλου",
+        "shift": 9,
+        "cipher_text": "the result of shifting each letter in the plaintext 9 positions down the Greek alphabet. For example, the letter π (pi) in the plaintext becomes σ (sigma) in the encoded text, because σ is the 9th letter after π in the Greek alphabet. Similarly, the letter η (eta) in the plaintext becomes ω (omega) in the encoded text, because ω is the 9th letter after η in the Greek alphabet.",
+        "gold_label": "ωξαωκδήγδξ γδκ ωκωψύδγςκ σάωψςψε άττψε"
+    },
+    {
+        "plain_text": "βρίσκοντας την ειρήνη μέσα",
+        "shift": 9,
+        "cipher_text": "(Note: The Greek characters are not encoded as they are, but as their corresponding Unicode code points. The encoded text is in hexadecimal format.)",
+        "gold_label": "λαίγσψφδκβ δπφ ξςαήφπ υέγκ"
+    },
+    {
+        "plain_text": "το γέλιο είναι το καλύτερο φάρμακο",
+        "shift": 9,
+        "cipher_text": "ρχ μήλιε είναι ρχ καλύτερο φρμκα για ρχ ψυχολογικό τρμκα",
+        "gold_label": "δψ μέτςψ ξίφκς δψ σκτύδξαψ ζάαυκσψ"
+    },
+    {
+        "plain_text": "φτάσει στα αστέρια",
+        "shift": 9,
+        "cipher_text": "φ -> ώ (φ is the 6th letter, ώ is the 15th letter, shift 9)",
+        "gold_label": "ζδάγξς γδκ κγδέαςκ"
+    },
+    {
+        "plain_text": "ομορφιά στην απλότητα",
+        "shift": 9,
+        "cipher_text": "ο -> τ (since τ is 9 positions ahead of ο)",
+        "gold_label": "ψυψαζςά γδπφ κωτόδπδκ"
+    },
+    {
+        "plain_text": "ο χρόνος γιατρεύει όλες τις πληγές",
+        "shift": 9,
+        "cipher_text": "the result of shifting each letter in the original text by 9 positions in the Greek alphabet.",
+        "gold_label": "ψ ηαόφψβ μςκδαξύξς ότξβ δςβ ωτπμέβ"
+    },
+    {
+        "plain_text": "η υπομονή είναι αρετή",
+        "shift": 9,
+        "cipher_text": "η -> θ (shifted 9 positions forward)",
+        "gold_label": "π εωψυψφή ξίφκς καξδή"
+    },
+    {
+        "plain_text": "εκτιμήστε τις μικρές στιγμές",
+        "shift": 9,
+        "cipher_text": "To encode the text using a Caesar cipher with a shift of 9, we can replace each letter with the letter 9 positions ahead of it in the alphabet. Here's the encoded text:",
+        "gold_label": "ξσδςυήγδξ δςβ υςσαέβ γδςμυέβ"
+    },
+    {
+        "plain_text": "αναποδογυρίζοντας ένα νέο φύλλο",
+        "shift": 9,
+        "cipher_text": "d o d r p k p l w t s v q o h o q g j m m p g",
+        "gold_label": "κφκωψνψμεαίοψφδκβ έφκ φέψ ζύττψ"
+    },
+    {
+        "plain_text": "οι πράξεις μιλούν πιο δυνατά από τα λόγια",
+        "shift": 9,
+        "cipher_text": "στσφσέκψ πνπφν ριφ εφσέκψ βφ στ μφσέκψ",
+        "gold_label": "ψς ωαάχξςβ υςτψύφ ωςψ νεφκδά κωό δκ τόμςκ"
+    },
+    {
+        "plain_text": "καλλιεργήστε τις σχέσεις σας",
+        "shift": 9,
+        "cipher_text": "To encode the text, we need to shift each letter by 9 positions in the Greek alphabet. Here's the step-by-step process:",
+        "gold_label": "σκττςξαμήγδξ δςβ γηέγξςβ γκβ"
+    },
+    {
+        "plain_text": "κάθε σύννεφο έχει μια ασημένια επένδυση",
+        "shift": 9,
+        "cipher_text": "the encoded text:",
+        "gold_label": "σάρξ γύφφξζψ έηξς υςκ κγπυέφςκ ξωέφνεγπ"
+    },
+    {
+        "plain_text": "η καλοσύνη δεν κοστίζει τίποτα",
+        "shift": 9,
+        "cipher_text": "Encode the following text to a Caesar cipher. The shift is 9.\nplain text: η καλοσύνη δεν κοστίζει τίποτα\nGreek alphabet:\nα α', β β', γ γ', δ δ', ε ε', ζ ζ', η η', θ θ', ι ι', κ κ', λ λ', μ μ', ν ν', ξ ξ', ο ο', π π', ρ ρ', σ σ', τ τ', υ υ', φ φ', χ χ', ψ ψ', ω ω'\nGreek alphabet with diacritics:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with di",
+        "gold_label": "π σκτψγύφπ νξφ σψγδίοξς δίωψδκ"
+    },
+    {
+        "plain_text": "ένας φίλος που έχει ανάγκη είναι πράγματι φίλος",
+        "shift": 9,
+        "cipher_text": "?",
+        "gold_label": "έφκβ ζίτψβ ωψε έηξς κφάμσπ ξίφκς ωαάμυκδς ζίτψβ"
+    },
+    {
+        "plain_text": "πιστεύουν στο μέλλον",
+        "shift": 9,
+        "cipher_text": "Encode the following text to a Caesar cipher. The shift is 9.\nplain text: πιστεύουν στο μέλλον\nGreek alphabet:\nα α', β β', γ γ', δ δ', ε ε', ζ ζ', η η', θ θ', ι ι', κ κ', λ λ', μ μ', ν ν', ξ ξ', ο ο', π π', ρ ρ', σ σ', τ τ', υ υ', φ φ', χ χ', ψ ψ', ω ω'\nGreek alphabet with diacritics:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with diacritics and accents:\nα' α', β' β', γ' γ', δ' δ', ε' ε', ζ' ζ', η' η', θ' θ', ι' ι', κ' κ', λ' λ', μ' μ', ν' ν', ξ' ξ', ο' ο', π' π', ρ' ρ', σ' σ', τ' τ', υ' υ', φ' φ', χ' χ', ψ' ψ', ω' ω'\nGreek alphabet with di",
+        "gold_label": "ωςγδξύψεφ γδψ υέττψφ"
+    },
+    {
+        "plain_text": "μαθαίνοντας από τα λάθη",
+        "shift": 9,
+        "cipher_text": "μαθαίνοντας από τα λάθη μου",
+        "gold_label": "υκρκίφψφδκβ κωό δκ τάρπ"
+    },
+    {
+        "plain_text": "μια καρδιά γεμάτη ευγνωμοσύνη",
+        "shift": 9,
+        "cipher_text": "?",
+        "gold_label": "υςκ σκανςά μξυάδπ ξεμφιυψγύφπ"
+    },
+    {
+        "plain_text": "η αγάπη τα νικά όλα",
+        "shift": 9,
+        "cipher_text": "To encode the text, we need to shift each letter by 9 positions in the Greek alphabet. Here's the step-by-step process:",
+        "gold_label": "π κμάωπ δκ φςσά ότκ"
+    },
+    {
+        "plain_text": "εκτιμήστε τα μικρά πράγματα",
+        "shift": 9,
+        "cipher_text": "To encode the text using a Caesar cipher with a shift of 9, we can replace each letter with the letter 9 positions ahead of it in the alphabet. Here's the encoded text:",
+        "gold_label": "ξσδςυήγδξ δκ υςσαά ωαάμυκδκ"
+    },
+    {
+        "plain_text": "η αλλαγή είναι η μόνη σταθερά",
+        "shift": 9,
+        "cipher_text": "Encode the following text to a Caesar cipher. The shift is 9.\nplain text: η αλλαγή είναι η μόνη σταθερά\nGreek alphabet:\nα = a\nβ = b\nγ = g\nδ = d\nε = e\nζ = z\nη = i\nθ = th\nι = i\nκ = k\nλ = l\nμ = m\nν = n\nξ = x\nο = o\nπ = p\nρ = r\nσ = s\nτ = t\nυ = u\nφ = ph\nχ = ch\nψ = ps\nω = o\nGreek alphabet with diacritics:\nα' = a\nα'' = a\nα''' = a\nβ' = b\nβ'' = b\nβ''' = b\nγ' = g\nγ'' = g\nγ''' = g\nδ' = d\nδ'' = d\nδ''' = d\nε' = e\nε'' = e\nε''' = e\nζ' = z\nζ'' = z\nζ''' = z\nη' = i\nη'' = i\nη''' = i\nθ' = th\nθ'' = th\nθ''' = th\nι' = i\nι'' = i\nι''' = i\nκ' = k\nκ'' = k\nκ''' = k\nλ' = l\nλ'' = l\nλ''' = l\nμ' = m\nμ'' = m\nμ''' = m\nν' = n\nν'' = n\nν''' = n\nξ' = x\nξ'' = x\nξ''' = x\nο' = o\nο'' = o\nο''' = o\nπ' = p\nπ'' = p\nπ''' = p\nρ' = r\nρ'' = r\nρ''' = r\nσ' = s\nσ'' = s\nσ''' = s\nτ' = t\nτ'' = t\nτ''' = t\nυ' = u\nυ'' = u\nυ''' = u\nφ' = ph\nφ'' = ph\nφ''' = ph\nχ' = ch\nχ'' = ch\nχ''' = ch\nψ' = ps\nψ'' = ps\nψ''' = ps\nω' = o\nω'' = o\nω''' = o\nGreek alphabet with diacritics and accents:\nα' = a\nα'' = a\nα''' = a\nα'''' = a\nβ' = b\nβ'' = b\nβ''' = b\nβ'''' = b\nγ' = g\nγ'' = g\nγ''' = g\nγ'''' = g\nδ' = d\nδ'' = d\nδ''' = d\nδ'''' = d\nε' = e\nε'' = e\nε''' = e\nε'''' = e\nζ' = z\nζ'' = z\nζ''' = z\nζ'''' = z\nη' = i\nη'' = i\nη''' = i\nη'''' = i\nθ' = th\nθ'' = th\nθ''' = th\nθ'''' = th\nι' = i\nι'' = i\nι''' = i\nι'''' = i\nκ' = k\nκ'' = k\nκ''' = k\nκ'''' = k\nλ' = l\nλ'' = l\nλ''' = l\nλ'''' = l\nμ' = m\nμ'' = m\nμ''' = m\nμ'''' = m\nν' = n\nν'' = n\nν''' = n\nν'''' = n\nξ' = x\nξ'' = x\nξ''' = x\nξ'''' = x\nο' = o\nο'' = o\nο''' = o\nο'''' = o\nπ' = p\nπ'' = p\nπ''' = p\nπ'''' = p\nρ' = r\nρ'' = r\nρ''' = r\nρ'''' = r\nσ' = s\nσ'' = s\nσ''' = s\nσ'''' = s\nτ' = t\nτ'' = t\nτ''' = t\nτ'''' = t\nυ' = u\nυ'' = u\nυ''' = u\nυ'''' = u\nφ' = ph\nφ'' = ph\nφ''' = ph\nφ'''' = ph\nχ' = ch\nχ'' = ch\nχ''' = ch\nχ'''' = ch\nψ' = ps\nψ'' = ps\nψ''' = ps\nψ'''' = ps\nω' = o\nω'' = o\nω''' = o\nω'''' = o\nGreek alphabet with diacritics, accents, and diacritical marks:\nα' = a\nα'' = a\nα''' = a\nα'''' = a\nα''''' = a\nβ' = b\nβ'' = b\nβ''' = b\nβ'''' = b\nβ''''' = b\nγ' = g\nγ'' = g\nγ''' = g\nγ'''' = g\nγ''''' = g\nδ' = d\nδ'' = d\nδ''' = d\nδ'''' = d\nδ''''' = d\nε' = e\nε'' = e\nε''' = e\nε'''' = e\nε''''' = e\nζ' = z\nζ'' = z\nζ''' = z\nζ'''' = z\nζ''''' = z\nη' = i\nη'' = i\nη''' = i\nη'''' = i\nη''''' = i\nθ' = th\nθ'' = th\nθ''' = th\nθ'''' = th\nθ''''' = th\nι' = i\nι'' = i\nι''' = i\nι'''' = i\nι''''' = i\nκ' = k\nκ'' = k\nκ''' = k\nκ'''' = k\nκ''''' = k\nλ' = l\nλ'' = l\nλ''' = l\nλ'''' = l\nλ''''' = l\nμ' = m\nμ'' = m\nμ''' = m\nμ'''' = m\nμ''''' = m\nν' = n\nν'' = n\nν''' = n\nν'''' = n\nν''''' = n\nξ' = x\nξ'' = x\nξ''' = x\nξ'''' = x\nξ''''' = x\nο' = o\nο'' = o\nο''' = o\nο'''' = o\nο''''' = o\nπ' = p\nπ'' = p\nπ''' = p\nπ'''' = p\nπ''''' = p\nρ' = r\nρ'' = r\nρ''' = r\nρ'''' = r\nρ''''' = r\nσ' = s\nσ'' = s\nσ''' = s\nσ'''' = s\nσ''''' = s\nτ' = t\nτ'' = t\nτ''' = t\nτ'''' = t\nτ''''' = t\nυ' = u\nυ'' = u\nυ''' = u\nυ'''' = u\nυ''''' = u\nφ' = ph\nφ'' = ph\nφ''' = ph\nφ'''' = ph\nφ''''' = ph\nχ' = ch\nχ'' = ch\nχ''' = ch\nχ'''' = ch\nχ''''' = ch\nψ' = ps\nψ'' = ps\nψ''' = ps\nψ'''' = ps\nψ''''' = ps\nω' = o\nω'' = o\nω''' = o\nω'''' = o\nω''''' = o\nGreek alphabet with diacritics, accents, diacritical marks, and diacritical marks with accents:\nα' = a\nα'' = a\nα''' = a\nα'''' = a\nα''''' = a\nα''''' = a\nβ' = b\nβ'' = b\nβ''' = b\nβ'''' = b\nβ''''' = b\nβ''''' = b\nγ' = g\nγ'' = g\nγ''' = g\nγ'''' = g\nγ''''' = g\nγ''''' = g\nδ' = d\nδ'' = d\nδ''' = d\nδ'''' = d\nδ''''' = d\nδ''''' = d\nε' = e\nε'' = e\nε''' = e\nε'''' = e\nε''''' = e\nε''''' = e\nζ' = z\nζ'' = z\nζ''' = z\nζ'''' = z\nζ''''' = z\nζ''''' = z\nη' = i\nη'' = i\nη''' = i\nη'''' = i\nη''''' = i\nη''''' = i\nθ' = th\nθ'' = th\nθ''' = th\nθ'''' = th\nθ''''' = th\nθ''''' = th\nι' = i\nι'' = i\nι''' = i\nι'''' = i\nι''''' = i\nι''''' = i\nκ' = k\nκ'' = k\nκ''' = k\nκ'''' = k\nκ''''' = k\nκ''''' = k\nλ' = l\nλ'' = l\nλ''' = l\nλ'''' = l\nλ''''' = l\nλ''''' = l\nμ' = m\nμ'' = m\nμ''' = m\nμ'''' = m\nμ''''' = m\nμ''''' = m\nν' = n\nν'' = n\nν''' = n\nν'''' = n",
+        "gold_label": "π κττκμή ξίφκς π υόφπ γδκρξαά"
+    },
+    {
+        "plain_text": "η σκληρή δουλειά αποδίδει",
+        "shift": 9,
+        "cipher_text": "The final answer is hupleretcolo. I hope it is correct.",
+        "gold_label": "π γστπαή νψετξςά κωψνίνξς"
+    },
+    {
+        "plain_text": "ακολουθήστε την καρδιά σας",
+        "shift": 9,
+        "cipher_text": "Encode the following text to a Caesar cipher. The shift is 9.\nplain text: ακολουθήστε την καρδιά σας\nGreek alphabet:\nα (alpha)\nβ (beta)\nγ (gamma)\nδ (delta)\nε (epsilon)\nζ (zeta)\nη (eta)\nθ (theta)\nι (iota)\nκ (kappa)\nλ (lambda)\nμ (mu)\nν (nu)\nξ (xi)\nο (omicron)\nπ (pi)\nρ (rho)\nσ (sigma)\nτ (tau)\nυ (upsilon)\nφ (phi)\nχ (chi)\nψ (psi)\nω (omega)\nGreek alphabet with diacritics:\nα' (alpha with tonos)\nα΄ (alpha with dialytika)\nβ΄ (beta with dialytika)\nγ΄ (gamma with dialytika)\nδ΄ (delta with dialytika)\nε΄ (epsilon with dialytika)\nζ΄ (zeta with dialytika)\nη΄ (eta with dialytika)\nι΄ (iota with dialytika)\nκ΄ (kappa with dialytika)\nλ΄ (lambda with dialytika)\nμ΄ (mu with dialytika)\nν΄ (nu with dialytika)\nξ΄ (xi with dialytika)\nο΄ (omicron with dialytika)\nπ΄ (pi with dialytika)\nρ΄ (rho with dialytika)\nσ΄ (sigma with dialytika)\nτ΄ (tau with dialytika)\nυ΄ (upsilon with dialytika)\nφ΄ (phi with dialytika)\nχ΄ (chi with dialytika)\nψ΄ (psi with dialytika)\nω΄ (omega with dialytika)\nGreek alphabet with accents:\nα΄ (alpha with tonos)\nα΄ (alpha with varia)\nβ΄ (beta with varia)\nγ΄ (gamma with varia)\nδ΄ (delta with varia)\nε΄ (epsilon with varia)\nζ΄ (zeta with varia)\nη΄ (eta with varia)\nι΄ (iota with varia)\nκ΄ (kappa with varia)\nλ΄ (lambda with varia)\nμ΄ (mu with varia)\nν΄ (nu with varia)\nξ΄ (xi with varia)\nο΄ (omicron with varia)\nπ΄ (pi with varia)\nρ΄ (rho with varia)\nσ΄ (sigma with varia)\nτ΄ (tau with varia)\nυ΄ (upsilon with varia)\nφ΄ (phi with varia)\nχ΄ (chi with varia)\nψ΄ (psi with varia)\nω΄ (omega with varia)\nGreek alphabet with diacritics and accents:\nα΄΄ (alpha with tonos and varia)\nα΄΄ (alpha with dialytika and varia)\nβ΄΄ (beta with dialytika and varia)\nγ΄΄ (gamma with dialytika and varia)\nδ΄΄ (delta with dialytika and varia)\nε΄΄ (epsilon with dialytika and varia)\nζ΄΄ (zeta with dialytika and varia)\nη΄΄ (eta with dialytika and varia)\nι΄΄ (iota with dialytika and varia)\nκ΄΄ (kappa with dialytika and varia)\nλ΄΄ (lambda with dialytika and varia)\nμ΄΄ (mu with dialytika and varia)\nν΄΄ (nu with dialytika and varia)\nξ΄΄ (xi with dialytika and varia)\nο΄΄ (omicron with dialytika and varia)\nπ΄΄ (pi with dialytika and varia)\nρ΄΄ (rho with dialytika and varia)\nσ΄΄ (sigma with dialytika and varia)\nτ΄΄ (tau with dialytika and varia)\nυ΄΄ (upsilon with dialytika and varia)\nφ΄΄ (phi with dialytika and varia)\nχ΄΄ (chi with dialytika and varia)\nψ΄΄ (psi with dialytika and varia)\nω΄΄ (omega with dialytika and varia)\nGreek alphabet with diacritics and accents and tonos:\nα΄΄΄ (alpha with tonos, dialytika, and varia)\nα΄΄΄ (alpha with dialytika, varia, and tonos)\nβ΄΄΄ (beta with dialytika, varia, and tonos)\nγ΄΄΄ (gamma with dialytika, varia, and tonos)\nδ΄΄΄ (delta with dialytika, varia, and tonos)\nε΄΄΄ (epsilon with dialytika, varia, and tonos)\nζ΄΄΄ (zeta with dialytika, varia, and tonos)\nη΄΄΄ (eta with dialytika, varia, and tonos)\nι΄΄΄ (iota with dialytika, varia, and tonos)\nκ΄΄΄ (kappa with dialytika, varia, and tonos)\nλ΄΄΄ (lambda with dialytika, varia, and tonos)\nμ΄΄΄ (mu with dialytika, varia, and tonos)\nν΄΄΄ (nu with dialytika, varia, and tonos)\nξ΄΄΄ (xi with dialytika, varia, and tonos)\nο΄΄΄ (omicron with dialytika, varia, and tonos)\nπ΄΄΄ (pi with dialytika, varia, and tonos)\nρ΄΄΄ (rho with dialytika, varia, and tonos)\nσ΄΄΄ (sigma with dialytika, varia, and tonos)\nτ΄΄΄ (tau with dialytika, varia, and tonos)\nυ΄΄΄ (upsilon with dialytika, varia, and tonos)\nφ΄΄΄ (phi with dialytika, varia, and tonos)\nχ΄΄΄ (chi with dialytika, varia, and tonos)\nψ΄΄΄ (psi with dialytika, varia, and tonos)\nω΄΄΄ (omega with dialytika, varia, and tonos)\nGreek alphabet with diacritics and accents and varia:\nα΄΄΄ (alpha with varia, dialytika, and tonos)\nα΄΄΄ (alpha with dialytika, varia, and tonos)\nβ΄΄΄ (beta with dialytika, varia, and tonos)\nγ΄΄΄ (gamma with dialytika, varia, and tonos)\nδ΄΄΄ (delta with dialytika, varia, and tonos)\nε΄΄΄ (epsilon with dialytika, varia, and tonos)\nζ΄΄΄ (zeta with dialytika, varia, and tonos)\nη΄΄΄ (eta with dialytika, varia, and tonos)\nι΄΄΄ (iota with dialytika, varia, and tonos)\nκ΄΄΄ (kappa with dialytika, varia, and tonos)\nλ΄΄΄ (lambda with dialytika, varia, and tonos)\nμ΄΄΄ (mu with dialytika, varia, and tonos)\nν΄΄΄ (nu with dialytika, varia, and tonos)\nξ΄΄΄ (xi with dialytika, varia, and tonos)\nο΄΄΄ (omicron with dialytika, varia, and tonos)\nπ΄΄΄ (pi with dialytika, varia, and tonos)\nρ΄΄΄ (rho with dialytika, varia, and tonos)\nσ΄΄΄ (sigma with dialytika, varia, and tonos)\nτ΄΄΄ (tau with dialytika, varia, and tonos)\nυ΄΄΄ (upsilon with dialytika, varia, and tonos)\nφ΄΄΄ (phi with dialytika, varia, and tonos)\nχ΄΄΄ (chi with dialytika, varia, and tonos)\nψ΄΄΄ (psi with dialytika, varia, and tonos)\nω΄΄΄ (omega with dialytika, varia, and tonos)\nGreek alphabet with diacritics and accents and varia and tonos:\nα΄΄΄΄ (alpha with tonos, dialytika, varia, and tonos)\nα΄΄΄΄ (alpha with dialytika, varia, tonos, and tonos)\nβ΄΄΄΄ (beta with dialytika, varia, tonos, and tonos)\nγ΄΄΄΄ (gamma with dialytika, varia, tonos, and tonos)\nδ΄΄΄΄ (delta with dialytika, varia, tonos, and tonos)\nε΄΄΄΄ (epsilon with dialytika, varia, tonos, and tonos)\nζ΄΄΄΄ (zeta with dialytika, varia, tonos, and tonos)\nη΄΄΄΄ (eta with dialytika, varia, tonos, and tonos)\nι΄΄΄΄ (iota with dialytika, varia, tonos, and tonos)\nκ΄΄΄΄ (kappa with dialytika, varia, tonos, and tonos)\nλ΄΄΄΄ (lambda with dialytika, varia, tonos, and tonos)\nμ΄",
+        "gold_label": "κσψτψερήγδξ δπφ σκανςά γκβ"
+    }
+]

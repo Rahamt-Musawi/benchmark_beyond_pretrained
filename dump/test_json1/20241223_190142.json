@@ -1,0 +1,152 @@
+[
+    {
+        "plain_text": "KZgjKLcb Buer Gmucnu!",
+        "shift": 12,
+        "cipher_text": "then printed to the console.",
+        "gold_label": "WLsvWXon Ngqd Sygozg!"
+    },
+    {
+        "plain_text": "NIxXlqHR Y XNgVsQK sQqnT?",
+        "shift": 12,
+        "cipher_text": "VJyYoiJU Z YOJWXR M TQwU?",
+        "gold_label": "ZUjJxcTD K JZsHeCW eCczF?"
+    },
+    {
+        "plain_text": "H Vxil kyP FgwVwt.",
+        "shift": 12,
+        "cipher_text": "case-sensitive, so the original capital letters remain capital in the encoded text.",
+        "gold_label": "T Hjux wkB RsiHif."
+    },
+    {
+        "plain_text": "Txpeyk j w orCUE IiSfcFv?",
+        "shift": 12,
+        "cipher_text": "the Caesar cipher with a shift of 12.",
+        "gold_label": "Fjbqkw v i adOGQ UuEroRh?"
+    },
+    {
+        "plain_text": "iFAveJIa Yqfcbg iPpMBr DrelHW qhodPO!",
+        "shift": 12,
+        "cipher_text": "The decoded text is: \"hello how are you doing today!\"",
+        "gold_label": "uRMhqVUm Kcrons uBbYNd PdqxTI ctapBA!"
+    },
+    {
+        "plain_text": "C JLVcS lMXq!",
+        "shift": 12,
+        "cipher_text": "NOROXOOSK!",
+        "gold_label": "O VXHoE xYJc!"
+    },
+    {
+        "plain_text": "dXaotepf N kycFK Z!",
+        "shift": 12,
+        "cipher_text": "gYbpuvhi O lzdGL [email protected]!b",
+        "gold_label": "pJmafqbr Z wkoRW L!"
+    },
+    {
+        "plain_text": "VtAXA qF Nqnc UYxJqBNU IkRL Nt lVtyVB.",
+        "shift": 12,
+        "cipher_text": "To encode the text using a Caesar cipher with a shift of 12, we can replace each letter with the letter 12 positions down the alphabet. Here's the encoded text:",
+        "gold_label": "HfMJM cR Zczo GKjVcNZG UwDX Zf xHfkHN."
+    },
+    {
+        "plain_text": "Lsn Sjo bI I dCoUGnHM psjbFDeS!",
+        "shift": 12,
+        "cipher_text": "NvrrVlqdffLqWkrLrOvrDliHV!",
+        "gold_label": "Xez Eva nU U pOaGSzTY bevnRPqE!"
+    },
+    {
+        "plain_text": "Gh gch KVq jatKQKTl?",
+        "shift": 12,
+        "cipher_text": "Oll olO XSdvnO?",
+        "gold_label": "St sot WHc vmfWCWFx?"
+    },
+    {
+        "plain_text": "oUQ xjUBpWm Amsw Yrgjbg C Fg?",
+        "shift": 12,
+        "cipher_text": "Encode the following text to a Caesar cipher. The shift is 12.\nplain text: oUQ xjUBpWm Amsw Yrgjbg C Fg?G\nI will provide the encoded text and you will decode it back to the original text.\nEncoded text: \nPlease provide the decoded text. \nNote: The Caesar cipher is a type of substitution cipher where each letter in the plaintext is'shifted' a certain number of places down the alphabet. In this case, the shift is 12. \nPlease provide the decoded text. \nI will provide the encoded text and you will decode it back to the original text. \nEncoded text: \nPlease provide the decoded text. \nNote: The Caesar cipher is a type of substitution cipher where each letter in the plaintext is'shifted' a certain number of places down the alphabet. In this case, the shift is 12. \nPlease provide the decoded text. \nI will provide the encoded text and you will decode it back to the original text. \nEncoded text: \nPlease provide the decoded text. \nNote: The Caesar cipher is a type of substitution cipher where each letter in the plaintext is'shifted' a certain number of places down the alphabet. In this case, the shift is 12. \nPlease provide the decoded text. \nI will provide the encoded text and you will decode it back to the original text. \nEncoded text: \nPlease provide the decoded text. \nNote: The Caesar cipher is a type of substitution cipher where each letter in the plaintext is'shifted' a certain number of places down the alphabet. In this case, the shift is 12. \nPlease provide the decoded text. \nI will provide the encoded text and you will decode it back to the original text. \nEncoded text: \nPlease provide the decoded text. \nNote: The Caesar cipher is a type of substitution cipher where each letter in the plaintext is'shifted' a certain number of places down the alphabet. In this case, the shift is 12. \nPlease provide the decoded text. \nI will provide the encoded text and you will decode it back to the original text. \nEncoded text: \nPlease provide the decoded text. \nNote: The Caesar cipher is a type of substitution cipher where each letter in the plaintext is'shifted' a certain number of places down the alphabet. In this case, the shift is 12. \nPlease provide the decoded text. \nI will provide the encoded text and you will decode it back to the original text. \nEncoded text: \nPlease provide the decoded text. \nNote: The Caesar cipher is a type of substitution cipher where each letter in the plaintext is'shifted' a certain number of places down the alphabet. In this case, the shift is 12. \nPlease provide the decoded text. \nI will provide the encoded text and you will decode it back to the original text. \nEncoded text: \nPlease provide the decoded text. \nNote: The Caesar cipher is a type of substitution cipher where each letter in the plaintext is'shifted' a certain number of places down the alphabet. In this case, the shift is 12. \nPlease provide the decoded text. \nI will provide the encoded text and you will decode it back to the original text. \nEncoded text: \nPlease provide the decoded text. \nNote: The Caesar cipher is a type of substitution cipher where each letter in the plaintext is'shifted' a certain number of places down the alphabet. In this case, the shift is 12. \nPlease provide the decoded text. \nI will provide the encoded text and you will decode it back to the original text. \nEncoded text: \nPlease provide the decoded text. \nNote: The Caesar cipher is a type of substitution cipher where each letter in the plaintext is'shifted' a certain number of places down the alphabet. In this case, the shift is 12. \nPlease provide the decoded text. \nI will provide the encoded text and you will decode it back to the original text. \nEncoded text: \nPlease provide the decoded text. \nNote: The Caesar cipher is a type of substitution cipher where each letter in the plaintext is'shifted' a certain number of places down the alphabet. In this case, the shift is 12. \nPlease provide the decoded text. \nI will provide the encoded text and you will decode it back to the original text. \nEncoded text: \nPlease provide the decoded text. \nNote: The Caesar cipher is a type of substitution cipher where each letter in the plaintext is'shifted' a certain number of places down the alphabet. In this case, the shift is 12. \nPlease provide the decoded text. \nI will provide the encoded text and you will decode it back to the original text. \nEncoded text: \nPlease provide the decoded text. \nNote: The Caesar cipher is a type of substitution cipher where each letter in the plaintext is'shifted' a certain number of places down the alphabet. In this case, the shift is 12. \nPlease provide the decoded text. \nI will provide the encoded text and you will decode it back to the original text. \nEncoded text: \nPlease provide the decoded text. \nNote: The Caesar cipher is a type of substitution cipher where each letter in the plaintext is'shifted' a certain number of places down the alphabet. In this case, the shift is 12. \nPlease provide the decoded text. \nI will provide the encoded text and you will decode it back to the original text. \nEncoded text: \nPlease provide the decoded text. \nNote: The Caesar cipher is a type of substitution cipher where each letter in the plaintext is'shifted' a certain number of places down the alphabet. In this case, the shift is 12. \nPlease provide the decoded text. \nI will provide the encoded text and you will decode it back to the original text. \nEncoded text: \nPlease provide the decoded text. \nNote: The Caesar cipher is a type of substitution cipher where each letter in the plaintext is'shifted' a certain number of places down the alphabet. In this case, the shift is 12. \nPlease provide the decoded text. \nI will provide the encoded text and you will decode it back to the original text. \nEncoded text: \nPlease provide the decoded text. \nNote: The Caesar cipher is a type of substitution cipher where each letter in the plaintext is'shifted' a certain number of places down the alphabet. In this case, the shift is 12. \nPlease provide the decoded text. \nI will provide the encoded text and you will decode it back to the original text. \nEncoded text: \nPlease provide the decoded text. \nNote: The Caesar cipher is a type of substitution cipher where each letter in the plaintext is'shifted' a certain number of places down the alphabet. In this case, the shift is 12. \nPlease provide the decoded text. \nI will provide the encoded text and you will decode it back to the original text. \nEncoded text: \nPlease provide the decoded text. \nNote: The Caesar cipher is a type of substitution cipher where each letter in the plaintext is'shifted' a certain number of places down the alphabet. In this case, the shift is 12. \nPlease provide the decoded text. \nI will provide the encoded text and you will decode it back to the original text. \nEncoded text: \nPlease provide the decoded text. \nNote: The Caesar cipher is a type of substitution cipher where each letter in the plaintext is'shifted' a certain number of places down the alphabet. In this case, the shift is 12. \nPlease provide the decoded text. \nI will provide the encoded text and you will decode it back to the original text. \nEncoded text: \nPlease provide the decoded text. \nNote: The Caesar cipher is a type of substitution cipher where each letter in the plaintext is'shifted' a certain number of places down the alphabet. In this case, the shift is 12. \nPlease provide the decoded text. \nI will provide the encoded text and you will decode it back to the original text. \nEncoded text: \nPlease provide the decoded text. \nNote: The Caesar cipher is a type of substitution cipher where each letter in the plaintext is'shifted' a certain number of places down the alphabet. In this case, the shift is 12. \nPlease provide the decoded text. \nI will provide the encoded text and you will decode it back to the original text. \nEncoded text: \nPlease provide the decoded text. \nNote: The Caesar cipher is a type of substitution cipher where each letter in the plaintext is'shifted' a certain number of places down the alphabet. In this case, the shift is 12. \nPlease provide the decoded text. \nI will provide the encoded text and you will decode it back to the original text. \nEncoded text: \nPlease provide the decoded text. \nNote: The Caesar cipher is a type of substitution cipher where each letter in the plaintext is'shifted' a certain number of places down the alphabet. In this case, the shift is 12. \nPlease provide the decoded text. \nI will provide the encoded text and you will decode it back to the original text. \nEncoded text: \nPlease provide the decoded text. \nNote: The Caesar cipher is a type of substitution cipher where each letter in the plaintext is'shifted' a certain number of places down the alphabet. In this case, the shift is 12. \nPlease provide the decoded text. \nI will provide the encoded text and you will decode it back to the original text. \nEncoded text: \nPlease provide the decoded text. \nNote: The Caesar cipher is a type of substitution cipher where each letter in the plaintext is'shifted' a certain number of places down the alphabet. In this case, the shift is 12. \nPlease provide",
+        "gold_label": "aGC jvGNbIy Myei Kdsvns O Rs?"
+    },
+    {
+        "plain_text": "Edg uXPjqiQj MzZnc Ay?",
+        "shift": 12,
+        "cipher_text": "cveg wyojrhqj ozdodn bx?d",
+        "gold_label": "Qps gJBvcuCv YlLzo Mk?"
+    },
+    {
+        "plain_text": "JjQbg ZpJKwl Y TF PlbBh HkF xp?",
+        "shift": 12,
+        "cipher_text": "a string of 26 characters, as hinted. The Caesar cipher with a shift of 12 has successfully encoded the original text.",
+        "gold_label": "VvCns LbVWix K FR BxnNt TwR jb?"
+    },
+    {
+        "plain_text": "QI NcVI vPPG Esb OcEdD uxJ lj!",
+        "shift": 12,
+        "cipher_text": "MHMaTuNNeDraraiNcDtvHi!",
+        "gold_label": "CU ZoHU hBBS Qen AoQpP gjV xv!"
+    },
+    {
+        "plain_text": "Z uG KXSsjDP cslqA QBYp SDW!",
+        "shift": 12,
+        "cipher_text": "? wK LQWuqFQ cswR QFZq SWX!",
+        "gold_label": "L gS WJEevPB oexcM CNKb EPI!"
+    },
+    {
+        "plain_text": "udyFntCZ mNumzvkO sYla WxGoRM!",
+        "shift": 12,
+        "cipher_text": "Encode the following text to a Caesar cipher. The shift is 12.\nplain text: udyFntCZ mNumzvkO sYla WxGoRM! \nWhat is the encoded text? \nPlease provide the encoded text and explain how you arrived at it. \nI will be happy to help you with any questions or doubts you may have. \nThank you for your time. \nBest regards, \n[Your Name] \nPlease provide the encoded text and explain how you arrived at it. \nI will be happy to help you with any questions or doubts you may have. \nThank you for your time. \nBest regards, \n[Your Name] \nPlease provide the encoded text and explain how you arrived at it. \nI will be happy to help you with any questions or doubts you may have. \nThank you for your time. \nBest regards, \n[Your Name] \nPlease provide the encoded text and explain how you arrived at it. \nI will be happy to help you with any questions or doubts you may have. \nThank you for your time. \nBest regards, \n[Your Name] \nPlease provide the encoded text and explain how you arrived at it. \nI will be happy to help you with any questions or doubts you may have. \nThank you for your time. \nBest regards, \n[Your Name] \nPlease provide the encoded text and explain how you arrived at it. \nI will be happy to help you with any questions or doubts you may have. \nThank you for your time. \nBest regards, \n[Your Name] \nPlease provide the encoded text and explain how you arrived at it. \nI will be happy to help you with any questions or doubts you may have. \nThank you for your time. \nBest regards, \n[Your Name] \nPlease provide the encoded text and explain how you arrived at it. \nI will be happy to help you with any questions or doubts you may have. \nThank you for your time. \nBest regards, \n[Your Name] \nPlease provide the encoded text and explain how you arrived at it. \nI will be happy to help you with any questions or doubts you may have. \nThank you for your time. \nBest regards, \n[Your Name] \nPlease provide the encoded text and explain how you arrived at it. \nI will be happy to help you with any questions or doubts you may have. \nThank you for your time. \nBest regards, \n[Your Name] \nPlease provide the encoded text and explain how you arrived at it. \nI will be happy to help you with any questions or doubts you may have. \nThank you for your time. \nBest regards, \n[Your Name] \nPlease provide the encoded text and explain how you arrived at it. \nI will be happy to help you with any questions or doubts you may have. \nThank you for your time. \nBest regards, \n[Your Name] \nPlease provide the encoded text and explain how you arrived at it. \nI will be happy to help you with any questions or doubts you may have. \nThank you for your time. \nBest regards, \n[Your Name] \nPlease provide the encoded text and explain how you arrived at it. \nI will be happy to help you with any questions or doubts you may have. \nThank you for your time. \nBest regards, \n[Your Name] \nPlease provide the encoded text and explain how you arrived at it. \nI will be happy to help you with any questions or doubts you may have. \nThank you for your time. \nBest regards, \n[Your Name] \nPlease provide the encoded text and explain how you arrived at it. \nI will be happy to help you with any questions or doubts you may have. \nThank you for your time. \nBest regards, \n[Your Name] \nPlease provide the encoded text and explain how you arrived at it. \nI will be happy to help you with any questions or doubts you may have. \nThank you for your time. \nBest regards, \n[Your Name] \nPlease provide the encoded text and explain how you arrived at it. \nI will be happy to help you with any questions or doubts you may have. \nThank you for your time. \nBest regards, \n[Your Name] \nPlease provide the encoded text and explain how you arrived at it. \nI will be happy to help you with any questions or doubts you may have. \nThank you for your time. \nBest regards, \n[Your Name] \nPlease provide the encoded text and explain how you arrived at it. \nI will be happy to help you with any questions or doubts you may have. \nThank you for your time. \nBest regards, \n[Your Name] \nPlease provide the encoded text and explain how you arrived at it. \nI will be happy to help you with any questions or doubts you may have. \nThank you for your time. \nBest regards, \n[Your Name] \nPlease provide the encoded text and explain how you arrived at it. \nI will be happy to help you with any questions or doubts you may have. \nThank you for your time. \nBest regards, \n[Your Name] \nPlease provide the encoded text and explain how you arrived at it. \nI will be happy to help you with any questions or doubts you may have. \nThank you for your time. \nBest regards, \n[Your Name] \nPlease provide the encoded text and explain how you arrived at it. \nI will be happy to help you with any questions or doubts you may have. \nThank you for your time. \nBest regards, \n[Your Name] \nPlease provide the encoded text and explain how you arrived at it. \nI will be happy to help you with any questions or doubts you may have. \nThank you for your time. \nBest regards, \n[Your Name] \nPlease provide the encoded text and explain how you arrived at it. \nI will be happy to help you with any questions or doubts you may have. \nThank you for your time. \nBest regards, \n[Your Name] \nPlease provide the encoded text and explain how you arrived at it. \nI will be happy to help you with any questions or doubts you may have. \nThank you for your time. \nBest regards, \n[Your Name] \nPlease provide the encoded text and explain how you arrived at it. \nI will be happy to help you with any questions or doubts you may have. \nThank you for your time. \nBest regards, \n[Your Name] \nPlease provide the encoded text and explain how you arrived at it. \nI will be happy to help you with any questions or doubts you may have. \nThank you for your time. \nBest regards, \n[Your Name] \nPlease provide the encoded text and explain how you arrived at it. \nI will be happy to help you with any questions or doubts you may have. \nThank you for your time. \nBest regards, \n[Your Name] \nPlease provide the encoded text and explain how you arrived at it. \nI will be happy to help you with any questions or doubts you may have. \nThank you for your time. \nBest regards, \n[Your Name] \nPlease provide the encoded text and explain how you arrived at it. \nI will be happy to help you with any questions or doubts you may have. \nThank you for your time. \nBest regards, \n[Your Name] \nPlease provide the encoded text and explain how you arrived at it. \nI will be happy to help you with any questions or doubts you may have. \nThank you for your time. \nBest regards, \n[Your Name] \nPlease provide the encoded text and explain how you arrived at it. \nI will be happy to help you with any questions or doubts you may have. \nThank you for your time. \nBest regards, \n[Your Name] \nPlease provide the encoded text and explain how you arrived at it. \nI will be happy to help you with any questions or doubts you may have. \nThank you for your time. \nBest regards, \n[Your Name] \nPlease provide the encoded text and explain how you arrived at it. \nI will be happy to help you with any questions or doubts you may have. \nThank you for your time. \nBest regards, \n[Your Name] \nPlease provide the encoded text and explain how you arrived at it. \nI will be happy to help you with any questions or doubts you may have. \nThank you for your time. \nBest regards, \n[Your Name] \nPlease provide the encoded text and explain how you arrived at it. \nI will be happy to help you with any questions or doubts you may have. \nThank you for your time. \nBest regards, \n[Your Name] \nPlease provide the encoded text and explain how you arrived at it. \nI will be happy to help you with any questions or doubts you may have. \nThank you for your time. \nBest regards, \n[Your Name] \nPlease provide the encoded text and explain how you arrived at it. \nI will be happy to help you with any questions or doubts you may have. \nThank you for your time. \nBest regards, \n[Your Name] \nPlease provide the encoded text and explain how you arrived at it. \nI will be happy to help you with any questions or doubts you may have. \nThank you for your time. \nBest regards, \n[Your Name] \nPlease provide the encoded text and explain how you arrived at it. \nI will be happy to help you with any questions or doubts you may have. \nThank you for your time. \nBest regards, \n[Your Name] \nPlease provide the encoded text and explain how you arrived at it. \nI will be happy to help you with any questions or doubts you may have. \nThank you for your time. \nBest regards,",
+        "gold_label": "gpkRzfOL yZgylhwA eKxm IjSaDY!"
+    },
+    {
+        "plain_text": "Ci he ZbvYWehF.",
+        "shift": 12,
+        "cipher_text": "LskmYfaVZgkmG.",
+        "gold_label": "Ou tq LnhKIqtR."
+    },
+    {
+        "plain_text": "zErzqljE LI JpymEjyp.",
+        "shift": 12,
+        "cipher_text": "kHkHqiK CH OixKixqK",
+        "gold_label": "lQdlcxvQ XU VbkyQvkb."
+    },
+    {
+        "plain_text": "HLk oNEMqbo EXAfp.",
+        "shift": 12,
+        "cipher_text": "MNp rOHAhp.",
+        "gold_label": "TXw aZQYcna QJMrb."
+    },
+    {
+        "plain_text": "x g lXwR!",
+        "shift": 12,
+        "cipher_text": "the original text shifted by 12 positions in the alphabet.",
+        "gold_label": "j s xJiD!"
+    },
+    {
+        "plain_text": "Xqy dUqznS K!",
+        "shift": 12,
+        "cipher_text": "Loio lVoM!o",
+        "gold_label": "Jck pGclzE W!"
+    },
+    {
+        "plain_text": "oRjRraIA BW C Ztyw RkOT sOEWOT yergn?",
+        "shift": 12,
+        "cipher_text": "?LwLwLH DW E Zxvz TkPU tLXPU xfrd?",
+        "gold_label": "aDvDdmUM NI O Lfki DwAF eAQIAF kqdsz?"
+    },
+    {
+        "plain_text": "eYp Bagxh oA qsbqN.",
+        "shift": 12,
+        "cipher_text": "l a r L l k b l r L s v d s R",
+        "gold_label": "qKb Nmsjt aM cencZ."
+    },
+    {
+        "plain_text": "uOxnKfn KQVodsd IX!",
+        "shift": 12,
+        "cipher_text": "wRarOhrOrOXSrfvLfA!",
+        "gold_label": "gAjzWrz WCHapep UJ!"
+    },
+    {
+        "plain_text": "GGCHTqrv sATQG Wqyoyu JEBzaCg!",
+        "shift": 12,
+        "cipher_text": "NWLOVSWZwbssyLyDOai!",
+        "gold_label": "SSOTFcdh eMFCS Ickakg VQNlmOs!"
+    }
+]

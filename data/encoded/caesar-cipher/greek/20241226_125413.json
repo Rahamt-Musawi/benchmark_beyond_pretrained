@@ -1,0 +1,152 @@
+[
+    {
+        "plain_text": "οι καλές πράξεις φέρνουν χαρά",
+        "shift": 6,
+        "cipher_text": "πμ λεζγζ ζμμζζιζ ψιε",
+        "gold_label": "υο πηρέψ φχάτλοψ γέχσυβσ δηχά"
+    },
+    {
+        "plain_text": "αγκαλιάζει το άγνωστο",
+        "shift": 6,
+        "cipher_text": "φδμιγμιγμι το εδμνστο πιδι",
+        "gold_label": "ηιπηροάμλο αυ άισζωαυ"
+    },
+    {
+        "plain_text": "κυνηγάς τα όνειρά σου",
+        "shift": 6,
+        "cipher_text": "Encode the following text to a Caesar cipher. The shift is 6. Output the cipher text only.\nplain text: κυνηγάς τα όνειρά σου\nThe Caesar cipher is a type of substitution cipher where each letter in the plaintext is shifted a certain number of places down or up the alphabet. In this case, the shift is 6.\nTo encrypt the given plaintext, we need to convert the Greek characters to",
+        "gold_label": "πβσνιάψ αη όσλοχά ωυβ"
+    },
+    {
+        "plain_text": "περπατήστε στα παπούτσια κάποιου άλλου",
+        "shift": 6,
+        "cipher_text": "φτσιγστήστε στα παπούτσια κάποιου έλλου",
+        "gold_label": "φλχφηαήωαλ ωαη φηφυύαωοη πάφυουβ άρρυβ"
+    },
+    {
+        "plain_text": "βρίσκοντας την ειρήνη μέσα",
+        "shift": 6,
+        "cipher_text": "λγμμμμμμ πιμμμμμμ μμμμμμμ μμμμμμ μμμμμμ μμμμμμ μμμμμμ",
+        "gold_label": "θχίωπυσαηψ ανσ λοχήσν ςέωη"
+    },
+    {
+        "plain_text": "το γέλιο είναι το καλύτερο φάρμακο",
+        "shift": 6,
+        "cipher_text": "ψς ιϝοιϝ ειη το λιβτερο χαρακτηρ",
+        "gold_label": "αυ ιέρου λίσηο αυ πηρύαλχυ γάχςηπυ"
+    },
+    {
+        "plain_text": "φτάσει στα αστέρια",
+        "shift": 6,
+        "cipher_text": "Encode the following text to a Caesar cipher. The shift is 6. Output the cipher text only.\nplain text: φτάσει στα αστέρια\nThe Caesar cipher is a type of substitution cipher in which each letter in the plaintext is 'shifted' a certain number of places down the alphabet. In this case, the shift is 6.\nTo encrypt the given plaintext using a Caesar cipher with",
+        "gold_label": "γαάωλο ωαη ηωαέχοη"
+    },
+    {
+        "plain_text": "ομορφιά στην απλότητα",
+        "shift": 6,
+        "cipher_text": "πνησιότητα στην ιξωπλότητα",
+        "gold_label": "υςυχγοά ωανσ ηφρόαναη"
+    },
+    {
+        "plain_text": "ο χρόνος γιατρεύει όλες τις πληγές",
+        "shift": 6,
+        "cipher_text": "υ ψιμύθος ιατρεύει όλες τις μληγές",
+        "gold_label": "υ δχόσυψ ιοηαχλύλο όρλψ αοψ φρνιέψ"
+    },
+    {
+        "plain_text": "η υπομονή είναι αρετή",
+        "shift": 6,
+        "cipher_text": "λ φροντιστήριον εστί αγαθόν",
+        "gold_label": "ν βφυςυσή λίσηο ηχλαή"
+    },
+    {
+        "plain_text": "εκτιμήστε τις μικρές στιγμές",
+        "shift": 6,
+        "cipher_text": "λλνινννν πολλοί πολλοί",
+        "gold_label": "λπαοςήωαλ αοψ ςοπχέψ ωαοιςέψ"
+    },
+    {
+        "plain_text": "αναποδογυρίζοντας ένα νέο φύλλο",
+        "shift": 6,
+        "cipher_text": "φδβσειγκσεμεμεμεμεμεμεμεμεμεμεμεμεμεμεμεμεμεμεμεμεμεμεμεμ",
+        "gold_label": "ησηφυκυιβχίμυσαηψ έση σέυ γύρρυ"
+    },
+    {
+        "plain_text": "οι πράξεις μιλούν πιο δυνατά από τα λόγια",
+        "shift": 6,
+        "cipher_text": "φχ τσχχχχ χχθχθ θχχχχ χχχχχ θχχχχ θχχχχ θχχχχ θχχχχ θχχχχ",
+        "gold_label": "υο φχάτλοψ ςορυύσ φου κβσηαά ηφό αη ρόιοη"
+    },
+    {
+        "plain_text": "καλλιεργήστε τις σχέσεις σας",
+        "shift": 6,
+        "cipher_text": "φβσμμμνμ τισ σχνττττσ σασ",
+        "gold_label": "πηρρολχιήωαλ αοψ ωδέωλοψ ωηψ"
+    },
+    {
+        "plain_text": "κάθε σύννεφο έχει μια ασημένια επένδυση",
+        "shift": 6,
+        "cipher_text": "πόδη λάβα νίζα πιμένια περένδυση και μια ασημένια σινδεσμ",
+        "gold_label": "πάξλ ωύσσλγυ έδλο ςοη ηωνςέσοη λφέσκβων"
+    },
+    {
+        "plain_text": "η καλοσύνη δεν κοστίζει τίποτα",
+        "shift": 6,
+        "cipher_text": "λ μβμπτόνη ζετ πλνμμτότι πλνμμπ",
+        "gold_label": "ν πηρυωύσν κλσ πυωαίμλο αίφυαη"
+    },
+    {
+        "plain_text": "ένας φίλος που έχει ανάγκη είναι πράγματι φίλος",
+        "shift": 6,
+        "cipher_text": "λδβς ψεμτς σου λεβδβ ιναβδβ ιαναγκη ιαναγκη ειναγκη ιαναγ",
+        "gold_label": "έσηψ γίρυψ φυβ έδλο ησάιπν λίσηο φχάιςηαο γίρυψ"
+    },
+    {
+        "plain_text": "πιστεύουν στο μέλλον",
+        "shift": 6,
+        "cipher_text": "φωτιάζουν το πρόσεχον",
+        "gold_label": "φοωαλύυβσ ωαυ ςέρρυσ"
+    },
+    {
+        "plain_text": "μαθαίνοντας από τα λάθη",
+        "shift": 6,
+        "cipher_text": "πβδιοπνοντασ επζ τα ζμθη πμα",
+        "gold_label": "ςηξηίσυσαηψ ηφό αη ράξν"
+    },
+    {
+        "plain_text": "μια καρδιά γεμάτη ευγνωμοσύνη",
+        "shift": 6,
+        "cipher_text": "πνβ λζτζτζ ζμνζτζ θητζτζ ιανζτζ",
+        "gold_label": "ςοη πηχκοά ιλςάαν λβισζςυωύσν"
+    },
+    {
+        "plain_text": "η αγάπη τα νικά όλα",
+        "shift": 6,
+        "cipher_text": "λ ιδιχι τσ πιμεν πλη όκα",
+        "gold_label": "ν ηιάφν αη σοπά όρη"
+    },
+    {
+        "plain_text": "εκτιμήστε τα μικρά πράγματα",
+        "shift": 6,
+        "cipher_text": "λλνννννν τα μικρά πράγματα",
+        "gold_label": "λπαοςήωαλ αη ςοπχά φχάιςηαη"
+    },
+    {
+        "plain_text": "η αλλαγή είναι η μόνη σταθερά",
+        "shift": 6,
+        "cipher_text": "λ γδδδδ εκτη ιη η μπνψψ",
+        "gold_label": "ν ηρρηιή λίσηο ν ςόσν ωαηξλχά"
+    },
+    {
+        "plain_text": "η σκληρή δουλειά αποδίδει",
+        "shift": 6,
+        "cipher_text": "λ χοληρή ιζονειά εποδίδει εγαθά",
+        "gold_label": "ν ωπρνχή κυβρλοά ηφυκίκλο"
+    },
+    {
+        "plain_text": "ακολουθήστε την καρδιά σας",
+        "shift": 6,
+        "cipher_text": "φμρουθήστε την λβδιά σας",
+        "gold_label": "ηπυρυβξήωαλ ανσ πηχκοά ωηψ"
+    }
+]

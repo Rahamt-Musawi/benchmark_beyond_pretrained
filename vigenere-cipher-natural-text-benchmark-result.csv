@@ -1,0 +1,13 @@
+Filename,Model,Shift,Prompt Type,Temperature,Max Token,Levenshtein Error Rate (%),Character Error Rate (%),Weighted Word Accuracy (%),Sentence Accuracy (%),Average Word Accuracy (%)
+20250108_131741.json,,Benchmark,base_70B-Instruct,,,0.00,0.00,0.00,0.00,0.00
+20250109_125953.json,,Benchmark,base_8B-Instruct,,,0.00,0.00,0.00,0.00,0.00
+20250109_154153.json,,Benchmark,base_models--mistralai--Mistral-7B-Instruct-v0.3,,,0.00,0.00,0.00,0.00,0.00
+20250109_192717.json,,Benchmark,base_models--mistralai--Mixtral-8x7B-Instruct-v0.1,,,0.00,0.00,0.00,0.00,0.00
+20250108_135042.json,,Benchmark,cot-like_70B-Instruct,,,0.00,0.00,0.00,0.00,0.00
+20250109_130350.json,,Benchmark,cot-like_8B-Instruct,,,0.00,0.00,0.00,0.00,0.00
+20250109_154713.json,,Benchmark,cot-like_models--mistralai--Mistral-7B-Instruct-v0.3,,,0.00,0.00,0.00,0.00,0.00
+20250109_193822.json,,Benchmark,cot-like_models--mistralai--Mixtral-8x7B-Instruct-v0.1,,,0.00,0.00,0.00,0.00,0.00
+20250109_095743.json,,Benchmark,default_70B-Instruct,,,0.00,0.00,0.00,0.00,0.00
+20250109_133426.json,,Benchmark,default_8B-Instruct,,,0.00,0.00,0.00,0.00,0.00
+20250109_162657.json,,Benchmark,default_models--mistralai--Mistral-7B-Instruct-v0.3,,,0.00,0.00,0.00,0.00,0.00
+20250110_084444.json,,Benchmark,default_models--mistralai--Mixtral-8x7B-Instruct-v0.1,,,0.00,0.00,0.00,0.00,0.00

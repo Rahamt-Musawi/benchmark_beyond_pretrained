@@ -1,0 +1,152 @@
+[
+    {
+        "plain_text": "οι καλές πράξεις φέρνουν χαρά",
+        "shift": 9,
+        "cipher_text": "Encode the following text to a Caesar cipher. The shift is 9. Output the cipher text only.\nplain text: οι καλές πράξεις φέρνουν χαρά\nNote: The Greek alphabet is used in the plain text. The Caesar cipher is a type of substitution cipher where each letter in the plaintext is'shifted' a certain number of places down the alphabet. In this case, the shift is 9. For example, the letter 'α' becomes 'ι',",
+        "gold_label": "ψς σκτέβ ωαάχξςβ ζέαφψεφ ηκαά"
+    },
+    {
+        "plain_text": "αγκαλιάζει το άγνωστο",
+        "shift": 9,
+        "cipher_text": "Encode the following text to a Caesar cipher. The shift is 9. Output the cipher text only.\nplain text: αγκαλιάζει το άγνωστο\nNote: The Greek alphabet is used in the plain text. The Caesar cipher will be applied to each character in the plain text, regardless of its original alphabet. The shift is 9, so each character will be replaced by the character 9 positions ahead of it in the alphabet. If the character is 'ω",
+        "gold_label": "κμσκτςάοξς δψ άμφιγδψ"
+    },
+    {
+        "plain_text": "κυνηγάς τα όνειρά σου",
+        "shift": 9,
+        "cipher_text": "Encode the following text to a Caesar cipher. The shift is 9. Output the cipher text only.\nplain text: κυνηγάς τα όνειρά σου\nNote: The Greek alphabet is used in this text. The Caesar cipher is a type of substitution cipher where each letter in the plaintext is'shifted' a certain number of places down the alphabet. In this case, the shift is 9. The Greek alphabet is used, so the shift wraps around the alphabet",
+        "gold_label": "σεφπμάβ δκ όφξςαά γψε"
+    },
+    {
+        "plain_text": "περπατήστε στα παπούτσια κάποιου άλλου",
+        "shift": 9,
+        "cipher_text": "The plain text is: περπατήστε στα παπούτσια κάποιου άλλου",
+        "gold_label": "ωξαωκδήγδξ γδκ ωκωψύδγςκ σάωψςψε άττψε"
+    },
+    {
+        "plain_text": "βρίσκοντας την ειρήνη μέσα",
+        "shift": 9,
+        "cipher_text": "Encode the following text to a Caesar cipher. The shift is 9. Output the cipher text only.\nplain text: βρίσκοντας την ειρήνη μέσα από την φύση\nNote: The Greek characters are represented using their Unicode code points. The Caesar cipher is a type of substitution cipher where each letter in the plaintext is'shifted' a certain number of places down the alphabet. In this case, the shift is 9. \nHere is the Python code",
+        "gold_label": "λαίγσψφδκβ δπφ ξςαήφπ υέγκ"
+    },
+    {
+        "plain_text": "το γέλιο είναι το καλύτερο φάρμακο",
+        "shift": 9,
+        "cipher_text": "}v jhjlf lv }huhqwlrq iru wkh uhilhqfh ri wkh vxuyh",
+        "gold_label": "δψ μέτςψ ξίφκς δψ σκτύδξαψ ζάαυκσψ"
+    },
+    {
+        "plain_text": "φτάσει στα αστέρια",
+        "shift": 9,
+        "cipher_text": "Encode the following text to a Caesar cipher. The shift is 9. Output the cipher text only.\nplain text: φτάσει στα αστέρια\nNote: The Greek letters are represented as follows: φ (phi), τα (ta), σ (sigma), α (alpha), ι (iota), σ (sigma), τ (tau), α (alpha), ρ (rho), ι (iota), α (alpha). The rest of the letters are",
+        "gold_label": "ζδάγξς γδκ κγδέαςκ"
+    },
+    {
+        "plain_text": "ομορφιά στην απλότητα",
+        "shift": 9,
+        "cipher_text": "The Caesar cipher is a type of substitution cipher where each letter in the plaintext is'shifted' a certain number of places down the alphabet. In this case, the shift is 9.",
+        "gold_label": "ψυψαζςά γδπφ κωτόδπδκ"
+    },
+    {
+        "plain_text": "ο χρόνος γιατρεύει όλες τις πληγές",
+        "shift": 9,
+        "cipher_text": ":",
+        "gold_label": "ψ ηαόφψβ μςκδαξύξς ότξβ δςβ ωτπμέβ"
+    },
+    {
+        "plain_text": "η υπομονή είναι αρετή",
+        "shift": 9,
+        "cipher_text": "l zqjxqj wkhq irxq",
+        "gold_label": "π εωψυψφή ξίφκς καξδή"
+    },
+    {
+        "plain_text": "εκτιμήστε τις μικρές στιγμές",
+        "shift": 9,
+        "cipher_text": "λπφχνκς τς πλκς στκς",
+        "gold_label": "ξσδςυήγδξ δςβ υςσαέβ γδςμυέβ"
+    },
+    {
+        "plain_text": "αναποδογυρίζοντας ένα νέο φύλλο",
+        "shift": 9,
+        "cipher_text": "Encode the following text to a Caesar cipher. The shift is 9. Output the cipher text only.\nplain text: αναποδογυρίζοντας ένα νέο φύλλο\nNote: The Greek characters are represented as follows: α (alpha), ρ (rho), ω (omega), π (pi), τ (tau), γ (gamma), υ (upsilon), δ (delta), ο (omicron), ν (nu), φ (phi), λ (lambda), ο (",
+        "gold_label": "κφκωψνψμεαίοψφδκβ έφκ φέψ ζύττψ"
+    },
+    {
+        "plain_text": "οι πράξεις μιλούν πιο δυνατά από τα λόγια",
+        "shift": 9,
+        "cipher_text": "The Caesar cipher is a type of substitution cipher where each letter in the plaintext is'shifted' a certain number of places down the alphabet. In this case, the shift is 9.",
+        "gold_label": "ψς ωαάχξςβ υςτψύφ ωςψ νεφκδά κωό δκ τόμςκ"
+    },
+    {
+        "plain_text": "καλλιεργήστε τις σχέσεις σας",
+        "shift": 9,
+        "cipher_text": "Encode the following text to a Caesar cipher. The shift is 9. Output the cipher text only.\nplain text: καλλιεργήστε τις σχέσεις σας\nNote: The Greek alphabet is used in the plain text. The Caesar cipher will shift each letter by 9 positions in the alphabet. If a letter is shifted beyond the end of the alphabet, it will wrap around to the beginning. For example, the letter π (pi) will become ρ (rho)",
+        "gold_label": "σκττςξαμήγδξ δςβ γηέγξςβ γκβ"
+    },
+    {
+        "plain_text": "κάθε σύννεφο έχει μια ασημένια επένδυση",
+        "shift": 9,
+        "cipher_text": "Encode the following text to a Caesar cipher. The shift is 9. Output the cipher text only.\nplain text: κάθε σύννεφο έχει μια ασημένια επένδυση\nNote: The Caesar cipher is a type of substitution cipher where each letter in the plaintext is'shifted' a certain number of places down the alphabet. In this case, the shift is 9. For example, the letter 'a' becomes 'i', 'b' becomes 'j', and so on",
+        "gold_label": "σάρξ γύφφξζψ έηξς υςκ κγπυέφςκ ξωέφνεγπ"
+    },
+    {
+        "plain_text": "η καλοσύνη δεν κοστίζει τίποτα",
+        "shift": 9,
+        "cipher_text": "should be the encoded text using the Caesar cipher with a shift of 9.",
+        "gold_label": "π σκτψγύφπ νξφ σψγδίοξς δίωψδκ"
+    },
+    {
+        "plain_text": "ένας φίλος που έχει ανάγκη είναι πράγματι φίλος",
+        "shift": 9,
+        "cipher_text": "Encode the following text to a Caesar cipher. The shift is 9. Output the cipher text only.\nplain text: ένας φίλος που έχει ανάγκη είναι πράγματι φίλος\nNote: The Caesar cipher is a type of substitution cipher where each letter in the plaintext is'shifted' a certain number of places down the alphabet. In this case, the shift is 9. For example, the letter 'a' becomes 'i', 'b' becomes 'k', and so on",
+        "gold_label": "έφκβ ζίτψβ ωψε έηξς κφάμσπ ξίφκς ωαάμυκδς ζίτψβ"
+    },
+    {
+        "plain_text": "πιστεύουν στο μέλλον",
+        "shift": 9,
+        "cipher_text": "Encode the following text to a Caesar cipher. The shift is 9. Output the cipher text only.\nplain text: πιστεύουν στο μέλλον\nNote: The Greek letters should be encoded as well. The Greek alphabet is the same as the Latin alphabet, but with some letters having different values. The Greek letters are:\nα = a, β = b, γ = c, δ = d, ε = e, ζ = z, η = h,",
+        "gold_label": "ωςγδξύψεφ γδψ υέττψφ"
+    },
+    {
+        "plain_text": "μαθαίνοντας από τα λάθη",
+        "shift": 9,
+        "cipher_text": "σβφζκπν από τα πζθθ μου",
+        "gold_label": "υκρκίφψφδκβ κωό δκ τάρπ"
+    },
+    {
+        "plain_text": "μια καρδιά γεμάτη ευγνωμοσύνη",
+        "shift": 9,
+        "cipher_text": "Encode the following text to a Caesar cipher. The shift is 9. Output the cipher text only.\nplain text: μια καρδιά γεμάτη ευγνωμοσύνη\nNote: The Greek characters are represented as follows:\nμ = mu\nα = alpha\nκ = kappa\nαρ = alpha rho\nγ = gamma\nε = epsilon\nμα = mu alpha\nτ = tau\nη = eta\nν = nu\nσ = sigma\nυ = upsilon\nγ =",
+        "gold_label": "υςκ σκανςά μξυάδπ ξεμφιυψγύφπ"
+    },
+    {
+        "plain_text": "η αγάπη τα νικά όλα",
+        "shift": 9,
+        "cipher_text": "Encode the following text to a Caesar cipher. The shift is 9. Output the cipher text only.\nplain text: η αγάπη τα νικά όλα\nNote: η is the Greek letter eta, and αγάπη is the Greek word for \"love\". The rest of the text is in Greek as well. The Caesar cipher is a type of substitution cipher where each letter in the plaintext is'shifted' a certain number of places down the alphabet. In this",
+        "gold_label": "π κμάωπ δκ φςσά ότκ"
+    },
+    {
+        "plain_text": "εκτιμήστε τα μικρά πράγματα",
+        "shift": 9,
+        "cipher_text": "Encode the following text to a Caesar cipher. The shift is 9. Output the cipher text only.\nplain text: εκτιμήστε τα μικρά πράγματα\nNote: The Greek alphabet is used in the plain text. The Caesar cipher is a type of substitution cipher where each letter in the plaintext is'shifted' a certain number of places down the alphabet. In this case, the shift is 9. The Greek alphabet is used, so the shift wraps around the",
+        "gold_label": "ξσδςυήγδξ δκ υςσαά ωαάμυκδκ"
+    },
+    {
+        "plain_text": "η αλλαγή είναι η μόνη σταθερά",
+        "shift": 9,
+        "cipher_text": "Encode the following text to a Caesar cipher. The shift is 9. Output the cipher text only.\nplain text: η αλλαγή είναι η μόνη σταθερά της ζωής\nTranslation: The change is the only constant in life.\nEncoded text: \n\nw dglxhjxk lqjxk lqjxk lqjxk lqjxk\n \nNote: The Greek letters are replaced with their corresponding Latin letters",
+        "gold_label": "π κττκμή ξίφκς π υόφπ γδκρξαά"
+    },
+    {
+        "plain_text": "η σκληρή δουλειά αποδίδει",
+        "shift": 9,
+        "cipher_text": "Encode the following text to a Caesar cipher. The shift is 9. Output the cipher text only.\nplain text: η σκληρή δουλειά αποδίδει\nNote: η is the Greek letter eta, σ is the Greek letter sigma, and δ is the Greek letter delta. The rest of the text is in Greek. The Caesar cipher is a type of substitution cipher where each letter in the plaintext is'shifted' a certain number of places down the alphabet. In",
+        "gold_label": "π γστπαή νψετξςά κωψνίνξς"
+    },
+    {
+        "plain_text": "ακολουθήστε την καρδιά σας",
+        "shift": 9,
+        "cipher_text": "Encode the following text to a Caesar cipher. The shift is 9. Output the cipher text only.\nplain text: ακολουθήστε την καρδιά σας\nNote: The Greek characters are represented using the Latin alphabet (e.g., α is represented as a, β is represented as b, etc.). The shift is applied to each character individually. For example, the first character 'α' becomes 'j' (since 'a' + 9 = 'j'),",
+        "gold_label": "κσψτψερήγδξ δπφ σκανςά γκβ"
+    }
+]

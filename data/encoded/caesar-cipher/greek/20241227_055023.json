@@ -1,0 +1,152 @@
+[
+    {
+        "plain_text": "οι καλές πράξεις φέρνουν χαρά",
+        "shift": 9,
+        "cipher_text": "πμ λββλ ζκψεζ ψειψ",
+        "gold_label": "ψς σκτέβ ωαάχξςβ ζέαφψεφ ηκαά"
+    },
+    {
+        "plain_text": "αγκαλιάζει το άγνωστο",
+        "shift": 9,
+        "cipher_text": "λβδδδδδ ζι νβδδδδ πιδι",
+        "gold_label": "κμσκτςάοξς δψ άμφιγδψ"
+    },
+    {
+        "plain_text": "κυνηγάς τα όνειρά σου",
+        "shift": 9,
+        "cipher_text": "ποχινιγκι τα ιανταρα σιυ",
+        "gold_label": "σεφπμάβ δκ όφξςαά γψε"
+    },
+    {
+        "plain_text": "περπατήστε στα παπούτσια κάποιου άλλου",
+        "shift": 9,
+        "cipher_text": "λλανναντέστε στα λλανναντσια κάποιου άλλου",
+        "gold_label": "ωξαωκδήγδξ γδκ ωκωψύδγςκ σάωψςψε άττψε"
+    },
+    {
+        "plain_text": "βρίσκοντας την ειρήνη μέσα",
+        "shift": 9,
+        "cipher_text": "λσνννννν πηνννννν",
+        "gold_label": "λαίγσψφδκβ δπφ ξςαήφπ υέγκ"
+    },
+    {
+        "plain_text": "το γέλιο είναι το καλύτερο φάρμακο",
+        "shift": 9,
+        "cipher_text": "κσ ιϝιϝιϝ ιϝιϝ ιϝιϝ ιϝιϝ ιϝιϝ ιϝιϝ ιϝιϝ ι�",
+        "gold_label": "δψ μέτςψ ξίφκς δψ σκτύδξαψ ζάαυκσψ"
+    },
+    {
+        "plain_text": "φτάσει στα αστέρια",
+        "shift": 9,
+        "cipher_text": "ιχνάθη κατά τα ιερά",
+        "gold_label": "ζδάγξς γδκ κγδέαςκ"
+    },
+    {
+        "plain_text": "ομορφιά στην απλότητα",
+        "shift": 9,
+        "cipher_text": "πλωτιά στην ιζχότητα",
+        "gold_label": "ψυψαζςά γδπφ κωτόδπδκ"
+    },
+    {
+        "plain_text": "ο χρόνος γιατρεύει όλες τις πληγές",
+        "shift": 9,
+        "cipher_text": "π λ ζ τ ν σ ι η κ τ ι α ι ν τ α ι ν ι κ α ι ν ι κ α ι ν ι",
+        "gold_label": "ψ ηαόφψβ μςκδαξύξς ότξβ δςβ ωτπμέβ"
+    },
+    {
+        "plain_text": "η υπομονή είναι αρετή",
+        "shift": 9,
+        "cipher_text": "Encode the following text to a Caesar cipher. The shift is 9. Output the cipher text only.\nplain text: η υπομονή είναι αρετή\nThe Caesar cipher is a type of substitution cipher in which each letter in the plaintext is 'shifted' a certain number of places down the alphabet. In this case, the shift is 9.\nTo encrypt the given plaintext using a Caesar cipher with",
+        "gold_label": "π εωψυψφή ξίφκς καξδή"
+    },
+    {
+        "plain_text": "εκτιμήστε τις μικρές στιγμές",
+        "shift": 9,
+        "cipher_text": "ιλμμνηστε πλμμμ στλμμμμμ τησ ζνμμμμμμ μαν",
+        "gold_label": "ξσδςυήγδξ δςβ υςσαέβ γδςμυέβ"
+    },
+    {
+        "plain_text": "αναποδογυρίζοντας ένα νέο φύλλο",
+        "shift": 9,
+        "cipher_text": "ιχιγκιγκιγκιγκιγκιγκιγκιγκιγκιγκιγκιγκιγκιγκιγκιγκιγκιγκι",
+        "gold_label": "κφκωψνψμεαίοψφδκβ έφκ φέψ ζύττψ"
+    },
+    {
+        "plain_text": "οι πράξεις μιλούν πιο δυνατά από τα λόγια",
+        "shift": 9,
+        "cipher_text": "πμ τσντσντσν ντλντντ μπιο ζχχχχχ από τζ λχχχχχ",
+        "gold_label": "ψς ωαάχξςβ υςτψύφ ωςψ νεφκδά κωό δκ τόμςκ"
+    },
+    {
+        "plain_text": "καλλιεργήστε τις σχέσεις σας",
+        "shift": 9,
+        "cipher_text": "λβολιεργήστε τιχ σχολεισ σαχ",
+        "gold_label": "σκττςξαμήγδξ δςβ γηέγξςβ γκβ"
+    },
+    {
+        "plain_text": "κάθε σύννεφο έχει μια ασημένια επένδυση",
+        "shift": 9,
+        "cipher_text": "λβδι τζλθιγ ζιιε μνβια πμγια ιανιγκ ιαζιγκ ιαζιγκ ιαζιγκ",
+        "gold_label": "σάρξ γύφφξζψ έηξς υςκ κγπυέφςκ ξωέφνεγπ"
+    },
+    {
+        "plain_text": "η καλοσύνη δεν κοστίζει τίποτα",
+        "shift": 9,
+        "cipher_text": "λ μβμοχθμ πεν λμχμμ πεν πμπμμμ",
+        "gold_label": "π σκτψγύφπ νξφ σψγδίοξς δίωψδκ"
+    },
+    {
+        "plain_text": "ένας φίλος που έχει ανάγκη είναι πράγματι φίλος",
+        "shift": 9,
+        "cipher_text": "πστι",
+        "gold_label": "έφκβ ζίτψβ ωψε έηξς κφάμσπ ξίφκς ωαάμυκδς ζίτψβ"
+    },
+    {
+        "plain_text": "πιστεύουν στο μέλλον",
+        "shift": 9,
+        "cipher_text": "Encode the following text to a Caesar cipher. The shift is 9. Output the cipher text only.\nplain text: πιστεύουν στο μέλλον\nTo solve this problem, you need to know that a Caesar cipher is a type of substitution cipher where each letter in the plain text is shifted a certain number of places down or up the alphabet. In this case, the shift is 9.\nHere's the plain text",
+        "gold_label": "ωςγδξύψεφ γδψ υέττψφ"
+    },
+    {
+        "plain_text": "μαθαίνοντας από τα λάθη",
+        "shift": 9,
+        "cipher_text": "λζιγζοντασ βπό τα κθνη μας",
+        "gold_label": "υκρκίφψφδκβ κωό δκ τάρπ"
+    },
+    {
+        "plain_text": "μια καρδιά γεμάτη ευγνωμοσύνη",
+        "shift": 9,
+        "cipher_text": "ληϝ καρτια γεματη ιυτνμοσυνη",
+        "gold_label": "υςκ σκανςά μξυάδπ ξεμφιυψγύφπ"
+    },
+    {
+        "plain_text": "η αγάπη τα νικά όλα",
+        "shift": 9,
+        "cipher_text": "ρ ιλειλι τσ μμειν κλ",
+        "gold_label": "π κμάωπ δκ φςσά ότκ"
+    },
+    {
+        "plain_text": "εκτιμήστε τα μικρά πράγματα",
+        "shift": 9,
+        "cipher_text": "ινλονλτε τα πλγια βσεμτα",
+        "gold_label": "ξσδςυήγδξ δκ υςσαά ωαάμυκδκ"
+    },
+    {
+        "plain_text": "η αλλαγή είναι η μόνη σταθερά",
+        "shift": 9,
+        "cipher_text": "λ ιγκιαζή κι η ντόπια σταθερά",
+        "gold_label": "π κττκμή ξίφκς π υόφπ γδκρξαά"
+    },
+    {
+        "plain_text": "η σκληρή δουλειά αποδίδει",
+        "shift": 9,
+        "cipher_text": "λ χονμμ ιεμμμ ιμμμμμ μμμμμμμ ιμμμμμμμ",
+        "gold_label": "π γστπαή νψετξςά κωψνίνξς"
+    },
+    {
+        "plain_text": "ακολουθήστε την καρδιά σας",
+        "shift": 9,
+        "cipher_text": "λμνομμνώτε πλμγ πλμγκ σλμ",
+        "gold_label": "κσψτψερήγδξ δπφ σκανςά γκβ"
+    }
+]

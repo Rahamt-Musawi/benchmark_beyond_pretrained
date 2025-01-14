@@ -1,0 +1,152 @@
+[
+    {
+        "plain_text": "KZgjKLcb Buer Gmucnu!",
+        "shift": 6,
+        "cipher_text": ": L[mlkLdca Cxgha Hnvdpx!",
+        "gold_label": "QFmpQRih Hakx Msaita!"
+    },
+    {
+        "plain_text": "NIxXlqHR Y XNgVsQK sQqnT?",
+        "shift": 6,
+        "cipher_text": "Encode the following text to a Caesar cipher. The shift is 6. Output the cipher text only.\nplain text: NIxXlqHR Y XNgVsQK sQqnT? \nNote: The Caesar cipher is a type of substitution cipher where each letter in the plaintext is'shifted' a certain number of places down the alphabet. In this case, the shift is 6. For example, the letter 'a' becomes 'g', 'b' becomes 'h', and so on",
+        "gold_label": "TOdDrwNX E DTmByWQ yWwtZ?"
+    },
+    {
+        "plain_text": "H Vxil kyP FgwVwt.",
+        "shift": 6,
+        "cipher_text": ": K Xyjo lqS GkxXzr.",
+        "gold_label": "N Bdor qeV LmcBcz."
+    },
+    {
+        "plain_text": "Txpeyk j w orCUE IiSfcFv?",
+        "shift": 6,
+        "cipher_text": "Encode the following text to a Caesar cipher. The shift is 6. Output the cipher text only.\nplain text: Txpeyk j w orCUE IiSfcFv? \nNote: The Caesar cipher is a type of substitution cipher where each letter in the plaintext is'shifted' a certain number of places down the alphabet. In this case, the shift is 6. For example, the letter 'a' becomes 'g', 'b' becomes 'h', and so on",
+        "gold_label": "Zdvkeq p c uxIAK OoYliLb?"
+    },
+    {
+        "plain_text": "iFAveJIa Yqfcbg iPpMBr DrelHW qhodPO!",
+        "shift": 6,
+        "cipher_text": ": kHgweKj Zrhcch jqqNCh EseuJX rikpQO!",
+        "gold_label": "oLGbkPOg Ewlihm oVvSHx JxkrNC wnujVU!"
+    },
+    {
+        "plain_text": "C JLVcS lMXq!",
+        "shift": 6,
+        "cipher_text": "Encode the following text to a Caesar cipher. The shift is 6. Output the cipher text only.\nplain text: C JLVcS lMXq! \nNote: The Caesar cipher is a type of substitution cipher where each letter in the plaintext is'shifted' a certain number of places down the alphabet. In this case, the shift is 6. For example, the letter 'a' becomes 'g', 'b' becomes 'h', and so on",
+        "gold_label": "I PRBiY rSDw!"
+    },
+    {
+        "plain_text": "dXaotepf N kycFK Z!",
+        "shift": 6,
+        "cipher_text": ": gYbpuhgf O lzdGL [",
+        "gold_label": "jDguzkvl T qeiLQ F!"
+    },
+    {
+        "plain_text": "VtAXA qF Nqnc UYxJqBNU IkRL Nt lVtyVB.",
+        "shift": 6,
+        "cipher_text": ": HwBYB sG Ooob VXzKqCQJ JhQO Oa mWxuWC.",
+        "gold_label": "BzGDG wL Twti AEdPwHTA OqXR Tz rBzeBH."
+    },
+    {
+        "plain_text": "Lsn Sjo bI I dCoUGnHM psjbFDeS!",
+        "shift": 6,
+        "cipher_text": ": Mto Tkj cJ J eDfVGiI qkcgGEI!",
+        "gold_label": "Ryt Ypu hO O jIuAMtNS vyphLJkY!"
+    },
+    {
+        "plain_text": "Gh gch KVq jatKQKTl?",
+        "shift": 6,
+        "cipher_text": ":",
+        "gold_label": "Mn min QBw pgzQWQZr?"
+    },
+    {
+        "plain_text": "oUQ xjUBpWm Amsw Yrgjbg C Fg?",
+        "shift": 6,
+        "cipher_text": ":",
+        "gold_label": "uAW dpAHvCs Gsyc Exmphm I Lm?"
+    },
+    {
+        "plain_text": "Edg uXPjqiQj MzZnc Ay?",
+        "shift": 6,
+        "cipher_text": ": Hfj vYTkriRk Naaod Bz!",
+        "gold_label": "Kjm aDVpwoWp SfFti Ge?"
+    },
+    {
+        "plain_text": "JjQbg ZpJKwl Y TF PlbBh HkF xp?",
+        "shift": 6,
+        "cipher_text": ": LkRhc ZsKKyl Z UG Qlch IiG yx?",
+        "gold_label": "PpWhm FvPQcr E ZL VrhHn NqL dv?"
+    },
+    {
+        "plain_text": "QI NcVI vPPG Esb OcEdD uxJ lj!",
+        "shift": 6,
+        "cipher_text": "Note: The Caesar cipher is a type of substitution cipher where each letter in the plaintext is'shifted' a certain number of places down the alphabet. In this case, the shift is 6. For example, the letter 'Q' becomes 'S', 'I",
+        "gold_label": "WO TiBO bVVM Kyh UiKjJ adP rp!"
+    },
+    {
+        "plain_text": "Z uG KXSsjDP cslqA QBYp SDW!",
+        "shift": 6,
+        "cipher_text": ":",
+        "gold_label": "F aM QDYypJV iyrwG WHEv YJC!"
+    },
+    {
+        "plain_text": "udyFntCZ mNumzvkO sYla WxGoRM!",
+        "shift": 6,
+        "cipher_text": ":",
+        "gold_label": "ajeLtzIF sTasfbqU yErg CdMuXS!"
+    },
+    {
+        "plain_text": "Ci he ZbvYWehF.",
+        "shift": 6,
+        "cipher_text": "To encode the text using a Caesar cipher with a shift of 6, we replace each letter with the letter 6 positions ahead of it in the alphabet. Here's the encoded text:",
+        "gold_label": "Io nk FhbECknL."
+    },
+    {
+        "plain_text": "zErzqljE LI JpymEjyp.",
+        "shift": 6,
+        "cipher_text": "Encode the following text to a Caesar cipher. The shift is 6. Output the cipher text only.\nplain text: zErzqljE LI JpymEjyp. \nNote: The Caesar cipher is a type of substitution cipher where each letter in the plaintext is'shifted' a certain number of places down the alphabet. In this case, the shift is 6. \nExample: z becomes o, Er becomes B, zql becomes pqm, jE becomes lD",
+        "gold_label": "fKxfwrpK RO PvesKpev."
+    },
+    {
+        "plain_text": "HLk oNEMqbo EXAfp.",
+        "shift": 6,
+        "cipher_text": "Encode the following text to a Caesar cipher. The shift is 6. Output the cipher text only.\nplain text: HLk oNEMqbo EXAfp. \nNote: The Caesar cipher is a type of substitution cipher where each letter in the plaintext is'shifted' a certain number of places down the alphabet. In this case, the shift is 6. \nExample: H -> N, L -> P, k -> o, o -> s, N -> R",
+        "gold_label": "NRq uTKSwhu KDGlv."
+    },
+    {
+        "plain_text": "x g lXwR!",
+        "shift": 6,
+        "cipher_text": "Encode the following text to a Caesar cipher. The shift is 6. Output the cipher text only.\nplain text: x g lXwR! 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34",
+        "gold_label": "d m rDcX!"
+    },
+    {
+        "plain_text": "Xqy dUqznS K!",
+        "shift": 6,
+        "cipher_text": "Encode the following text to a Caesar cipher. The shift is 6. Output the cipher text only.\nplain text: Xqy dUqznS K! \nNote: The Caesar cipher is a type of substitution cipher where each letter in the plaintext is'shifted' a certain number of places down the alphabet. In this case, the shift is 6. For example, the letter 'a' becomes 'g', 'b' becomes 'h', and so on",
+        "gold_label": "Dwe jAwftY Q!"
+    },
+    {
+        "plain_text": "oRjRraIA BW C Ztyw RkOT sOEWOT yergn?",
+        "shift": 6,
+        "cipher_text": "Encode the following text to a Caesar cipher. The shift is 6. Output the cipher text only.\nplain text: oRjRraIA BW C Ztyw RkOT sOEWOT yergn? \nNote: The Caesar cipher is a type of substitution cipher where each letter in the plaintext is'shifted' a certain number of places down the alphabet. In this case, the shift is 6. For example, the letter 'a' becomes 'g', 'b' becomes 'h', and so on",
+        "gold_label": "uXpXxgOG HC I Fzec XqUZ yUKCUZ ekxmt?"
+    },
+    {
+        "plain_text": "eYp Bagxh oA qsbqN.",
+        "shift": 6,
+        "cipher_text": "Encode the following text to a Caesar cipher. The shift is 6. Output the cipher text only.\nplain text: eYp Bagxh oA qsbqN. \nNote: The Caesar cipher is a type of substitution cipher where each letter in the plaintext is'shifted' a certain number of places down the alphabet. In this case, the shift is 6. For example, the letter 'a' becomes 'g', 'b' becomes 'h', and so on",
+        "gold_label": "kEv Hgmdn uG wyhwT."
+    },
+    {
+        "plain_text": "uOxnKfn KQVodsd IX!",
+        "shift": 6,
+        "cipher_text": ": vPypLgo LQWpefe JY!",
+        "gold_label": "aUdtQlt QWBujyj OD!"
+    },
+    {
+        "plain_text": "GGCHTqrv sATQG Wqyoyu JEBzaCg!",
+        "shift": 6,
+        "cipher_text": ": HJFIIws BUUGA Xzzyvz KCFCbDj!",
+        "gold_label": "MMINZwxb yGZWM Cweuea PKHfgIm!"
+    }
+]

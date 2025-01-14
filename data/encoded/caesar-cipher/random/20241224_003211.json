@@ -1,0 +1,152 @@
+[
+    {
+        "plain_text": "KZgjKLcb Buer Gmucnu!",
+        "shift": 12,
+        "cipher_text": "RXlvRMkd Sld Ovxjxkt!",
+        "gold_label": "WLsvWXon Ngqd Sygozg!"
+    },
+    {
+        "plain_text": "NIxXlqHR Y XNgVsQK sQqnT?",
+        "shift": 12,
+        "cipher_text": "is:",
+        "gold_label": "ZUjJxcTD K JZsHeCW eCczF?"
+    },
+    {
+        "plain_text": "H Vxil kyP FgwVwt.",
+        "shift": 12,
+        "cipher_text": "H Vxil kyP FgwVwt.",
+        "gold_label": "T Hjux wkB RsiHif."
+    },
+    {
+        "plain_text": "Txpeyk j w orCUE IiSfcFv?",
+        "shift": 12,
+        "cipher_text": "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z",
+        "gold_label": "Fjbqkw v i adOGQ UuEroRh?"
+    },
+    {
+        "plain_text": "iFAveJIa Yqfcbg iPpMBr DrelHW qhodPO!",
+        "shift": 12,
+        "cipher_text": "Encode the following text to a Caesar cipher. The shift is 12.\nplain text: iFAveJIa Yqfcbg iPpMBr DrelHW qhodPO!\nThe Caesar cipher is a type of substitution cipher in which each letter in the plaintext is 'shifted' a certain number of places down the alphabet. In this case, the shift is 12.\nTo encrypt the plaintext \"iFAveJIa Yqfcbg iPpMBr DrelHW qhodPO!\" using a Caesar cipher with a shift of 12, we can follow these steps:\n1. Identify the letters in the plaintext and their positions in the alphabet.\n2. Shift each letter 12 places down the alphabet.\n3. If a letter is shifted past the end of the alphabet, wrap around to the beginning.\nFor example, the letter 'i' is the ninth letter of the alphabet. If we shift it 12 places down, we get to the twenty-first letter, 'u'. The letter 'F' is the sixth letter of the alphabet. If we shift it 12 places down, we get to the eighteenth letter, 'S'.\nUsing this method, we can encrypt the plaintext \"iFAveJIa Yqfcbg iPpMBr DrelHW qhodPO!\" as follows:\nencrypted text: rZWbzKLz Buvjde zSsmXq ZlqnRv!\nNote that we have wrapped around to the beginning of the alphabet for the letters 'a' and 'p', which are shifted past 'z'.",
+        "gold_label": "uRMhqVUm Kcrons uBbYNd PdqxTI ctapBA!"
+    },
+    {
+        "plain_text": "C JLVcS lMXq!",
+        "shift": 12,
+        "cipher_text": "R NZWtF oRYp!",
+        "gold_label": "O VXHoE xYJc!"
+    },
+    {
+        "plain_text": "dXaotepf N kycFK Z!",
+        "shift": 12,
+        "cipher_text": "Encode the following text to a Caesar cipher. The shift is 12.\nplain text: dXaotepf N kycFK Z!\nThe Caesar cipher is a type of substitution cipher in which each letter in the plaintext is 'shifted' a certain number of places down the alphabet. In this case, the shift is 12.\nTo encrypt the given plain text using a Caesar cipher with a shift of 12, we need to shift each letter 12 places down the alphabet.\nd -> X\nX is the 24th letter of the alphabet, and if we shift it 12 places down, we get X - 12 = 12, which is L.\nX -> L\nL is the 12th letter of the alphabet, and if we shift it 12 places down, we get L + 12 = 24, which is X.\na -> R\nR is the 18th letter of the alphabet, and if we shift it 12 places down, we get R - 12 = 6, which is F.\no -> Z\nZ is the 26th letter of the alphabet, and if we shift it 12 places down, we get Z - 12 = 14, which is N.\nt -> G\nG is the 7th letter of the alphabet, and if we shift it 12 places down, we get G + 12 = 19, which is T.\ne -> Y\nY is the 25th letter of the alphabet, and if we shift it 12 places down, we get Y - 12 = 13, which is M.\np -> B\nB is the 2nd letter of the alphabet, and if we shift it 12 places down, we get B + 12 = 14, which is N.\nf -> J\nJ is the 10th letter of the alphabet, and if we shift it 12 places down, we get J + 12 = 22, which is V.\nN -> S\nS is the 19th letter of the alphabet, and if we shift it 12 places down, we get S + 12 = 31, which is A.\nk -> D\nD is the 4th letter of the alphabet, and if we shift it 12 places down, we get D + 12 = 16, which is P.\ny -> H\nH is the 8th letter of the alphabet, and if we shift it 12 places down, we get H + 12 = 20, which is U.\nc -> R\nR is the 18th letter of the alphabet, and if we shift it 12 places down, we get R - 12 = 6, which is F.\nF -> P\nP is the 16th letter of the alphabet, and if we shift it 12 places down, we get P + 12 = 28, which is V.\nK -> T\nT is the 20th letter of the alphabet, and if we shift it 12 places down, we get T + 12 = 32, which is space.\nZ! -> a!\na is the 1st letter of the alphabet, and if we shift it 12 places down, we get a - 12 = -11, which is a.\n! -> !\n! is a special character and does not change.\nSo the encrypted text is: LFR NTG MV PUF DV !",
+        "gold_label": "pJmafqbr Z wkoRW L!"
+    },
+    {
+        "plain_text": "VtAXA qF Nqnc UYxJqBNU IkRL Nt lVtyVB.",
+        "shift": 12,
+        "cipher_text": "Encode the following text to a Caesar cipher. The shift is 12.\nplain text: VtAXA qF Nqnc UYxJqBNU IkRL Nt lVtyVB.\nThe Caesar cipher is a type of substitution cipher in which each letter in the plaintext is 'shifted' a certain number of places down the alphabet. In this case, the shift is 12.\nTo encrypt the plaintext \"VtAXA qF Nqnc UYxJqBNU IkRL Nt lVtyVB.\" with a shift of 12, we can use the following steps:\n1. Identify the letters in the plaintext and their corresponding positions in the alphabet.\n2. Shift each letter 12 places down the alphabet.\n3. If a letter is shifted past the end of the alphabet, wrap around to the beginning.\nUsing these steps, we can encrypt the plaintext as follows:\n* \"V\" becomes \"Z\" (shifted 12 places)\n* \"t\" becomes \"x\" (shifted 12 places)\n* \"A\" becomes \"L\" (shifted 12 places)\n* \"X\" becomes \"B\" (shifted 12 places)\n* \"A\" becomes \"L\" (shifted 12 places)\n* \" \" (space) remains \" \" (space)\n* \"q\" becomes \"w\" (shifted 12 places)\n* \"F\" becomes \"P\" (shifted 12 places)\n* \" \" (space) remains \" \" (space)\n* \"N\" becomes \"Z\" (shifted 12 places)\n* \"q\" becomes \"w\" (shifted 12 places)\n* \"n\" becomes \"r\" (shifted 12 places)\n* \"c\" becomes \"f\" (shifted 12 places)\n* \" \" (space) remains \" \" (space)\n* \"U\" becomes \"Z\" (shifted 12 places)\n* \"Y\" becomes \"B\" (shifted 12 places)\n* \"x\" becomes \"c\" (shifted 12 places)\n* \"J\" becomes \"R\" (shifted 12 places)\n* \"q\" becomes \"w\" (shifted 12 places)\n* \"B\" becomes \"G\" (shifted 12 places)\n* \"N\" becomes \"Z\" (shifted 12 places)\n* \"U\" becomes \"Z\" (shifted 12 places)\n* \" \" (space) remains \" \" (space)\n* \"I\" becomes \"P\" (shifted 12 places)\n* \"k\" becomes \"r\" (shifted 12 places)\n* \"R\" becomes \"Z\" (shifted 12 places)\n* \"L\" becomes \"I\" (shifted 12 places)\n* \" \" (space) remains \" \" (space)\n* \"N\" becomes \"Z\" (shifted 12 places)\n* \"t\" becomes \"x\" (shifted 12 places)\n* \" \" (space) remains \" \" (space)\n* \"l\" becomes \"p\" (shifted 12 places)\n* \"V\" becomes \"Z\" (shifted 12 places)\n* \"t\" becomes \"x\" (shifted 12 places)\n* \"y\" becomes \"b\" (shifted 12 places)\n* \"V\" becomes \"Z\" (shifted 12 places)\n* \"B\" becomes \"G\" (shifted 12 places)\n* \".\" becomes \":\" (shifted 12 places)\nTherefore, the Caesar cipher of the plaintext \"VtAXA qF Nqnc UYxJqBNU IkRL Nt lVtyVB.\" with a shift of 12 is \"ZlwxL pF Zrfz ZBcwgDWZ RpI Zp xZqxGC.\"",
+        "gold_label": "HfMJM cR Zczo GKjVcNZG UwDX Zf xHfkHN."
+    },
+    {
+        "plain_text": "Lsn Sjo bI I dCoUGnHM psjbFDeS!",
+        "shift": 12,
+        "cipher_text": "Rzq Tke cL L fPbVZqLR qmtakGFr!",
+        "gold_label": "Xez Eva nU U pOaGSzTY bevnRPqE!"
+    },
+    {
+        "plain_text": "Gh gch KVq jatKQKTl?",
+        "shift": 12,
+        "cipher_text": "Rl mlp RXs wbzRZRZVw?",
+        "gold_label": "St sot WHc vmfWCWFx?"
+    },
+    {
+        "plain_text": "oUQ xjUBpWm Amsw Yrgjbg C Fg?",
+        "shift": 12,
+        "cipher_text": "Encode the following text to a Caesar cipher. The shift is 12.\nplain text: oUQ xjUBpWm Amsw Yrgjbg C Fg?\nThe Caesar cipher is a type of substitution cipher in which each letter in the plaintext is 'shifted' a certain number of places down the alphabet. In this case, the shift is 12.\nTo encrypt the plaintext \"oUQ xjUBpWm Amsw Yrgjbg C Fg?\" using a Caesar cipher with a shift of 12, we can follow these steps:\n1. Convert all letters to uppercase for consistency.\n2. Shift each letter 12 places down the alphabet.\n3. If a letter is shifted past the end of the alphabet, wrap around to the beginning.\n4. Leave non-letter characters (such as spaces and punctuation) unchanged.\nApplying these steps to the given plaintext, we get:\n1. oUQ xjUBpWm Amsw Yrgjbg C Fg? -> OUQ XJUBPWM AMWS YRGJBG C FG?\n2. Shift each letter 12 places down the alphabet:\n\t* O -> X\n\t* U -> Z\n\t* Q -> E\n\t* X -> B\n\t* J -> R\n\t* U -> I\n\t* B -> H\n\t* P -> A\n\t* W -> G\n\t* M -> S\n\t* A -> F\n\t* M -> S\n\t* S -> V\n\t* Y -> P\n\t* R -> L\n\t* G -> D\n\t* J -> R\n\t* B -> H\n\t* G -> D\n\t* C -> J\n\t* F -> R\n\t* G -> D\n\t* ? -> ?\n3. The resulting ciphertext is: XZE RIZPHAS FSV LRDHD RJD ?\nTherefore, the Caesar cipher with a shift of 12 for the given plaintext is \"XZE RIZPHAS FSV LRDHD RJD ?\".",
+        "gold_label": "aGC jvGNbIy Myei Kdsvns O Rs?"
+    },
+    {
+        "plain_text": "Edg uXPjqiQj MzZnc Ay?",
+        "shift": 12,
+        "cipher_text": "Rlm zYLrnmRm PbDps Dq!",
+        "gold_label": "Qps gJBvcuCv YlLzo Mk?"
+    },
+    {
+        "plain_text": "JjQbg ZpJKwl Y TF PlbBh HkF xp?",
+        "shift": 12,
+        "cipher_text": "is missing the exclamation mark at the end. I'm not sure how to include it in the cipher text. I've tried adding an else statement at the end of the for loop, but that doesn't seem to work. Any help would be appreciated.",
+        "gold_label": "VvCns LbVWix K FR BxnNt TwR jb?"
+    },
+    {
+        "plain_text": "QI NcVI vPPG Esb OcEdD uxJ lj!",
+        "shift": 12,
+        "cipher_text": "RR OeWJ wQQH FtG PdFgF yvK km\"",
+        "gold_label": "CU ZoHU hBBS Qen AoQpP gjV xv!"
+    },
+    {
+        "plain_text": "Z uG KXSsjDP cslqA QBYp SDW!",
+        "shift": 12,
+        "cipher_text": "Z uG KXSsjDP cslqA QBYp SDW!",
+        "gold_label": "L gS WJEevPB oexcM CNKb EPI!"
+    },
+    {
+        "plain_text": "udyFntCZ mNumzvkO sYla WxGoRM!",
+        "shift": 12,
+        "cipher_text": "bpzHqrDPS oQTgxlpN vZkd ZybTPS!",
+        "gold_label": "gpkRzfOL yZgylhwA eKxm IjSaDY!"
+    },
+    {
+        "plain_text": "Ci he ZbvYWehF.",
+        "shift": 12,
+        "cipher_text": "cipher text: Rl p XjlkVXjmJ.",
+        "gold_label": "Ou tq LnhKIqtR."
+    },
+    {
+        "plain_text": "zErzqljE LI JpymEjyp.",
+        "shift": 12,
+        "cipher_text": "cipher text: bGbabkdi K O sgxsgxgw.",
+        "gold_label": "lQdlcxvQ XU VbkyQvkb."
+    },
+    {
+        "plain_text": "HLk oNEMqbo EXAfp.",
+        "shift": 12,
+        "cipher_text": "PLAIN: H L k O N E M Q B O E X A F P .",
+        "gold_label": "TXw aZQYcna QJMrb."
+    },
+    {
+        "plain_text": "x g lXwR!",
+        "shift": 12,
+        "cipher_text": "cipher text: z h mZyS!",
+        "gold_label": "j s xJiD!"
+    },
+    {
+        "plain_text": "Xqy dUqznS K!",
+        "shift": 12,
+        "cipher_text": "Bmw hVlrsP K!",
+        "gold_label": "Jck pGclzE W!"
+    },
+    {
+        "plain_text": "oRjRraIA BW C Ztyw RkOT sOEWOT yergn?",
+        "shift": 12,
+        "cipher_text": "Encode the following text to a Caesar cipher. The shift is 12.\nplain text: oRjRraIA BW C Ztyw RkOT sOEWOT yergn?\nThe Caesar cipher is a type of substitution cipher in which each letter in the plaintext is 'shifted' a certain number of places down the alphabet. In this case, the shift is 12.\nTo encrypt the plaintext \"oRjRraIA BW C Ztyw RkOT sOEWOT yergn?\" using a Caesar cipher with a shift of 12, we can follow these steps:\n1. Identify the letters in the plaintext and their corresponding positions in the alphabet. For example, the letter 'o' is the 15th letter of the alphabet, 'R' is the 18th letter, and so on.\n2. Shift each letter down the alphabet by the specified number of places. In this case, we will shift each letter down 12 places. So, for example, 'o' becomes 'a', 'R' becomes 'I', and so on.\n3. If a letter is shifted past the end of the alphabet, wrap around to the beginning of the alphabet. For example, if we shift the letter 'z' down 12 places, it becomes 'a'.\n4. Keep in mind that spaces, punctuation, and other non-alphabetic characters should be left unchanged.\nUsing these steps, we can encrypt the plaintext \"oRjRraIA BW C Ztyw RkOT sOEWOT yergn?\" as follows:\n* 'o' becomes 'a'\n* 'R' becomes 'I'\n* 'j' becomes 'h'\n* 'R' becomes 'I'\n* 'r' becomes 'a'\n* 'a' becomes 'n'\n* 'I' becomes 'L'\n* ' ' (space) remains unchanged\n* 'B' becomes 'L'\n* 'W' becomes 'G'\n* ' ' (space) remains unchanged\n* 'C' becomes 'H'\n* ' ' (space) remains unchanged\n* 'Z' becomes 'M'\n* 't' becomes 'a'\n* 'y' becomes 'i'\n* 'w' becomes 'a'\n* ' ' (space) remains unchanged\n* 'R' becomes 'I'\n* 'k' becomes 'a'\n* 'O' becomes 'N'\n* 'T' becomes 'R'\n* ' ' (space) remains unchanged\n* 's' becomes 'a'\n* 'O' becomes 'N'\n* 'E' becomes 'D'\n* 'W' becomes 'G'\n* 'O' becomes 'N'\n* 'T' becomes 'R'\n* ' ' (space) remains unchanged\n* 'y' becomes 'a'\n* 'e' becomes 'b'\n* 'r' becomes 'a'\n* 'g' becomes 'd'\n* 'n' becomes 'a'\n* '?' remains unchanged\nTherefore, the encrypted text is \"anIL LG HM aiIa NR sNaNDG barda?\"",
+        "gold_label": "aDvDdmUM NI O Lfki DwAF eAQIAF kqdsz?"
+    },
+    {
+        "plain_text": "eYp Bagxh oA qsbqN.",
+        "shift": 12,
+        "cipher_text": "Encode the following text to a Caesar cipher. The shift is 12.\nplain text: eYp Bagxh oA qsbqN.\nThe Caesar cipher is a type of substitution cipher where each letter in the plaintext is shifted a certain number of places down the alphabet. In this case, the shift is 12.\nTo encrypt the plaintext \"eYp Bagxh oA qsbqN.\" with a shift of 12, we can use the following steps:\n1. Identify the letters in the plaintext and their corresponding positions in the alphabet.\n2. Shift each letter 12 places down the alphabet.\n3. If a letter is shifted past the end of the alphabet, wrap around to the beginning.\nUsing these steps, we can encrypt the plaintext as follows:\n* \"e\" becomes \"p\" (shifted 12 places)\n* \"Y\" becomes \"B\" (shifted 12 places)\n* \"p\" becomes \"A\" (shifted 12 places)\n* \" \" (space) remains \" \" (space)\n* \"B\" becomes \"G\" (shifted 12 places)\n* \"a\" becomes \"l\" (shifted 12 places)\n* \"g\" becomes \"r\" (shifted 12 places)\n* \"x\" becomes \"k\" (shifted 12 places)\n* \"h\" becomes \"o\" (shifted 12 places)\n* \" \" (space) remains \" \" (space)\n* \"o\" becomes \"a\" (shifted 12 places)\n* \"A\" becomes \"N\" (shifted 12 places)\n* \" \" (space) remains \" \" (space)\n* \"q\" becomes \"e\" (shifted 12 places)\n* \"s\" becomes \"d\" (shifted 12 places)\n* \"b\" becomes \"c\" (shifted 12 places)\n* \"q\" becomes \"n\" (shifted 12 places)\n* \"N\" becomes \".\" (shifted 12 places)\nTherefore, the Caesar cipher for the plaintext \"eYp Bagxh oA qsbqN.\" with a shift of 12 is \"pB Alrk oN edcn.\"",
+        "gold_label": "qKb Nmsjt aM cencZ."
+    },
+    {
+        "plain_text": "uOxnKfn KQVodsd IX!",
+        "shift": 12,
+        "cipher_text": "uOxnKfn KQVodsd IX!",
+        "gold_label": "gAjzWrz WCHapep UJ!"
+    },
+    {
+        "plain_text": "GGCHTqrv sATQG Wqyoyu JEBzaCg!",
+        "shift": 12,
+        "cipher_text": "RXFLElqj zDSLM Rlzzuz KHFxdFk!",
+        "gold_label": "SSOTFcdh eMFCS Ickakg VQNlmOs!"
+    }
+]

@@ -1,0 +1,4430 @@
+Comprehensive operation details for random text results:
+
+=== Processing file: 20250110_084444.json ===
+Model name: , Shift: Benchmark, Prompt Type: default_models--mistralai--Mixtral-8x7B-Instruct-v0.1, Temperature: , Max Token: 
+
+Record #1
+  cipher_text: 1
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #2
+  cipher_text: e
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #3
+  cipher_text: 1
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #4
+  cipher_text: X
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #5
+  cipher_text: 1
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #6
+  cipher_text: BFNHJTETEKZIIDLDDIHKLNFXOGMYKLZOIVDH
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #7
+  cipher_text: Encode the following text using a Vigenère cipher with the key 'Benchmark'. plain text: reach for the stars Answer: To encode the given plain text using a Vigenère cipher with the key 'Benchmark', we first repeat the key to match the length of the plain text: plain text: reach for the stars key : Benchmark Bench Now, we convert both the plain text and the key into ASCII values: plain text: 114 101 97 104 101 32 111 118 101 114 115 116 114 105 112 117 116 key : 66 101 110 99 104 109 111 114 101 32 66 101 110 99 104 109 111 114 Next, we calculate the offset for each letter in the plain text by adding the corresponding ASCII value of the key letter and applying the modulo operation with 26 (since there are 26 letters in the alphabet): offset: 11 11 11 11 11 28 18 19 11 11 11 11 11 11 11 11 11 Finally, we add the offset to the ASCII values of the plain text letters and apply the modulo operation with 26 to get the encoded text: encoded text: Tfrlm lq xltlsqmr So, the encoded text is 'Tfrlm lq xltlsqmr'.
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #8
+  cipher_text: b
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #9
+  cipher_text: 1
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #10
+  cipher_text: p
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #11
+  cipher_text: 1
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #12
+  cipher_text: x
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #13
+  cipher_text: 1
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #14
+  cipher_text: PBQHMZKZWXKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZKZ
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #15
+  cipher_text: fqwhuwd
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #16
+  cipher_text: 1
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #17
+  cipher_text: a
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #18
+  cipher_text: 1
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #19
+  cipher_text: Vjqxg
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #20
+  cipher_text: 1
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #21
+  cipher_text: PXVTDHWWKLZXKZKZX
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #22
+  cipher_text: 1
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #23
+  cipher_text: HELLO
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #24
+  cipher_text: 1
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #25
+  cipher_text: A
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+--- Summary for file: 20250110_084444.json ---
+Total records processed: 25
+
+Weighted Levenshtein Error Rate (File-level):  0.0000
+Weighted Character Error Rate (File-level):    0.0000
+Weighted Word Accuracy (File-level, k=2):     0.0000
+Average Sentence Accuracy (File-level):        0.0000
+Average Word Accuracy (File-level, unweighted): 0.0000
+
+File-level totals:
+  total_characters_in_gold_label: 0
+  total_matched_characters:       0
+  total_words_in_gold_label:      0
+  total_matched_words:            0
+==========================================
+
+=== Processing file: 20250109_193822.json ===
+Model name: , Shift: Benchmark, Prompt Type: cot-like_models--mistralai--Mixtral-8x7B-Instruct-v0.1, Temperature: , Max Token: 
+
+Record #1
+  cipher_text: GHODEEFGBRINGJODUESBRI
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #2
+  cipher_text: BENCNHMAPTUNKNO
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #3
+  cipher_text: A
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #4
+  cipher_text: Encode the following text using a Vigenère cipher with the key 'Benchmark'. Output a lookup table and the cipher text in a Python dictionary: {"lookup_table": {}, "cipher_text":...}. Output the dictionary only. plain text: walk in someone else’s shoes plain text: walk in someone else’s shoes plain text: walk in someone else’s shoes plain text: walk in someone else’s shoes plain text: walk in someone else’s shoes plain text: walk in someone else’s shoes plain text: walk in someone else’s shoes plain text: walk in someone else’s shoes plain text: walk in someone else’s shoes plain text: walk in someone else’s shoes plain text: walk in someone else’s shoes plain text: walk in someone else’s shoes plain text: walk in someone else’s shoes plain text: walk in someone else’s shoes plain text: walk in someone else’s shoes plain text: walk in someone else’s shoes plain text: walk in someone else’s shoes plain text: walk in someone else’s shoes plain text: walk in someone else’s shoes plain text: walk in someone else’s shoes plain text: walk in someone else’s shoes plain text: walk in someone else’s shoes plain text: walk in someone else’s shoes plain text: walk in someone else’s shoes plain text: walk in someone else’s shoes plain text: walk in someone else’s shoes plain text: walk in someone else’s shoes plain text: walk in someone else’s shoes plain text: walk in someone else’s shoes plain text: walk in someone else’s shoes plain text: walk in someone else’s shoes plain text: walk in someone else’s shoes plain text: walk in someone else’s shoes plain text: walk in someone else’s shoes plain text: walk in someone else’s shoes plain text: walk in someone else’s shoes plain text: walk in someone else’s shoes plain text: walk in someone else’s shoes plain text: walk in someone else’s shoes plain text: walk in someone else’s shoes plain text: walk in someone else’s shoes plain text: walk in someone else’s shoes plain text: walk in someone else’s shoes plain text: walk in someone
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #5
+  cipher_text: A
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #6
+  cipher_text: A
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #7
+  cipher_text: A
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #8
+  cipher_text: BFFENCHMA RKBE NCHMA RKBE
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #9
+  cipher_text: A
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #10
+  cipher_text: BENCHMARKPATIENCEISTHEGREATEST
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #11
+  cipher_text: A
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #12
+  cipher_text: A
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #13
+  cipher_text: A
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #14
+  cipher_text: A
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #15
+  cipher_text: A
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #16
+  cipher_text: Z
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #17
+  cipher_text: A
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #18
+  cipher_text: L U J V R W Y S U B V R F D T F J R O W
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #19
+  cipher_text: WKH WKH RI WKH ROROH RIK
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #20
+  cipher_text: A
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #21
+  cipher_text: a
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #22
+  cipher_text: benchmarkappreciatethe
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #23
+  cipher_text: c
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #24
+  cipher_text: jqx kdwvkqg lqj
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #25
+  cipher_text: Encode the following text using a Vigenère cipher with the key 'Benchmark'. Output a lookup table and the cipher text in a Python dictionary: {"lookup_table": {}, "cipher_text":...}. Output the dictionary only. plain text: follow your heart The lookup table is: | Plain | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | U | V | W | X | Y | Z | |-------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---| | Cipher| F | L | O | W | Y | O | U | R | T | H | E | A | R | T | F | O | L | L | O | W | I | T | H | E | A | R | T | The cipher text is: | Cipher | F | L | O | W | Y | O | U | R | T | H | E | A | R | T | F | O | L | L | O | W | I | T | H | E | A | R | T | |--------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---| | Index | 5 | 11| 14| 22| 24| 14| 20| 17| 19| 7 | 4 | 0 | 17| 19| 5 | 14| 11| 11| 14| 22| 8 | 19| 7 | 4 | 0 | 17| 19| The cipher text is: | Index | 5 | 11| 14| 22| 24| 14| 20| 17| 19| 7 | 4 | 0 | 17| 19| 5 | 14| 11| 11| 14| 22| 8 | 19| 7 | 4 | 0 | 17| 19| |-------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---| | Key | B | E | N | C
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+--- Summary for file: 20250109_193822.json ---
+Total records processed: 25
+
+Weighted Levenshtein Error Rate (File-level):  0.0000
+Weighted Character Error Rate (File-level):    0.0000
+Weighted Word Accuracy (File-level, k=2):     0.0000
+Average Sentence Accuracy (File-level):        0.0000
+Average Word Accuracy (File-level, unweighted): 0.0000
+
+File-level totals:
+  total_characters_in_gold_label: 0
+  total_matched_characters:       0
+  total_words_in_gold_label:      0
+  total_matched_words:            0
+==========================================
+
+=== Processing file: 20250109_125953.json ===
+Model name: , Shift: Benchmark, Prompt Type: base_8B-Instruct, Temperature: , Max Token: 
+
+Record #1
+  cipher_text: shifted
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #2
+  cipher_text: shifted
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #3
+  cipher_text: Encode the following text using a Vigenère cipher with the key 'Benchmark'. Output the cipher text only. plain text: chasing your dreams is the best thing that can happen to you Note: The Vigenère cipher is a method of encrypting alphabetic text by using a series of interwoven Caesar ciphers, based on the letters of a keyword. It is a form of polyalphabetic substitution. Each letter of the plaintext is'shift
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #4
+  cipher_text: Encode the following text using a Vigenère cipher with the key 'Benchmark'. Output the cipher text only. plain text: walk in someone else’s shoes key: Benchmark cipher text:????? ``` W L K I N S O M E O N E L S E S H O E S B E N C H M A R K W -> W + 2 = V L -> L + 1 = M K ->
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #5
+  cipher_text: Encode the following text using a Vigenère cipher with the key 'Benchmark'. Output the cipher text only. plain text: finding peace within Note: The Vigenère cipher is a method of encrypting alphabetic text. The encryption is done using a series of interwoven Caesar ciphers, based on the letters of a keyword. It employs a form of polyalphabetic substitution. The Vigenère cipher is considered to be unbreakable,
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #6
+  cipher_text: shifted
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #7
+  cipher_text: shifted
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #8
+  cipher_text: Encode the following text using a Vigenère cipher with the key 'Benchmark'. Output the cipher text only. plain text: beauty in simplicity Note: The Vigenère cipher is a method of encrypting alphabetic text by using a series of interwoven Caesar ciphers, based on the letters of a keyword. It employs a form of polyalphabetic substitution. The key is repeated as necessary to match the length of the plaintext. Each letter of
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #9
+  cipher_text: shifted
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #10
+  cipher_text: Encode the following text using a Vigenère cipher with the key 'Benchmark'. Output the cipher text only. plain text: patience is a virtue Note: The Vigenère cipher is a polyalphabetic substitution cipher that uses a keyword to encrypt and decrypt the text. The keyword is repeated to match the length of the plaintext. Each letter of the plaintext is shifted by the corresponding letter of the keyword. If the keyword is shorter than the plaintext, it is
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #11
+  cipher_text: Encode the following text using a Vigenère cipher with the key 'Benchmark'. Output the cipher text only. plain text: cherish the little moments key: Benchmark cipher text: ``` gur pbqr bs gur penml xrl ``` Note: The Vigenère cipher is a method of encrypting alphabetic text by using a series of interwoven Caesar ciphers, based on the letters of a keyword. It employs a
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #12
+  cipher_text: Encode the following text using a Vigenère cipher with the key 'Benchmark'. Output the cipher text only. plain text: turning over a new leaf key: Benchmark Hint: You can use a Vigenère cipher tool or implement it manually. The Vigenère cipher is a polyalphabetic substitution cipher that uses a keyword to encrypt and decrypt the text. The keyword is repeated to match the length of the plaintext. Each letter of the plaintext is shifted by
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #13
+  cipher_text: Encode the following text using a Vigenère cipher with the key 'Benchmark'. Output the cipher text only. plain text: actions speak louder than words Note: The Vigenère cipher is a method of encrypting alphabetic text. The encrypting process replaces each letter with a different letter a fixed number of positions down the alphabet. In this case, the key 'Benchmark' will be repeated to match the length of the plain text. The encryption process is as
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #14
+  cipher_text: Encode the following text using a Vigenère cipher with the key 'Benchmark'. Output the cipher text only. plain text: nurture your relationships key: Benchmark cipher text: ``` nqgk xwqk yxqk zyqk ``` Note: The Vigenère cipher is a method of encrypting alphabetic text by using a series of interwoven Caesar ciphers, based on the letters of a
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #15
+  cipher_text: shifted
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #16
+  cipher_text: shifted
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #17
+  cipher_text: Encode the following text using a Vigenère cipher with the key 'Benchmark'. Output the cipher text only. plain text: a friend in need is a friend indeed Note: The Vigenère cipher is a polyalphabetic substitution cipher that uses a keyword to encrypt and decrypt the text. The keyword is repeated to match the length of the plaintext. Each letter of the plaintext is shifted by the corresponding letter of the keyword, wrapping around to the beginning of the keyword when necessary.
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #18
+  cipher_text: Encode the following text using a Vigenère cipher with the key 'Benchmark'. Output the cipher text only. plain text: believe in the future key: Benchmark cipher text: ``` GUR PENML XRL VF ZL FRPERG CBFG ``` Note: The Vigenère cipher is a method of encrypting alphabetic text. The encrypting process involves using a keyword or phrase, called the key, to determine the shift
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #19
+  cipher_text: shifted
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #20
+  cipher_text: Encode the following text using a Vigenère cipher with the key 'Benchmark'. Output the cipher text only. plain text: a heart full of gratitude key: Benchmark cipher text: ``` gur penml xrl vf zl frperg cbfg ``` I used an online Vigenère cipher tool to generate the cipher text. Here's the step-by-step process: 1. Convert the plain text to uppercase: A HEART FULL
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #21
+  cipher_text: lqzqkxwqkzg
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #22
+  cipher_text: Encode the following text using a Vigenère cipher with the key 'Benchmark'. Output the cipher text only. plain text: appreciate the small things in life key: Benchmark cipher text: ``` gurpenml xrlf zrffntrf gb gurpenml ``` I used an online Vigenère cipher tool to generate the cipher text. The tool used the key 'Benchmark' to encrypt the plain text 'app
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #23
+  cipher_text: shifted
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #24
+  cipher_text: Encode the following text using a Vigenère cipher with the key 'Benchmark'. Output the cipher text only. plain text: hard work pays off key: Benchmark cipher text: ``` h -> h + 2 = j a -> a + 2 = c r -> r + 2 = t d -> d + 2 = f (Benchmark repeats) w ->
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #25
+  cipher_text: shifted
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+--- Summary for file: 20250109_125953.json ---
+Total records processed: 25
+
+Weighted Levenshtein Error Rate (File-level):  0.0000
+Weighted Character Error Rate (File-level):    0.0000
+Weighted Word Accuracy (File-level, k=2):     0.0000
+Average Sentence Accuracy (File-level):        0.0000
+Average Word Accuracy (File-level, unweighted): 0.0000
+
+File-level totals:
+  total_characters_in_gold_label: 0
+  total_matched_characters:       0
+  total_words_in_gold_label:      0
+  total_matched_words:            0
+==========================================
+
+=== Processing file: 20250108_135042.json ===
+Model name: , Shift: Benchmark, Prompt Type: cot-like_70B-Instruct, Temperature: , Max Token: 
+
+Record #1
+  cipher_text: A
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #2
+  cipher_text: GRACEHK
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #3
+  cipher_text: GURPENHFK
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #4
+  cipher_text: abcdefghijklmnopqrstuvwxyz
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #5
+  cipher_text: lqgkdwvkhfwkhgfwkhg
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #6
+  cipher_text: A
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #7
+  cipher_text: RNCKHOEMCNHCBE
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #8
+  cipher_text: rtahw tk hvwlmr
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #9
+  cipher_text: WKLJGURCGXQ
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #10
+  cipher_text: HECNHMKBENHCNEKCMBEK
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #11
+  cipher_text: B
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #12
+  cipher_text: wklqnbrx rqob a wqhxg
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #13
+  cipher_text: A
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #14
+  cipher_text: A
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #15
+  cipher_text: rqfg pxkzh zlwkzh rqzg
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #16
+  cipher_text: A
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #17
+  cipher_text: GUR PENML XRLWF ZQNLWQF ZLRFNEQF
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #18
+  cipher_text: Vmxqkfnv
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #19
+  cipher_text: wkhhqfkhqkxkhqkxkhqkxkhqkxkhqkxkhqkxkhq
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #20
+  cipher_text: GURPENWKVLGLRQFWLRG
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #21
+  cipher_text: Rkxuqexuqk
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #22
+  cipher_text: GurrjgjxuQгVьU
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #23
+  cipher_text: GURPENHCEHGIECBENRHCEN
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #24
+  cipher_text: GUR PENOF EKCNHOFF
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #25
+  cipher_text: A
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+--- Summary for file: 20250108_135042.json ---
+Total records processed: 25
+
+Weighted Levenshtein Error Rate (File-level):  0.0000
+Weighted Character Error Rate (File-level):    0.0000
+Weighted Word Accuracy (File-level, k=2):     0.0000
+Average Sentence Accuracy (File-level):        0.0000
+Average Word Accuracy (File-level, unweighted): 0.0000
+
+File-level totals:
+  total_characters_in_gold_label: 0
+  total_matched_characters:       0
+  total_words_in_gold_label:      0
+  total_matched_words:            0
+==========================================
+
+=== Processing file: 20250109_130350.json ===
+Model name: , Shift: Benchmark, Prompt Type: cot-like_8B-Instruct, Temperature: , Max Token: 
+
+Record #1
+  cipher_text: hpfstcskz
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #2
+  cipher_text: e
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #3
+  cipher_text: gurpenzrgre frrf zl frperg cbfg
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #4
+  cipher_text: xqtkv wvzqj xqtkv
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #5
+  cipher_text: a
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #6
+  cipher_text: a
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #7
+  cipher_text: kxwv yxuq wkhuh
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #8
+  cipher_text: gqzqk wvzqk
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #9
+  cipher_text: vzxfkzqkxwz
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #10
+  cipher_text: wklv lv d vhfuhqw
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #11
+  cipher_text: c
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #12
+  cipher_text: t
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #13
+  cipher_text: gurpenffrpg
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #14
+  cipher_text: n
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #15
+  cipher_text: e
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #16
+  cipher_text: k
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #17
+  cipher_text: a
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #18
+  cipher_text: gkqzqkzqkzqkzq
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #19
+  cipher_text: Encode the following text using a Vigenère cipher with the key 'Benchmark'. Output a lookup table and the cipher text in a Python dictionary: {"lookup_table": {}, "cipher_text":...}. Output the dictionary only. plain text: learning from mistakes is the best way to improve Here is the Python code: ```Python from string import ascii_lowercase def vigenere_cipher(plain_text, key): lookup_table = {} cipher_text = "" key_index = 0 for char in plain_text: if char.isalpha(): shift = ascii_lowercase.index(key[key_index % len(key)].lower()) if char.isupper(): cipher_text += chr((ord(char) - 65 + shift) % 26 + 65) else: cipher_text += chr((ord(char) - 97 + shift) % 26 + 97) key_index += 1 else: cipher_text += char return {"lookup_table": lookup_table, "cipher_text": cipher_text} plain_text = "learning from mistakes is the best way to improve" key = "Benchmark" print(vigenere_cipher(plain_text, key)) ``` Output: ```Python {'lookup_table': {}, 'cipher_text': 'lqzgkxuqjwzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkzqkz
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #20
+  cipher_text: a
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #21
+  cipher_text: mzqk pqnqk pqnqk
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #22
+  cipher_text: gurpenffrvmnqzrjvq
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #23
+  cipher_text: c
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #24
+  cipher_text: kndmnrddennrdd
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #25
+  cipher_text: GHIHJKLMNOP
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+--- Summary for file: 20250109_130350.json ---
+Total records processed: 25
+
+Weighted Levenshtein Error Rate (File-level):  0.0000
+Weighted Character Error Rate (File-level):    0.0000
+Weighted Word Accuracy (File-level, k=2):     0.0000
+Average Sentence Accuracy (File-level):        0.0000
+Average Word Accuracy (File-level, unweighted): 0.0000
+
+File-level totals:
+  total_characters_in_gold_label: 0
+  total_matched_characters:       0
+  total_words_in_gold_label:      0
+  total_matched_words:            0
+==========================================
+
+=== Processing file: 20250109_133426.json ===
+Model name: , Shift: Benchmark, Prompt Type: default_8B-Instruct, Temperature: , Max Token: 
+
+Record #1
+  cipher_text: HRRIKVSJTULORZ
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #2
+  cipher_text: p
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #3
+  cipher_text: Encode the following text using a Vigenère cipher with the key 'Benchmark'. plain text: chasing your dreams is the best thing that can happen to you encoded text: (Note: The Vigenère cipher is a polyalphabetic substitution cipher that uses a keyword to encrypt and decrypt the text. The keyword is repeated to match the length of the plaintext, and each letter of the plaintext is shifted by the corresponding letter of the keyword. The shift is done by adding the ASCII values of the two letters and taking the remainder modulo 26 to get the new letter.) Here is the Python code to solve this problem: ```Python def vigenere_cipher(plain_text, key): encoded_text = "" key_index = 0 for char in plain_text: if char.isalpha(): ascii_offset = 65 if char.isupper() else 97 encoded_char = chr((ord(char) - ascii_offset + ord(key[key_index % len(key)].upper()) - 65) % 26 + ascii_offset) encoded_text += encoded_char key_index += 1 else: encoded_text += char return encoded_text plain_text = "chasing your dreams is the best thing that can happen to you" key = "Benchmark" encoded_text = vigenere_cipher(plain_text, key) print(encoded_text) ``` When you run this code, it will output the encoded text. You can copy and paste this output into the answer box. Note: The Vigenère cipher is a polyalphabetic substitution cipher that uses a keyword to encrypt and decrypt the text. The keyword is repeated to match the length of the plaintext, and each letter of the plaintext is shifted by the corresponding letter of the keyword. The shift is done by adding the ASCII values of the two letters and taking the remainder modulo 26 to get the new letter. The Python code provided above uses this algorithm to encode the given plaintext using the key 'Benchmark'. The encoded text is then printed to the console. You can copy and paste this output into the answer box. Please note that the Vigenère cipher is a relatively weak cipher and should not be used for sensitive or confidential information. It is primarily used for educational purposes or as a simple encryption technique for non-sensitive data. Also, the key 'Benchmark' is used to encode the plaintext. You can use any other key to encode the plaintext, but the output will be different. The output of the Python code will be the encoded text, which is the answer to this problem. You can copy and paste this output into the answer box. I hope this helps! Let me know if you have any further questions. Best regards, [Your Name] ```Python ``` The output of the Python code is the encoded text, which is the answer to this problem. You can copy and paste this output into the answer box. Here is the output of the Python code: ``` Gurpenml xrl vf zl frperg cbfg bs gur pbqr bs gur yvtugf ``` This is the encoded text using the Vigenère cipher with the key 'Benchmark'. You can copy and paste this output into the answer box. I hope this helps! Let me know if you have any further questions. Best regards, [Your Name] Please note that the Vigenère cipher is a relatively weak cipher and should not be used for sensitive or confidential information. It is primarily used for educational purposes or as a simple encryption technique for non-sensitive data. Also, the key 'Benchmark' is used to encode the plaintext. You can use any other key to encode the plaintext, but the output will be different. I hope this helps! Let me know if you have any further questions. Best regards, [Your Name] Please let me know if you have any further questions or if there is anything else I can help you with. Best regards, [Your Name] I hope this helps! Let me know if you have any further questions. Best regards, [Your Name] Please let me know if you have any further questions or if there is anything else I can help you with. Best regards, [Your Name] I hope this helps! Let me know if you have any further questions. Best regards, [Your Name] Please let me know if you have any further questions or if there is anything else I can help you with. Best regards, [Your Name] I hope this helps! Let me know if you have any further questions. Best regards, [Your Name] Please let me know if you have any further questions or if there is anything else I can help you with. Best regards, [Your Name] I hope this helps! Let me know if you have any further questions. Best regards, [Your Name] Please let me know if you have any further questions or if there is anything else I can help you with. Best regards, [Your Name] I hope this helps! Let me know if you have any further questions. Best regards, [Your Name] Please let me know if you have any further questions or if there is anything else I can help you with. Best regards, [Your Name] I hope this helps! Let me know if you have any further questions. Best regards, [Your Name] Please let me know if you have any further questions or if there is anything else I can help you with. Best regards, [Your Name] I hope this helps! Let me know if you have any further questions. Best regards, [Your Name] Please let me know if you have any further questions or if there is anything else I can help you with. Best regards, [Your Name] I hope this helps! Let me know if you have any further questions. Best regards, [Your Name] Please let me know if you have any further questions or if there is anything else I can help you with. Best regards, [Your Name] I hope this helps! Let me know if you have any further questions. Best regards, [Your Name] Please let me know if you have any further questions or if there is anything else I can help you with. Best regards, [Your Name] I hope this helps! Let me know if you have any further questions. Best regards, [Your Name] Please let me know if you have any further questions or if there is anything else I can help you with. Best regards, [Your Name] I hope this helps! Let me know if you have any further questions. Best regards, [Your Name] Please let me know if you have any further questions or if there is anything else I can help you with. Best regards, [Your Name] I hope this helps! Let me know if you have any further questions. Best regards, [Your Name] Please let me know if you have any further questions or if there is anything else I can help you with. Best regards, [Your Name] I hope this helps! Let me know if you have any further questions. Best regards, [Your Name] Please let me know if you have any further questions or if there is anything else I can help you with. Best regards, [Your Name] I hope this helps! Let me know if you have any further questions. Best regards, [Your Name] Please let me know if you have any further questions or if there is anything else I can help you with. Best regards, [Your Name] I hope this helps! Let me know if you have any further questions. Best regards, [Your Name] Please let me know if you have any further questions or if there is anything else I can help you with. Best regards, [Your Name] I hope this helps! Let me know if you have any further questions. Best regards, [Your Name] Please let me know if you have any further questions or if there is anything else I can help you with. Best regards, [Your Name] I hope this helps! Let me know if you have any further questions. Best regards, [Your Name] Please let me know if you have any further questions or if there is anything else I can help you with. Best regards, [Your Name] I hope this helps! Let me know if you have any further questions. Best regards, [Your Name] Please let me know if you have any further questions or if there is anything else I can help you with. Best regards, [Your Name] I hope this helps! Let me know if you have any further questions. Best regards, [Your Name] Please let me know if you have any further questions or if there is anything else I can help you with. Best regards, [Your Name] I hope this helps! Let me know if you have any further questions. Best regards, [Your Name] Please let me know if you have any further questions or if there is anything else I can help you with. Best regards, [Your Name] I hope this helps! Let me know if you have any further questions. Best regards, [Your Name] Please let me know if you have any further questions or if there is anything else I can help you with. Best regards, [Your Name] I hope this helps! Let me know if you have any further questions. Best regards,
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #4
+  cipher_text: GZLQJ
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #5
+  cipher_text: Encode the following text using a Vigenère cipher with the key 'Benchmark'. plain text: finding peace within encoded text: Note: The Vigenère cipher is a polyalphabetic substitution cipher that uses a keyword to encrypt and decrypt the text. The keyword is repeated to match the length of the plaintext, and each letter of the plaintext is shifted by the corresponding letter of the keyword. The shift is done by adding the ASCII values of the letters, wrapping around to the beginning of the alphabet if necessary. In this case, the key is 'Benchmark', which is repeated to match the length of the plaintext 'finding peace within'. The encoded text is the result of applying the Vigenère cipher to the plaintext using the key. Here is the Python code to encode the text: ```python def vigenere_cipher(plain_text, key): encoded_text = '' key_index = 0 for char in plain_text: if char.isalpha(): ascii_offset = 65 if char.isupper() else 97 encoded_char = chr((ord(char) - ascii_offset + ord(key[key_index % len(key)].upper()) - 65) % 26 + ascii_offset) encoded_text += encoded_char key_index += 1 else: encoded_text += char return encoded_text plain_text = 'finding peace within' key = 'Benchmark' encoded_text = vigenere_cipher(plain_text, key) print(encoded_text) ``` When you run this code, it will output the encoded text. You can use this code to encode and decode text using the Vigenère cipher. Note that the Vigenère cipher is not secure for encrypting sensitive information, as it can be broken using frequency analysis and other techniques. It is mainly used for educational purposes or as a simple encryption method for non-sensitive information. Also, the key 'Benchmark' is repeated to match the length of the plaintext 'finding peace within'. If the key is shorter than the plaintext, it will be repeated. If the key is longer than the plaintext, it will be truncated to match the length of the plaintext. You can modify the code to use a different key or to encode and decode text using a different encryption method. I hope this helps! Let me know if you have any questions or need further assistance. Best regards, [Your Name] Please let me know if you have any questions or need further assistance. I'll be happy to help. Best regards, [Your Name] ```python def vigenere_cipher(plain_text, key): encoded_text = '' key_index = 0 for char in plain_text: if char.isalpha(): ascii_offset = 65 if char.isupper() else 97 encoded_char = chr((ord(char) - ascii_offset + ord(key[key_index % len(key)].upper()) - 65) % 26 + ascii_offset) encoded_text += encoded_char key_index += 1 else: encoded_text += char return encoded_text plain_text = 'finding peace within' key = 'Benchmark' encoded_text = vigenere_cipher(plain_text, key) print(encoded_text) ``` When you run this code, it will output the encoded text. You can use this code to encode and decode text using the Vigenère cipher. Note that the Vigenère cipher is not secure for encrypting sensitive information, as it can be broken using frequency analysis and other techniques. It is mainly used for educational purposes or as a simple encryption method for non-sensitive information. Also, the key 'Benchmark' is repeated to match the length of the plaintext 'finding peace within'. If the key is shorter than the plaintext, it will be repeated. If the key is longer than the plaintext, it will be truncated to match the length of the plaintext. You can modify the code to use a different key or to encode and decode text using a different encryption method. I hope this helps! Let me know if you have any questions or need further assistance. Best regards, [Your Name] Please let me know if you have any questions or need further assistance. I'll be happy to help. Best regards, [Your Name] ```python def vigenere_cipher(plain_text, key): encoded_text = '' key_index = 0 for char in plain_text: if char.isalpha(): ascii_offset = 65 if char.isupper() else 97 encoded_char = chr((ord(char) - ascii_offset + ord(key[key_index % len(key)].upper()) - 65) % 26 + ascii_offset) encoded_text += encoded_char key_index += 1 else: encoded_text += char return encoded_text plain_text = 'finding peace within' key = 'Benchmark' encoded_text = vigenere_cipher(plain_text, key) print(encoded_text) ``` When you run this code, it will output the encoded text. You can use this code to encode and decode text using the Vigenère cipher. Note that the Vigenère cipher is not secure for encrypting sensitive information, as it can be broken using frequency analysis and other techniques. It is mainly used for educational purposes or as a simple encryption method for non-sensitive information. Also, the key 'Benchmark' is repeated to match the length of the plaintext 'finding peace within'. If the key is shorter than the plaintext, it will be repeated. If the key is longer than the plaintext, it will be truncated to match the length of the plaintext. You can modify the code to use a different key or to encode and decode text using a different encryption method. I hope this helps! Let me know if you have any questions or need further assistance. Best regards, [Your Name] Please let me know if you have any questions or need further assistance. I'll be happy to help. Best regards, [Your Name] ```python def vigenere_cipher(plain_text, key): encoded_text = '' key_index = 0 for char in plain_text: if char.isalpha(): ascii_offset = 65 if char.isupper() else 97 encoded_char = chr((ord(char) - ascii_offset + ord(key[key_index % len(key)].upper()) - 65) % 26 + ascii_offset) encoded_text += encoded_char key_index += 1 else: encoded_text += char return encoded_text plain_text = 'finding peace within' key = 'Benchmark' encoded_text = vigenere_cipher(plain_text, key) print(encoded_text) ``` When you run this code, it will output the encoded text. You can use this code to encode and decode text using the Vigenère cipher. Note that the Vigenère cipher is not secure for encrypting sensitive information, as it can be broken using frequency analysis and other techniques. It is mainly used for educational purposes or as a simple encryption method for non-sensitive information. Also, the key 'Benchmark' is repeated to match the length of the plaintext 'finding peace within'. If the key is shorter than the plaintext, it will be repeated. If the key is longer than the plaintext, it will be truncated to match the length of the plaintext. You can modify the code to use a different key or to encode and decode text using a different encryption method. I hope this helps! Let me know if you have any questions or need further assistance. Best regards, [Your Name] Please let me know if you have any questions or need further assistance. I'll be happy to help. Best regards, [Your Name] ```python def vigenere_cipher(plain_text, key): encoded_text = '' key_index = 0 for char in plain_text: if char.isalpha(): ascii_offset = 65 if char.isupper() else 97 encoded_char = chr((ord(char) - ascii_offset + ord(key[key_index % len(key)].upper()) - 65) % 26 + ascii_offset) encoded_text += encoded_char key_index += 1 else: encoded_text += char return encoded_text plain_text = 'finding peace within' key = 'Benchmark' encoded_text = vigenere_cipher(plain_text, key) print(encoded_text) ``` When you run this code, it will output the encoded text. You can use this code to encode and decode text using the Vigenère cipher. Note that the Vigenère cipher is not secure for encrypting sensitive information, as it can be broken using frequency analysis and other techniques. It is mainly used for educational purposes or as a simple encryption method for non-sensitive information. Also, the key 'Benchmark' is repeated to match the length of the plaintext 'finding peace within'. If the key is shorter than the plaintext, it will be repeated. If the key is longer than the plaintext, it will be truncated to match the length of the plaintext. You can modify the code to use a different key or to encode and decode text using a different encryption method. I hope this helps! Let me know if you have any questions or need further assistance. Best regards, [Your Name] Please let me know if you have any questions or need further assistance. I'll be happy to help. Best regards, [Your Name] ```python def vigenere_cipher(plain_text, key): encoded_text = '' key_index = 0 for char in plain_text: if char.isalpha(): ascii_offset = 65 if char.isupper() else 97 encoded_char = chr((ord
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #6
+  cipher_text: Bajhnsiufjctnfe
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #7
+  cipher_text: v
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #8
+  cipher_text: Benchmark
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #9
+  cipher_text: toa
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #10
+  cipher_text: 15
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #11
+  cipher_text: DKRT
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #12
+  cipher_text: VWPQAIAGGKFSLQCGQLFCG
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #13
+  cipher_text: CHKLQFVRLILWFXQSFV
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #14
+  cipher_text: ord
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #15
+  cipher_text: G
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #16
+  cipher_text: Encode the following text using a Vigenère cipher with the key 'Benchmark'. plain text: kindness costs nothing encoded text: Hint: The Vigenère cipher is a polyalphabetic substitution cipher that uses a keyword to encrypt and decrypt the text. The keyword is repeated to match the length of the plaintext, and each letter of the plaintext is shifted by the corresponding letter of the keyword. The shift is done by adding the ASCII values of the letters, taking the result modulo 26, and then converting the result back to a letter. Here is the Python code to solve this problem: ```python def vigenere_cipher(plain_text, key): encoded_text = "" key_index = 0 for char in plain_text: if char.isalpha(): ascii_offset = 65 if char.isupper() else 97 shift = ord(key[key_index % len(key)].upper()) - ascii_offset encoded_char = chr((ord(char) - ascii_offset + shift) % 26 + ascii_offset) encoded_text += encoded_char key_index += 1 else: encoded_text += char return encoded_text plain_text = "kindness costs nothing" key = "Benchmark" encoded_text = vigenere_cipher(plain_text, key) print(encoded_text) ``` When you run this code, it will output the encoded text. You can copy and paste the output into the answer box.
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #17
+  cipher_text: Encode the following text using a Vigenère cipher with the key 'Benchmark'. plain text: a friend in need is a friend indeed encoded text:? Solution: To encode the text using a Vigenère cipher, we need to replace each letter with the letter a fixed number of positions down the alphabet. The number of positions is determined by the corresponding letter in the key. Here's the step-by-step process: 1. Convert the plain text to uppercase: A FRIEND IN NEED IS A FRIEND INDEED 2. Convert the key to uppercase: BENCHMARK 3. Repeat the key to match the length of the plain text: BENCHMARKBENCHMARK 4. For each letter in the plain text, find the corresponding letter in the key and add the position of the letter in the alphabet to the position of the letter in the plain text. If the result is greater than 26, subtract 26. Here's the encoded text: A (1) + B (2) = D (3) F (6) + E (5) = J (11) R (18) + N (14) = V (22) E (5) + C (3) = H (8) N (14) + H (8) = Q (22) D (3) + M (13) = O (15) ( space ) + ( space ) = ( space ) I (9) + E (5) = M (14) N (14) + C (3) = O (15) N (14) + H (8) = Q (22) E (5) + E (5) = J (11) E (5) + D (3) = H (8) E (5) + E (5) = J (11) D (3) + E (5) = H (8) E (5) + C (3) = H (8) E (5) + H (8) = K (11) E (5) + E (5) = J (11) E (5) + D (3) = H (8) E (5) + E (5) = J (11) E (5) + C (3) = H (8) E (5) + H (8) = K (11) E (5) + E (5) = J (11) E (5) + D (3) = H (8) E (5) + E (5) = J (11) E (5) + C (3) = H (8) E (5) + H (8) = K (11) E (5) + E (5) = J (11) E (5) + D (3) = H (8) E (5) + E (5) = J (11) E (5) + C (3) = H (8) E (5) + H (8) = K (11) E (5) + E (5) = J (11) E (5) + D (3) = H (8) E (5) + E (5) = J (11) E (5) + C (3) = H (8) E (5) + H (8) = K (11) E (5) + E (5) = J (11) E (5) + D (3) = H (8) E (5) + E (5) = J (11) E (5) + C (3) = H (8) E (5) + H (8) = K (11) E (5) + E (5) = J (11) E (5) + D (3) = H (8) E (5) + E (5) = J (11) E (5) + C (3) = H (8) E (5) + H (8) = K (11) E (5) + E (5) = J (11) E (5) + D (3) = H (8) E (5) + E (5) = J (11) E (5) + C (3) = H (8) E (5) + H (8) = K (11) E (5) + E (5) = J (11) E (5) + D (3) = H (8) E (5) + E (5) = J (11) E (5) + C (3) = H (8) E (5) + H (8) = K (11) E (5) + E (5) = J (11) E (5) + D (3) = H (8) E (5) + E (5) = J (11) E (5) + C (3) = H (8) E (5) + H (8) = K (11) E (5) + E (5) = J (11) E (5) + D (3) = H (8) E (5) + E (5) = J (11) E (5) + C (3) = H (8) E (5) + H (8) = K (11) E (5) + E (5) = J (11) E (5) + D (3) = H (8) E (5) + E (5) = J (11) E (5) + C (3) = H (8) E (5) + H (8) = K (11) E (5) + E (5) = J (11) E (5) + D (3) = H (8) E (5) + E (5) = J (11) E (5) + C (3) = H (8) E (5) + H (8) = K (11) E (5) + E (5) = J (11) E (5) + D (3) = H (8) E (5) + E (5) = J (11) E (5) + C (3) = H (8) E (5) + H (8) = K (11) E (5) + E (5) = J (11) E (5) + D (3) = H (8) E (5) + E (5) = J (11) E (5) + C (3) = H (8) E (5) + H (8) = K (11) E (5) + E (5) = J (11) E (5) + D (3) = H (8) E (5) + E (5) = J (11) E (5) + C (3) = H (8) E (5) + H (8) = K (11) E (5) + E (5) = J (11) E (5) + D (3) = H (8) E (5) + E (5) = J (11) E (5) + C (3) = H (8) E (5) + H (8) = K (11) E (5) + E (5) = J (11) E (5) + D (3) = H (8) E (5) + E (5) = J (11) E (5) + C (3) = H (8) E (5) + H (8) = K (11) E (5) + E (5) = J (11) E (5) + D (3) = H (8) E (5) + E (5) = J (11) E (5) + C (3) = H (8) E (5) + H (8) = K (11) E (5) + E (5) = J (11) E (5) + D (3) = H (8) E (5) + E (5) = J (11) E (5) + C (3) = H (8) E (5) + H (8) = K (11) E (5) + E (5) = J (11) E (5) + D (3) = H (8) E (5) + E (5) = J (11) E (5) + C (3) = H (8) E (5) + H (8) = K (11) E (5) + E (5) = J (11) E (5) + D (3) = H (8) E (5) + E (5) = J (11) E (5) + C (3) = H (8) E (5) + H (8) = K (11) E (5) + E (5) = J (11) E (5) + D (3) = H (8) E (5) + E (5) = J (11) E (5) + C (3) = H (8) E (5) + H (8) = K (11) E (5) + E (5) = J (11) E (5) + D (3) = H (8) E (5) + E (5) = J (11) E (5) + C (3) = H (8) E (5) + H (8) = K (11) E (5) + E (5) = J (11) E (5) + D (3) = H (8)
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #18
+  cipher_text: Encode the following text using a Vigenère cipher with the key 'Benchmark'. plain text: believe in the future encoded text: Note: The Vigenère cipher is a polyalphabetic substitution cipher that uses a keyword to encrypt and decrypt the text. The keyword is repeated to match the length of the plaintext, and each letter of the plaintext is shifted by the corresponding letter of the keyword. The shift is done by adding the ASCII values of the plaintext and keyword letters, and taking the result modulo 26 to get the encrypted letter. In this case, the key is 'Benchmark', which is repeated to match the length of the plaintext. The encrypted text is the result of shifting each letter of the plaintext by the corresponding letter of the key. Here is the Python code to perform the encryption: ```python def vigenere_cipher(plain_text, key): key = key * (len(plain_text) // len(key)) + key[:len(plain_text) % len(key)] cipher_text = '' for i in range(len(plain_text)): plain_char = plain_text[i] key_char = key[i] shift = ord(key_char) - 97 cipher_char = chr((ord(plain_char) - 97 + shift) % 26 + 97) cipher_text += cipher_char return cipher_text plain_text = 'believe in the future' key = 'Benchmark' encoded_text = vigenere_cipher(plain_text, key) print(encoded_text) ``` When you run this code, it will output the encoded text. You can copy and paste the output into the answer. Note: The Vigenère cipher is a polyalphabetic substitution cipher that uses a keyword to encrypt and decrypt the text. The keyword is repeated to match the length of the plaintext, and each letter of the plaintext is shifted by the corresponding letter of the keyword. The shift is done by adding the ASCII values of the plaintext and keyword letters, and taking the result modulo 26 to get the encrypted letter. In this case, the key is 'Benchmark', which is repeated to match the length of the plaintext. The encrypted text is the result of shifting each letter of the plaintext by the corresponding letter of the key. Here is the Python code to perform the encryption: ```python def vigenere_cipher(plain_text, key): key = key * (len(plain_text) // len(key)) + key[:len(plain_text) % len(key)] cipher_text = '' for i in range(len(plain_text)): plain_char = plain_text[i] key_char = key[i] shift = ord(key_char) - 97 cipher_char = chr((ord(plain_char) - 97 + shift) % 26 + 97) cipher_text += cipher_char return cipher_text plain_text = 'believe in the future' key = 'Benchmark' encoded_text = vigenere_cipher(plain_text, key) print(encoded_text) ``` When you run this code, it will output the encoded text. You can copy and paste the output into the answer. The output of the code is: `gurpenml xrl vf zl frperg` This is the encoded text using the Vigenère cipher with the key 'Benchmark'. Note: The Vigenère cipher is a polyalphabetic substitution cipher that uses a keyword to encrypt and decrypt the text. The keyword is repeated to match the length of the plaintext, and each letter of the plaintext is shifted by the corresponding letter of the keyword. The shift is done by adding the ASCII values of the plaintext and keyword letters, and taking the result modulo 26 to get the encrypted letter. In this case, the key is 'Benchmark', which is repeated to match the length of the plaintext. The encrypted text is the result of shifting each letter of the plaintext by the corresponding letter of the key. Here is the Python code to perform the encryption: ```python def vigenere_cipher(plain_text, key): key = key * (len(plain_text) // len(key)) + key[:len(plain_text) % len(key)] cipher_text = '' for i in range(len(plain_text)): plain_char = plain_text[i] key_char = key[i] shift = ord(key_char) - 97 cipher_char = chr((ord(plain_char) - 97 + shift) % 26 + 97) cipher_text += cipher_char return cipher_text plain_text = 'believe in the future' key = 'Benchmark' encoded_text = vigenere_cipher(plain_text, key) print(encoded_text) ``` When you run this code, it will output the encoded text. You can copy and paste the output into the answer. The output of the code is: `gurpenml xrl vf zl frperg` This is the encoded text using the Vigenère cipher with the key 'Benchmark'. Note: The Vigenère cipher is a polyalphabetic substitution cipher that uses a keyword to encrypt and decrypt the text. The keyword is repeated to match the length of the plaintext, and each letter of the plaintext is shifted by the corresponding letter of the keyword. The shift is done by adding the ASCII values of the plaintext and keyword letters, and taking the result modulo 26 to get the encrypted letter. In this case, the key is 'Benchmark', which is repeated to match the length of the plaintext. The encrypted text is the result of shifting each letter of the plaintext by the corresponding letter of the key. Here is the Python code to perform the encryption: ```python def vigenere_cipher(plain_text, key): key = key * (len(plain_text) // len(key)) + key[:len(plain_text) % len(key)] cipher_text = '' for i in range(len(plain_text)): plain_char = plain_text[i] key_char = key[i] shift = ord(key_char) - 97 cipher_char = chr((ord(plain_char) - 97 + shift) % 26 + 97) cipher_text += cipher_char return cipher_text plain_text = 'believe in the future' key = 'Benchmark' encoded_text = vigenere_cipher(plain_text, key) print(encoded_text) ``` When you run this code, it will output the encoded text. You can copy and paste the output into the answer. The output of the code is: `gurpenml xrl vf zl frperg` This is the encoded text using the Vigenère cipher with the key 'Benchmark'. Note: The Vigenère cipher is a polyalphabetic substitution cipher that uses a keyword to encrypt and decrypt the text. The keyword is repeated to match the length of the plaintext, and each letter of the plaintext is shifted by the corresponding letter of the keyword. The shift is done by adding the ASCII values of the plaintext and keyword letters, and taking the result modulo 26 to get the encrypted letter. In this case, the key is 'Benchmark', which is repeated to match the length of the plaintext. The encrypted text is the result of shifting each letter of the plaintext by the corresponding letter of the key. Here is the Python code to perform the encryption: ```python def vigenere_cipher(plain_text, key): key = key * (len(plain_text) // len(key)) + key[:len(plain_text) % len(key)] cipher_text = '' for i in range(len(plain_text)): plain_char = plain_text[i] key_char = key[i] shift = ord(key_char) - 97 cipher_char = chr((ord(plain_char) - 97 + shift) % 26 + 97) cipher_text += cipher_char return cipher_text plain_text = 'believe in the future' key = 'Benchmark' encoded_text = vigenere_cipher(plain_text, key) print(encoded_text) ``` When you run this code, it will output the encoded text. You can copy and paste the output into the answer. The output of the code is: `gurpenml xrl vf zl frperg` This is the encoded text using the Vigenère cipher with the key 'Benchmark'. Note: The Vigenère cipher is a polyalphabetic substitution cipher that uses a keyword to encrypt and decrypt the text. The keyword is repeated to match the length of the plaintext, and each letter of the plaintext is shifted by the corresponding letter of the keyword. The shift is done by adding the ASCII values of the plaintext and keyword letters, and taking the result modulo 26 to get the encrypted letter. In this case, the key is 'Benchmark', which is repeated to match the length of the plaintext. The encrypted text is the result of shifting each letter of the plaintext by the corresponding letter of the key. Here is the Python code to perform the encryption: ```python def vigenere_cipher(plain_text, key): key = key * (len(plain_text) // len(key)) + key[:len(plain_text) % len(key)] cipher_text = '' for i in range(len(plain_text)): plain_char = plain_text[i] key_char = key[i] shift = ord(key_char) - 97 cipher_char = chr((ord(plain_char) - 97 + shift) % 26 + 97) cipher_text += cipher_char return cipher_text plain_text = 'believe in the future' key = 'Benchmark' encoded_text = vigenere_cipher(plain_text, key) print(encoded_text) ``` When you run this code, it will output the encoded text. You can copy
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #19
+  cipher_text: 12
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #20
+  cipher_text: DKJGYRTIUUE
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #21
+  cipher_text: 9
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #22
+  cipher_text: Encode the following text using a Vigenère cipher with the key 'Benchmark'. plain text: appreciate the small things in life encoded text: (Note: I'll provide the encoded text once you've attempted to encode it yourself. Don't worry if it's incorrect, I'll guide you through the process.) Hint: The Vigenère cipher is a polyalphabetic substitution cipher. It uses a keyword to determine the shift for each letter in the plaintext. In this case, the keyword is 'Benchmark'. You can use a Vigenère square or a online tool to help you encode the text. Good luck!
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #23
+  cipher_text: SVVVWTXXVVWXXVW
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #24
+  cipher_text: nrvs
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #25
+  cipher_text: N
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+--- Summary for file: 20250109_133426.json ---
+Total records processed: 25
+
+Weighted Levenshtein Error Rate (File-level):  0.0000
+Weighted Character Error Rate (File-level):    0.0000
+Weighted Word Accuracy (File-level, k=2):     0.0000
+Average Sentence Accuracy (File-level):        0.0000
+Average Word Accuracy (File-level, unweighted): 0.0000
+
+File-level totals:
+  total_characters_in_gold_label: 0
+  total_matched_characters:       0
+  total_words_in_gold_label:      0
+  total_matched_words:            0
+==========================================
+
+=== Processing file: 20250109_095743.json ===
+Model name: , Shift: Benchmark, Prompt Type: default_70B-Instruct, Temperature: , Max Token: 
+
+Record #1
+  cipher_text: I
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #2
+  cipher_text: g
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #3
+  cipher_text: c
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #4
+  cipher_text: w
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #5
+  cipher_text: hkjxqtwkxhiknqxi
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #6
+  cipher_text: Cipher
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #7
+  cipher_text: S
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #8
+  cipher_text: G
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #9
+  cipher_text: UKJZPJBXXUSYVWVH
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #10
+  cipher_text: GQTVKUQTVKU
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #11
+  cipher_text: ENSKRVZKYBGRWNPNVSX
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #12
+  cipher_text: GVVRRNNG
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #13
+  cipher_text: G
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #14
+  cipher_text: GFWLRYQVHZLQVHZLQVHZLQ
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #15
+  cipher_text: GZXLWVHPCDHWLREVM
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #16
+  cipher_text: mjqhjfwfqjxjfqjxjfqj
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #17
+  cipher_text: Encode the following text using a Vigenère cipher with the key 'Benchmark'. plain text: a friend in need is a friend indeed cipher text:? Note: The Vigenère cipher is a polyalphabetic substitution cipher that uses a keyword to determine the substitution for each letter. The cipher text is obtained by adding the corresponding letters of the plain text and the key (repeated as necessary) modulo to the alphabet size (26 in this case). Solution: To encode the plain text using a Vigenère cipher with the key 'Benchmark', we need to repeat the key to match the length of the plain text. The repeated key is 'BenchmarkBenchmarkBenchmark'. Then, to encode each letter of the plain text, to the corresponding letter of the cipher text, to add the corresponding letters of the plain text and the key modulo to the alphabet size (26 in this case). Here is the step-by-step encoding process: a (plain text) + B (key) = G (cipher text) f (plain text) + B (key) = O (cipher text) r (plain text) + E (key) = Y (cipher text) i (plain text) + N (key) = C (cipher text) e (plain text) + C (key) = H (cipher text) n (plain text) + H (key) = K (cipher text) d (plain text) + B (key) = O (cipher text) i (plain text) + E (key) = C (cipher text) n (plain text) + N (key) = O (cipher text) e (plain text) + C (key) = H (cipher text) e (plain text) + H (key) = K (cipher text) d (plain text) + B (key) = O (cipher text) i (plain text) + E (key) = C (cipher text) n (plain text) + N (key) = O (cipher text) e (plain text) + C (key) = H (cipher text) e (plain text) + H (key) = K (cipher text) d (plain text) + B (key) = O (cipher text) The cipher text is: GOYCHKOOCYCHKOOCYCHKOOCYCHK. Note: The Vigenère cipher is a polyalphabetic substitution cipher that uses a keyword to determine the substitution for each letter. The cipher text is obtained by adding the corresponding letters of the plain text and the key (repeated as necessary) modulo to the alphabet size (26 in this case).
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #18
+  cipher_text: GURPENHMKRUT
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #19
+  cipher_text: M
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #20
+  cipher_text: 0
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #21
+  cipher_text: NSHSKWXNWZCPY
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #22
+  cipher_text: GURPENWKVTPXZQXWU
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #23
+  cipher_text: GKN
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #24
+  cipher_text: h
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #25
+  cipher_text: GTXOWJPNCLRHAC
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+--- Summary for file: 20250109_095743.json ---
+Total records processed: 25
+
+Weighted Levenshtein Error Rate (File-level):  0.0000
+Weighted Character Error Rate (File-level):    0.0000
+Weighted Word Accuracy (File-level, k=2):     0.0000
+Average Sentence Accuracy (File-level):        0.0000
+Average Word Accuracy (File-level, unweighted): 0.0000
+
+File-level totals:
+  total_characters_in_gold_label: 0
+  total_matched_characters:       0
+  total_words_in_gold_label:      0
+  total_matched_words:            0
+==========================================
+
+=== Processing file: 20250109_192717.json ===
+Model name: , Shift: Benchmark, Prompt Type: base_models--mistralai--Mixtral-8x7B-Instruct-v0.1, Temperature: , Max Token: 
+
+Record #1
+  cipher_text: Encode the following text using a Vigenère cipher with the key 'Benchmark'. Output the cipher text only. plain text: good deeds bring joy The Vigenère cipher is a method of encrypting alphabetic text by using a series of interwoven Caesar ciphers, based on the letters of a keyword. It uses a form of polyalphabetic substitution. To encrypt a message using a
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #2
+  cipher_text: Encode the following text using a Vigenère cipher with the key 'Benchmark'. Output the cipher text only. plain text: embrace the unknown Answer: To encrypt the given plain text using a Vigenère cipher with the key 'Benchmark', we first need to convert both the plain text and the key into a sequence of numbers. In this case, let's use A=0, B=1, ...
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #3
+  cipher_text: Encode the following text using a Vigenère cipher with the key 'Benchmark'. Output the cipher text only. plain text: chasing your dreams Answer: To encode the given plain text using a Vigenère cipher with the key 'Benchmark', we first repeat the key to match the length of the plain text: plain text: chasing your dreams key: BenchmarkBench Now, we
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #4
+  cipher_text: Encode the following text using a Vigenère cipher with the key 'Benchmark'. Output the cipher text only. plain text: walk in someone else’s shoes The Vigenère cipher is a method of encrypting alphabetic text by using a series of interwoven Caesar ciphers, based on the letters of a keyword. It is a simple form of polyalphabetic substitution. To encrypt text with a
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #5
+  cipher_text: Encode the following text using a Vigenère cipher with the key 'Benchmark'. Output the cipher text only. plain text: finding peace within yourself The Vigenère cipher is a method of encrypting alphabetic text by using a series of interwoven Caesar ciphers, based on the letters of a keyword. It is a simple form of polyalphabetic substitution. To encrypt text with
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #6
+  cipher_text: lx
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #7
+  cipher_text: Encode the following text using a Vigenère cipher with the key 'Benchmark'. Output the cipher text only. plain text: reach for the stars Answer: To encrypt the given plain text using a Vigenère cipher with the key 'Benchmark', we first need to convert both the plain text and the key into a sequence of numbers. In this case, let's use A=0, B=1, ...
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #8
+  cipher_text: Encode the following text using a Vigenère cipher with the key 'Benchmark'. Output the cipher text only. plain text: beauty in simplicity The Vigenère cipher is a method of encrypting alphabetic text by using a series of interwoven Caesar ciphers, based on the letters of a keyword. It uses a form of polyalphabetic substitution. To encrypt a message using the
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #9
+  cipher_text: lqwh
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #10
+  cipher_text: LQDWUDOLVDULHV
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #11
+  cipher_text: xtzqhv
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #12
+  cipher_text: Encode the following text using a Vigenère cipher with the key 'Benchmark'. Output the cipher text only. plain text: turning over a new leaf Answer: To encode the given plain text using a Vigenère cipher with the key 'Benchmark', we first repeat the key to match the length of the plain text: plain text: turning over a new leaf key: BenchmarkBench Now,
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #13
+  cipher_text: Encode the following text using a Vigenère cipher with the key 'Benchmark'. Output the cipher text only. plain text: actions speak louder than words Answer: To encrypt the given plain text using a Vigenère cipher with the key 'Benchmark', we first need to convert both the plain text and the key into a sequence of numbers. In this case, let's use A=0, B=1, ...
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #14
+  cipher_text: Encode the following text using a Vigenère cipher with the key 'Benchmark'. Output the cipher text only. plain text: nurture your relationships The Vigenère cipher is a method of encrypting alphabetic text by using a series of interwoven Caesar ciphers, based on the letters of a keyword. It is a simple form of polyalphabetic substitution. To encrypt text with a
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #15
+  cipher_text: lqxjh
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #16
+  cipher_text: lqdqduwduwduwdxvdwlqj
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #17
+  cipher_text: Encode the following text using a Vigenère cipher with the key 'Benchmark'. Output the cipher text only. plain text: a friend in need is a friend indeed The Vigenère cipher is a method of encrypting alphabetic text by using a series of interwoven Caesar ciphers, based on the letters of a keyword. It uses a form of polyalphabetic substitution. To encrypt text with a V
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #18
+  cipher_text: Encode the following text using a Vigenère cipher with the key 'Benchmark'. Output the cipher text only. plain text: believe in the future of artificial intelligence Answer: To encrypt the given plain text using a Vigenère cipher with the key 'Benchmark', we first need to repeat the key until it matches the length of the plain text: plain text: believe in the future of artificial intelligence key:
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #19
+  cipher_text: Encode the following text using a Vigenère cipher with the key 'Benchmark'. Output the cipher text only. plain text: learning from mistakes Answer: To encrypt the given plain text using a Vigenère cipher with the key 'Benchmark', we first need to convert both the plain text and the key into a sequence of numbers. We can use the ASCII values for this purpose. Plain text
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #20
+  cipher_text: Encode the following text using a Vigenère cipher with the key 'Benchmark'. Output the cipher text only. plain text: a heart full of gratitude Answer: To encrypt the given plain text using a Vigenère cipher with the key 'Benchmark', we first need to convert both the plain text and the key into a sequence of numbers. We can use the ASCII values for this purpose. Plain text
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #21
+  cipher_text: Encode the following text using a Vigenère cipher with the key 'Benchmark'. Output the cipher text only. plain text: love conquers all Answer: To encrypt the plain text using a Vigenère cipher with the key 'Benchmark', we first need to convert both the plain text and the key into a sequence of numbers. In this case, let's use the standard ASCII values for each character.
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #22
+  cipher_text: HXFK
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #23
+  cipher_text: Encode the following text using a Vigenère cipher with the key 'Benchmark'. Output the cipher text only. plain text: change is the only constant Answer: To encrypt the given plain text using a Vigenère cipher with the key 'Benchmark', we first need to convert both the plain text and the key into a sequence of numbers. We can use the ASCII values for this purpose. Plain text
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #24
+  cipher_text: Encode the following text using a Vigenère cipher with the key 'Benchmark'. Output the cipher text only. plain text: hard work pays off Answer: To encrypt the given plain text using a Vigenère cipher with the key 'Benchmark', we first need to convert both the plain text and the key into a sequence of numbers. In this case, let's use A=0, B=1, ...
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #25
+  cipher_text: Encode the following text using a Vigenère cipher with the key 'Benchmark'. Output the cipher text only. plain text: follow your heart Answer: To encode the given plain text using a Vigenère cipher with the key 'Benchmark', we first need to convert both the plain text and the key into a sequence of numbers. In this case, let's use A=0, B=1, ...,
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+--- Summary for file: 20250109_192717.json ---
+Total records processed: 25
+
+Weighted Levenshtein Error Rate (File-level):  0.0000
+Weighted Character Error Rate (File-level):    0.0000
+Weighted Word Accuracy (File-level, k=2):     0.0000
+Average Sentence Accuracy (File-level):        0.0000
+Average Word Accuracy (File-level, unweighted): 0.0000
+
+File-level totals:
+  total_characters_in_gold_label: 0
+  total_matched_characters:       0
+  total_words_in_gold_label:      0
+  total_matched_words:            0
+==========================================
+
+=== Processing file: 20250109_154713.json ===
+Model name: , Shift: Benchmark, Prompt Type: cot-like_models--mistralai--Mistral-7B-Instruct-v0.3, Temperature: , Max Token: 
+
+Record #1
+  cipher_text: a
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #2
+  cipher_text: e
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #3
+  cipher_text: Encode the following text using a Vigenère cipher with the key 'Benchmark'. Output a lookup table and the cipher text in a Python dictionary: {"lookup_table": {}, "cipher_text":...}. Output the dictionary only. plain text: chasing your dreams To create a Vigenère cipher lookup table, we first need to create a table for each possible plaintext character (in this case, lowercase alphabets) and each possible key character. Here's the table for the given key 'Benchmark': | Plaintext | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | U | V | W | X | Y | Z |----------|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #4
+  cipher_text: B
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #5
+  cipher_text: A
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #6
+  cipher_text: mhqjur fhqjur is the best medicine
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #7
+  cipher_text: B
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #8
+  cipher_text: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #9
+  cipher_text: umno ijbk jkx jbwy jnwj
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #10
+  cipher_text: abcdefghijklmnopqrstuvwxyz
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #11
+  cipher_text: ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #12
+  cipher_text: tuvsmsphng pvwdedrs k m lkdedba
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #13
+  cipher_text: a
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #14
+  cipher_text: A
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #15
+  cipher_text: a
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #16
+  cipher_text: bk
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #17
+  cipher_text: a
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #18
+  cipher_text: cflfv if otn lft fuwtr
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #19
+  cipher_text: A
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #20
+  cipher_text: a
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #21
+  cipher_text: mwvj oqjw lq jqw lq jqw
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #22
+  cipher_text: A
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #23
+  cipher_text: A
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #24
+  cipher_text: A
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #25
+  cipher_text: a
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+--- Summary for file: 20250109_154713.json ---
+Total records processed: 25
+
+Weighted Levenshtein Error Rate (File-level):  0.0000
+Weighted Character Error Rate (File-level):    0.0000
+Weighted Word Accuracy (File-level, k=2):     0.0000
+Average Sentence Accuracy (File-level):        0.0000
+Average Word Accuracy (File-level, unweighted): 0.0000
+
+File-level totals:
+  total_characters_in_gold_label: 0
+  total_matched_characters:       0
+  total_words_in_gold_label:      0
+  total_matched_words:            0
+==========================================
+
+=== Processing file: 20250109_154153.json ===
+Model name: , Shift: Benchmark, Prompt Type: base_models--mistralai--Mistral-7B-Instruct-v0.3, Temperature: , Max Token: 
+
+Record #1
+  cipher_text: gjvh
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #2
+  cipher_text: hqjg
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #3
+  cipher_text: hxofxw
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #4
+  cipher_text: wkp
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #5
+  cipher_text: hxjq
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #6
+  cipher_text: lqhqhqhqhqhqhqhqhqhqhqhqhqhqhqhqhqhqhqhqhqhqhqhqhqhqhqhqhq
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #7
+  cipher_text: uifv
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #8
+  cipher_text: bqfv
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #9
+  cipher_text: uifm
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #10
+  cipher_text: uvzq
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #11
+  cipher_text: hxofxqjh
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #12
+  cipher_text: uifvng
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #13
+  cipher_text: bqxj
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #14
+  cipher_text: uifvur
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #15
+  cipher_text: hxofx
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #16
+  cipher_text: lqjx
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #17
+  cipher_text: bqj
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #18
+  cipher_text: bqfvh
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #19
+  cipher_text: lzorng
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #20
+  cipher_text: b
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #21
+  cipher_text: lvov
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #22
+  cipher_text: bqfvqj
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #23
+  cipher_text: hxfoof
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #24
+  cipher_text: hqj
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #25
+  cipher_text: hqjq
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+--- Summary for file: 20250109_154153.json ---
+Total records processed: 25
+
+Weighted Levenshtein Error Rate (File-level):  0.0000
+Weighted Character Error Rate (File-level):    0.0000
+Weighted Word Accuracy (File-level, k=2):     0.0000
+Average Sentence Accuracy (File-level):        0.0000
+Average Word Accuracy (File-level, unweighted): 0.0000
+
+File-level totals:
+  total_characters_in_gold_label: 0
+  total_matched_characters:       0
+  total_words_in_gold_label:      0
+  total_matched_words:            0
+==========================================
+
+=== Processing file: 20250109_162657.json ===
+Model name: , Shift: Benchmark, Prompt Type: default_models--mistralai--Mistral-7B-Instruct-v0.3, Temperature: , Max Token: 
+
+Record #1
+  cipher_text: gjvj
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #2
+  cipher_text: hqjq
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #3
+  cipher_text: hxjqng
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #4
+  cipher_text: wkj
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #5
+  cipher_text: hxjqk
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #6
+  cipher_text: lqjvfr
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #7
+  cipher_text: uvw
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #8
+  cipher_text: bqfv
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #9
+  cipher_text: uifm
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #10
+  cipher_text: uvzq
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #11
+  cipher_text: hxofxqjh
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #12
+  cipher_text: uvzq
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #13
+  cipher_text: bqxzj
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #14
+  cipher_text: uvzq
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #15
+  cipher_text: vzqj
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #16
+  cipher_text: kjnkx
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #17
+  cipher_text: bqj
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #18
+  cipher_text: bqfvjh
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #19
+  cipher_text: lzjhng
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #20
+  cipher_text: bhqj
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #21
+  cipher_text: lvov
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #22
+  cipher_text: bqfvqj
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #23
+  cipher_text: hqjg
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #24
+  cipher_text: hqj
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #25
+  cipher_text: hqjv
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+--- Summary for file: 20250109_162657.json ---
+Total records processed: 25
+
+Weighted Levenshtein Error Rate (File-level):  0.0000
+Weighted Character Error Rate (File-level):    0.0000
+Weighted Word Accuracy (File-level, k=2):     0.0000
+Average Sentence Accuracy (File-level):        0.0000
+Average Word Accuracy (File-level, unweighted): 0.0000
+
+File-level totals:
+  total_characters_in_gold_label: 0
+  total_matched_characters:       0
+  total_words_in_gold_label:      0
+  total_matched_words:            0
+==========================================
+
+=== Processing file: 20250108_131741.json ===
+Model name: , Shift: Benchmark, Prompt Type: base_70B-Instruct, Temperature: , Max Token: 
+
+Record #1
+  cipher_text: GURPENMLFZBUQVJ
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #2
+  cipher_text: GURPENMLFZBUQTGHQ
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #3
+  cipher_text: GURPENMLXVGLRVXE
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #4
+  cipher_text: GUR
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #5
+  cipher_text: GURPENMLFBUZRPXVLFZQVM
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #6
+  cipher_text: GURPENMLXVATRWEOH
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #7
+  cipher_text: GUR
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #8
+  cipher_text: GUR
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #9
+  cipher_text: GURPENMLFZBUAHLUF
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #10
+  cipher_text: GURPENMLFEEVFX
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #11
+  cipher_text: GURPENMLXVATLRLMTEWLG
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #12
+  cipher_text: GURPENMLFEEVFXL
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #13
+  cipher_text: GURPENMLFEOIKWGXFQNKVLGZRP
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #14
+  cipher_text: GURPENMLXVGLRVXEZLWKRMXBWTL
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #15
+  cipher_text: GUR
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #16
+  cipher_text: GURPENMLXVATLRLRWLRXV
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #17
+  cipher_text: GUR
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #18
+  cipher_text: GURPENMLFZBUQVQVGUWRLWFLRV
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #19
+  cipher_text: GURPENMLXVATLQVJWPCLQVJGURPENML
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #20
+  cipher_text: GURPENMLXVATRBLTGXEI
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #21
+  cipher_text: LXFVHVLHVLL
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #22
+  cipher_text: GURPENMLXVGLGXRLWKHFWLRQ
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #23
+  cipher_text: GURPENMLXVATRWEOHKLNF
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #24
+  cipher_text: GUR
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+Record #25
+  cipher_text: GURPENMLXVATLRLT
+  gold_label:  
+  Levenshtein Error Rate: 0.0000
+  Character Error Rate:   0.0000
+  Word Accuracy (record, raw): 0.0000
+  Sentence Accuracy: 0.0000
+  matched_characters: 0
+  gold_characters:    0
+  matched_words:      0
+  gold_words_len:     0
+  Word length (L_i): 0,  k=2,  Weight factor = L_i^k = 0
+  Weighted Word Contribution = 0.00 * 0.0000 = 0.0000
+
+--- Summary for file: 20250108_131741.json ---
+Total records processed: 25
+
+Weighted Levenshtein Error Rate (File-level):  0.0000
+Weighted Character Error Rate (File-level):    0.0000
+Weighted Word Accuracy (File-level, k=2):     0.0000
+Average Sentence Accuracy (File-level):        0.0000
+Average Word Accuracy (File-level, unweighted): 0.0000
+
+File-level totals:
+  total_characters_in_gold_label: 0
+  total_matched_characters:       0
+  total_words_in_gold_label:      0
+  total_matched_words:            0
+==========================================
+
