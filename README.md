@@ -19,7 +19,7 @@ challenging reasoning level beyond their pre-trained knowledge. Our work incorpo
 various configurations and complexity levels. We bring variations in the shift values
 to asses how LLMs can cope with positional entanglement. We further complexify the
 assesment process by defining tasks in different cipher environments such as Caesar
-ciphers, Vigenère ciphers, and multistage transposition ciphers, each adding unique layers
+ciphers and Vigenère ciphers, each adding unique layers
 of complexity that ensure novelty in tasks. By designing such benchmark with novel tasks,
 we evaluate if the model capabilities go beyond their pre-trained knowledge scope and
 generalize their training knowledge on unfamiliar tasks. Furthermore, the consistent,
